@@ -6,7 +6,8 @@ ASSOC_TYPES = {'DiaN': 'Démo in a Nutshell',
                'Expériences': 'Expériences amusantes', 
                'TD': 'Exercices de TD', 
                'Savoir-faire': 'Savoir-faire', 
-               'Pardèf': 'Par définition'}
+               'Pardèf': 'Par définition',
+               'TP': 'Savoir-faire de TP'}
 
 def lecture_chap(fichier):
     DICO = {}
@@ -96,7 +97,11 @@ for matiere in CHAP:
              chaps = list(chapitres.keys())
              print(chaps)
              chaps.sort(key=lambda c: chapitres[c]['Ordre'])
+             bloc = None
              for c in chaps:
+                 if not(bloc) or bloc != chapitres[c]['Bloc']: 
+                    bloc = chapitres[c]['Bloc']
+                    s += '### Bloc {}\n\n'.format(bloc)
                  print(c)
                  s+= generic.format(chapitres[c]['Titre'], matiere, c)
              s += '\n\n'

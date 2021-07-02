@@ -15,6 +15,8 @@ chacun leur playlist. En particulier:
 ## Le détail des chapitres
 
 
+### Bloc Signal
+
 * [Homogénéité et incertitudes](Physique/S0.html) 
 * [Optique géométrique](Physique/S1.html) 
 * [Lentilles minces dans l’approximation de Gauss](Physique/S2.html) 
