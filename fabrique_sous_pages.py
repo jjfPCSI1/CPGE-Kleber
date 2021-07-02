@@ -10,13 +10,16 @@ ASSOC_TYPES = {'DiaN': 'Démo in a Nutshell',
 
 def lecture_chap(fichier):
     DICO = {}
+    ordre = []
     with open(fichier, newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
             numero = row['Numéro']
             titre = row['Titre']
             lien = row['Lien']
-            DICO[numero] = {'Titre': titre, 'Lien': lien}
+            bloc = row['Bloc']
+            ordre= float(row['Ordre'])
+            DICO[numero] = {'Titre': titre, 'Lien': lien, 'Bloc': bloc, 'Ordre': ordre}
         return DICO
 
 def lecture_donnees(fichier):
@@ -75,3 +78,28 @@ def fabrique_page_chapitre(chapitre, matiere='Physique'):
 for matiere in CHAP:
     for chap in CHAP[matiere]:
         fabrique_page_chapitre(chap, matiere)
+
+
+# On fabrique aussi les pages principales de chaque matière en complétant le 
+# fichier .txt déjà présent avec la liste des chapitres disponibles
+
+for matiere in CHAP:
+    mat = matiere.lower()
+    s = ''
+    with open('{}.txt'.format(mat)) as f:
+         for r in f:
+             s += r
+    generic = '* [{}]({}/{}.html) \n'
+    with open('{}.md'.format(mat), 'w') as f:
+        try:
+             chapitres = CHAP[matiere]
+             chaps = list(chapitres.keys())
+             print(chaps)
+             chaps.sort(key=lambda c: chapitres[c]['Ordre'])
+             for c in chaps:
+                 print(c)
+                 s+= generic.format(chapitres[c]['Titre'], matiere, c)
+             s += '\n\n'
+        except : 
+            raise 
+        f.write(s)

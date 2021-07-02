@@ -1,5 +1,5 @@
-Numéro;Titre;Lien
-S0;Homogénéité et incertitudes;https://youtube.com/playlist?list=PLEABsk5Xlyk4xkp9D2tkHUFlQXOvNqofb
-S1;Optique géométrique;https://youtube.com/playlist?list=PLEABsk5Xlyk55tHiTaS2RQT_9vICbHHw0
-S2;Lentilles minces dans l’approximation de Gauss;https://youtube.com/playlist?list=PLEABsk5Xlyk4E5KMpDlhMFYST-GJDf_RI
-S3;Circuits électriques dans le cadre de l’Approximation des Régimes Quasi-Stationnaires (ARQS);https://youtube.com/playlist?list=PLEABsk5Xlyk7SRk1J5RxF_B3YucQqwtiQ
+Numéro;Titre;Lien;Bloc;Ordre
+S0;Homogénéité et incertitudes;https://youtube.com/playlist?list=PLEABsk5Xlyk4xkp9D2tkHUFlQXOvNqofb;Signal;0
+S1;Optique géométrique;https://youtube.com/playlist?list=PLEABsk5Xlyk55tHiTaS2RQT_9vICbHHw0;Signal;1
+S2;Lentilles minces dans l’approximation de Gauss;https://youtube.com/playlist?list=PLEABsk5Xlyk4E5KMpDlhMFYST-GJDf_RI;Signal;2
+S3;Circuits électriques dans le cadre de l’Approximation des Régimes Quasi-Stationnaires (ARQS);https://youtube.com/playlist?list=PLEABsk5Xlyk7SRk1J5RxF_B3YucQqwtiQ;Signal;3
