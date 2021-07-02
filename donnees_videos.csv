@@ -1,7 +1,22 @@
-Type;Matière;Chapitre;Titre;Lien
-DiaN;Physique;S1;Angle de réfraction limite;https://youtu.be/cYNm_0nwc74
-DiaN;Physique;S1;Condition de réflexion totale;https://youtu.be/iRdZpablVdI
-DiaN;Physique;S2;Passage algébrique de Descartes à Newton pour les lentilles minces;https://youtu.be/ovTa2IEEEj0
-Essentiel;Physique;S1;L’essentiel sur l’optique géométrique;https://youtu.be/ALNDFzfj5NQ
-Essentiel;Physique;S2;L’essentiel sur les lentilles minces;https://youtu.be/T3nog9EKSJ8
-Essentiel;Physique;S3;L’essentiel sur les circuits électriques;https://youtu.be/v_-H_8wRB10
+Type;Matière;Chapitre;Titre;Lien;
+DiaN;Physique;S1;Angle de réfraction limite;https://youtu.be/cYNm_0nwc74;
+DiaN;Physique;S1;Condition de réflexion totale;https://youtu.be/iRdZpablVdI;
+DiaN;Physique;S2;Passage algébrique de Descartes à Newton pour les lentilles minces;https://youtu.be/ovTa2IEEEj0;
+Essentiel;Physique;S1;L’essentiel sur l’optique géométrique;https://youtu.be/ALNDFzfj5NQ;
+Essentiel;Physique;S2;L’essentiel sur les lentilles minces;https://youtu.be/T3nog9EKSJ8;
+Essentiel;Physique;S3;L’essentiel sur les circuits électriques;https://youtu.be/v_-H_8wRB10;
+Cours;Physique;S1;Optique géométrique, partie 1, la lumière;https://youtu.be/IuTHPE5BToc;
+Cours;Physique;S1;Optique géométrique, partie 2, lois de Descartes;https://youtu.be/1dDZTVz0n74;
+Expérience;Physique;S1;NCIS: interrogation room, Principe du miroir sans tain;https://youtu.be/796zHx_vdiw;
+Cours;Physique;S1;Optique géométrique, partie 3, miroir et dioptre plans;https://youtu.be/LOOMgec_RuY;
+Expérience;Physique;S1;L’énigme du biberon de lait;https://youtu.be/5oXs0ruxRbk;
+Expérience;Physique;S1;Le mystère du doigt en triple;https://youtu.be/qqzBjvEmtTA;
+Expérience;Physique;S1;Plongée en eaux troubles chez les axolotls;https://youtu.be/u_QVmyIKyS4;
+Expérience;Physique;S1;Un burin dans mon aquarium;https://youtu.be/69_ScPtD7R8;
+Cours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8;
+PM;Physique;S0;Point méthode, analyse dimensionnelle;https://youtu.be/l9o3QecW2Hk;
+Cours;Physique;S0;S0, partie 2, incertitudes;https://youtu.be/6WI6fVDCZwc;
+PM;Physique;S0;Dérivée de fonctions composées (1/2), présentation;https://youtu.be/tejCkGhKs0M;
+PM;Physique;S0;Dérivée de fonctions composées (2/2), correction;https://youtu.be/eL12EbBF80U;
+PM;Physique;S0;Développements limités en physique (1/2), présentation;https://youtu.be/gV4t036TqHo;
+PM;Physique;S0;Développements limités en physique (1/2), présentation;https://youtu.be/oO9nZhnofjc;
