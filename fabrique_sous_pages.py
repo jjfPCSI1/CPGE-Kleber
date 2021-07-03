@@ -1,14 +1,14 @@
 import csv
 
-ASSOC_TYPES = {'DiaN': 'Démo in a Nutshell', 
+ASSOC_TYPES = {'DiaN': 'Démos in a Nutshell', 
                'Essentiel': "L'essentiel du cours", 
                'Cours': 'Vidéos de cours', 
                'Expériences': 'Expériences amusantes', 
                'TD': 'Exercices de TD', 
-               'Savoir-faire': 'Savoir-faire', 
+               'Savoir-faire': 'Savoirs-faire', 
                'Pardèf': 'Par définition',
-               'TP': 'Savoir-faire de TP', 
-               'PM': 'Point méthode'}
+               'TP': 'Savoirs-faire de TP', 
+               'PM': 'Points méthode'}
 
 def lecture_chap(fichier):
     DICO = {}
