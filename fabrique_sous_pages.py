@@ -3,7 +3,7 @@ import csv
 ASSOC_TYPES = {'DiaN': 'Démos in a Nutshell', 
                'Essentiel': "L'essentiel du cours", 
                'Cours': 'Vidéos de cours', 
-               'Expériences': 'Expériences amusantes', 
+               'Expérience': 'Expériences amusantes', 
                'TD': 'Exercices de TD', 
                'Savoir-faire': 'Savoirs-faire', 
                'Pardèf': 'Par définition',
