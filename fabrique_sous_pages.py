@@ -8,6 +8,7 @@ ASSOC_TYPES = {'DiaN': 'Démos in a Nutshell',
                'Savoir-faire': 'Savoirs-faire', 
                'Pardef': 'Par définition',
                'TP': 'Savoirs-faire de TP', 
+               'Animation': 'Animations',
                'PM': 'Points méthode'}
 
 def lecture_chap(fichier):
