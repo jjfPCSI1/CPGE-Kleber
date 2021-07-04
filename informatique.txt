@@ -3,7 +3,7 @@
 La [chaîne Youtube](https://www.youtube.com/c/JeanJulienFleck) contient 
 plusieurs contributions concernant l'informatique. En particulier
 
-* une playliste qui permet de [réviser les bases de 
+* une playlist qui permet de [réviser les bases de 
 Python](https://youtube.com/playlist?list=PLEABsk5Xlyk6WZngWEj_8zGzCjx18Dxro), 
 pensée en particulier pour le passage de la Terminale à la première année de 
 CPGE mais qui peut aussi permettre des révisions ponctuelles entre les deux 

@@ -6,7 +6,7 @@ ASSOC_TYPES = {'DiaN': 'Démos in a Nutshell',
                'Expérience': 'Expériences amusantes', 
                'TD': 'Exercices de TD', 
                'Savoir-faire': 'Savoirs-faire', 
-               'Pardèf': 'Par définition',
+               'Pardef': 'Par définition',
                'TP': 'Savoirs-faire de TP', 
                'PM': 'Points méthode'}
 
@@ -69,7 +69,7 @@ def fabrique_page_chapitre(chapitre, matiere='Physique'):
     with open(fichier, 'w') as f:
         # On commence par le titre
         f.write('# {}\n\n'.format(chap['Titre']))
-        f.write('La playliste principale peut se trouver à [ce lien]({}).\n\n'.format(chap['Lien']))
+        f.write('La playlist principale peut se trouver à [ce lien]({}).\n\n'.format(chap['Lien']))
         f.write("Dans le détail, voici ce qu'on peut trouver de ce chapitre.\n\n")
         for type in ASSOC_TYPES:
             vids = [v for v in videos if v['Type'] == type]

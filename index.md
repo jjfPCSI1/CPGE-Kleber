@@ -5,11 +5,11 @@ place au début du confinement de mars 2020 et qui vise à permettre aux élève
 de la PCSI1 du lycée Kléber, mais aussi à tout élève désireux de travailler 
 son cours de CPGE, de s'y retrouver facilement dans les vidéos proposées.
 
-Toutes les vidéos peuvent bien sûr être accédées via la [chaîne 
+Toutes les vidéos peuvent bien sûr être retrouvée sur la [chaîne 
 Youtube](https://www.youtube.com/c/JeanJulienFleck) en particulier si vous 
 allez sur la page des 
-[playlistes](https://www.youtube.com/c/JeanJulienFleck/playlists), vous pouvez 
-trouver chaque chapitre et sa playliste associée.
+[playlists](https://www.youtube.com/c/JeanJulienFleck/playlists), vous pouvez 
+trouver chaque chapitre et sa playlist associée.
 
 ## Organisation du présent site
 
