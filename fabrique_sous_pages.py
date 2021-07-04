@@ -110,3 +110,28 @@ for matiere in CHAP:
         except : 
             raise 
         f.write(s)
+    # Pour chaque matière, on regarde aussi les pages spécifiques pour chaque type de vidéo
+    for type in ASSOC_TYPES.keys():
+        videos = [v for v in DONNEES_VIDEOS if v['Type'] == type and v['Matière'] == matiere]
+        if len(videos) > 0:
+            s = '# {} en {}\n\n'.format(ASSOC_TYPES[type], matiere)
+            try:
+                 chapitres = CHAP[matiere]
+                 chaps = list(chapitres.keys())
+#                 print(chaps, type)
+                 chaps.sort(key=lambda c: chapitres[c]['Ordre'])
+                 bloc = None
+                 for c in chaps:
+                     v_chaps = [v for v in videos if v['Chapitre'] == c]
+                     if len(v_chaps) == 0: continue
+                     if not(bloc) or bloc != chapitres[c]['Bloc']: 
+                        bloc = chapitres[c]['Bloc']
+                        s += '\n\n### Bloc {}\n\n'.format(bloc)
+                     print(c, type)
+                     for v in v_chaps:
+                         s+= '* [{}]({})\n'.format(v['Titre'], v['Lien'])
+                 s += '\n\n'
+            except : 
+                raise 
+            with open('{}/{}.md'.format(matiere, type), 'w') as f:
+                 f.write(s)

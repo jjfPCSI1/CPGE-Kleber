@@ -16,6 +16,6 @@ trouver chaque chapitre et sa playlist associée.
 Le présent site va s'organiser en plusieurs sections avec certaines redondances entre les sections: 
 * une page est consacrée à [l'informatique](informatique.html)
 * une page est consacrée à [la physique](physique.html)
-* une page rassemble tous les [essentiels](essentiels.html) du cours de physique
-* une autre s'occupe des [démonstrations principales](DiaN.html) de chacun des chapitres étudiés durant l'année.
+* une page rassemble tous les [essentiels](Physique/Essentiels.html) du cours de physique
+* une autre s'occupe des [démonstrations principales](Physique/DiaN.html) de chacun des chapitres étudiés durant l'année.
 

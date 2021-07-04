@@ -12,6 +12,19 @@ chacun leur playlist. En particulier:
 * Le bloc d'induction avec le [cours](https://youtube.com/playlist?list=PLEABsk5Xlyk6r8_7CTmoWGci81U6xMFxG) et les [TD](https://youtube.com/playlist?list=PLEABsk5Xlyk7oeDyQQhOLRFAvknibb7so)
 * Le bloc de thermodynamique avec le [cours](https://youtube.com/playlist?list=PLEABsk5Xlyk6r8_7CTmoWGci81U6xMFxG) et les [TD](https://youtube.com/playlist?list=PLEABsk5Xlyk606nCvG1XJ1oIHkCPUCp6-)
 
+## Classement par type de vidéos
+
+* L'[essentiel du cours](Physique/Essentiel.html)
+* Les [vidéos de cours](Physique/Cours.html)
+* Les [corrections d'exercice](Physique/TD.html)
+* Les [démonstrations rapide](Physique/DiaN.html)
+* Les [expériences amusantes](Physique/Expériences.html)
+* Les [animations d'illustration](Physique/Animations.html)
+* Les [savoirs-faire](Physique/Savoir-faire.html) essentiels
+* Les [points-méthode](Physique/PM.html)
+* Les [savoirs-faire de TP](Physique/TP.html)
+* Les [définitions](Physique/Pardef.html) du cours
+
 ## Le détail des chapitres
 
 
