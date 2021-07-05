@@ -51,5 +51,10 @@
 * [M2, partie 4, histoires de ressorts](https://youtu.be/gLZRuEblvDM)
 * [M2, partie 5, Pendule simple](https://youtu.be/hR0xQCzbo_w)
 * [M2, partie 6, Utilisation des lois de Coulomb du frottement de glissement](https://youtu.be/Zfk-5h0iBeI)
+* [M3, Approche énergétique, partie 1, Puissance et travail](https://youtu.be/Zvke_VeCS5Y)
+* [M3, partie 2, Théorème de la puissance cinétique et de l'énergie cinétique](https://youtu.be/2Jceu1A6-MQ)
+* [M3, parties 3.1 et 3.2, forces conservatives](https://youtu.be/ue5gcqn2cEY)
+* [M3, parties 3.3 à 3.5, énergies potentielles usuelles](https://youtu.be/0Dned2mGfko)
+* [M3, partie 4, Théorème de l'énergie mécanique](https://youtu.be/zKJyHBLNZw8)
 
 

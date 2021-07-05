@@ -1,4 +1,3 @@
-Type;Matière;Chapitre;Titre;Lien
 Cours;Physique;M0;M0, partie 1, Connaissances de base sur les vecteurs;https://youtu.be/2NVeskm4Cc4
 Cours;Physique;M0;M0, partie 2, projections;https://youtu.be/PHPP5HAByk0
 Cours;Physique;M0;M0, partie 3, produit vectoriel;https://youtu.be/yxkOwnByyrk
@@ -48,14 +47,14 @@ DiaN;Physique;M3;DiaN, énergie potentielle élastique associée à un ressort;h
 DiaN;Physique;M3;DiaN, énergies potentielles électrostatiques;https://youtu.be/q5zy9PDUJt4
 DiaN;Physique;M3;DiaN, énergie potentielle gravitationnelle;https://youtu.be/5wVOIGUBeeU
 DiaN;Physique;M3;DiaN, énergie potentielle de pesanteur;https://youtu.be/yHyfkUfpbEA
-DiaN;Physique;M3;DiaN, énergies potentielles usuelles en mécanique;https://youtu.be/qyTQ-9M155o
-Cours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8
+DiaN;Physique;M3;DiaN, énergies potentielles usuelles en mécanique;https://youtu.be/qyTQ-9M155oCours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8
 PM;Physique;S0;Point méthode, analyse dimensionnelle;https://youtu.be/l9o3QecW2Hk
 Cours;Physique;S0;S0, partie 2, incertitudes;https://youtu.be/6WI6fVDCZwc
 PM;Physique;S0;Dérivée de fonctions composées (1/2), présentation;https://youtu.be/tejCkGhKs0M
 PM;Physique;S0;Dérivée de fonctions composées (2/2), correction;https://youtu.be/eL12EbBF80U
 PM;Physique;S0;Développements limités en physique (1/2), présentation;https://youtu.be/gV4t036TqHo
 PM;Physique;S0;Développements limités en physique (2/2), correction;https://youtu.be/oO9nZhnofjc
+
 DiaN;Physique;S1;Angle de réfraction limite;https://youtu.be/cYNm_0nwc74
 DiaN;Physique;S1;Condition de réflexion totale;https://youtu.be/iRdZpablVdI
 Essentiel;Physique;S1;L’essentiel sur l’optique géométrique;https://youtu.be/ALNDFzfj5NQ
