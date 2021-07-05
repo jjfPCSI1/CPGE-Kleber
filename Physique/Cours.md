@@ -2,10 +2,14 @@
 
 
 
-### Bloc Signal
+### Bloc Outils transversaux
 
 * [S0, partie 1, Homogénéité](https://youtu.be/PfdRpjnDgH8)
 * [S0, partie 2, incertitudes](https://youtu.be/6WI6fVDCZwc)
+
+
+### Bloc Optique
+
 * [Optique géométrique, partie 1, la lumière](https://youtu.be/IuTHPE5BToc)
 * [Optique géométrique, partie 2, lois de Descartes](https://youtu.be/1dDZTVz0n74)
 * [Optique géométrique, partie 3, miroir et dioptre plans](https://youtu.be/LOOMgec_RuY)
@@ -13,6 +17,10 @@
 * [S2, partie 2, constructions graphiques](https://youtu.be/HF5o2zR8mPM)
 * [S2, partie 3, relations de conjugaison](https://youtu.be/wuzqU0xa6S0)
 * [S2, partie 4, instruments d’optique](https://youtu.be/TJ1ajAUVhIg)
+
+
+### Bloc Electricité
+
 * [S3, partie 1, Circuits électriques dans le cadre de l’ARQS](https://youtu.be/LFiQk27hqAE)
 * [S3, partie 2.1, dipôles usuels: la résistance](https://youtu.be/c3e9ZrVHU7g)
 * [S3, partie 2.2, dipôles usuels: le condensateur](https://youtu.be/MKjnF010xeM)

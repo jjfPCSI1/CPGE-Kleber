@@ -2,7 +2,7 @@
 
 
 
-### Bloc Signal
+### Bloc Optique
 
 * [Tracé d’une image à partir d’un objet AB](https://youtu.be/Y404htGFNmM)
 * [Tracé d'un objet à partir d’une image A’B’](https://youtu.be/XbFz0rUWSUc)

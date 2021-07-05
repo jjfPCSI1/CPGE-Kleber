@@ -2,10 +2,14 @@
 
 
 
-### Bloc Signal
+### Bloc Optique
 
 * [L’essentiel sur l’optique géométrique](https://youtu.be/ALNDFzfj5NQ)
 * [L’essentiel sur les lentilles minces](https://youtu.be/T3nog9EKSJ8)
+
+
+### Bloc Electricité
+
 * [L’essentiel sur les circuits électriques](https://youtu.be/v_-H_8wRB10)
 
 

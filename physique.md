@@ -30,20 +30,32 @@ chacun leur playlist. En particulier:
 
 
 
-### Bloc Signal
+### Outils transversaux
 
 * [Homogénéité et incertitudes](Physique/S0.html) 
+
+
+### Optique
+
 * [Optique géométrique](Physique/S1.html) 
 * [Lentilles minces dans l’approximation de Gauss](Physique/S2.html) 
+
+
+### Electricité
+
 * [Circuits électriques dans le cadre de l’Approximation des Régimes Quasi-Stationnaires (ARQS)](Physique/S3.html) 
 * [Circuits du premier ordre](Physique/S4.html) 
+
+
+### Electricité & Mécanique
+
 * [Oscillateurs amortis, régime libre](Physique/S5.html) 
 * [Oscillateur harmonique](Physique/S6.html) 
 * [Oscillateurs amortis, régime sinusoïdal forcé](Physique/S7.html) 
 * [Filtrage linéaire](Physique/S8.html) 
 
 
-### Bloc Mécanique
+### Mécanique
 
 * [Notions de base sur les vecteurs](Physique/M0.html) 
 * [Cinématique](Physique/M1.html) 
@@ -55,7 +67,7 @@ chacun leur playlist. En particulier:
 * [Mouvement dans un champ de force centrale conservatif](Physique/M7.html) 
 
 
-### Bloc Induction
+### Induction
 
 * [Champ magnétique](Physique/I1.html) 
 * [Forces de Laplace](Physique/I2.html) 
@@ -64,7 +76,7 @@ chacun leur playlist. En particulier:
 * [Circuit fixe dans un champ variable ](Physique/I5.html) 
 
 
-### Bloc Thermodynamique
+### Thermodynamique
 
 * [Statique des fluides](Physique/T0.html) 
 * [Approche microscopique et macroscopique d’un système à l’équilibre](Physique/T1.html) 
@@ -75,7 +87,7 @@ chacun leur playlist. En particulier:
 * [Machines thermiques](Physique/T6.html) 
 
 
-### Bloc Signal
+### Phénomènes ondulatoires
 
 * [Propagation de signaux](Physique/S9.html) 
 * [Superposition de signaux](Physique/S10.html) 

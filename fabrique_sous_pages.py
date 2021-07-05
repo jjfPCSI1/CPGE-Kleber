@@ -103,7 +103,7 @@ for matiere in CHAP:
              for c in chaps:
                  if not(bloc) or bloc != chapitres[c]['Bloc']: 
                     bloc = chapitres[c]['Bloc']
-                    s += '\n\n### Bloc {}\n\n'.format(bloc)
+                    s += '\n\n### {}\n\n'.format(bloc)
                  print(c)
                  s+= generic.format(chapitres[c]['Titre'], matiere, c)
              s += '\n\n'

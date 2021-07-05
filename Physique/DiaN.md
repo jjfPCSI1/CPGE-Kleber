@@ -2,7 +2,7 @@
 
 
 
-### Bloc Signal
+### Bloc Optique
 
 * [Angle de réfraction limite](https://youtu.be/cYNm_0nwc74)
 * [Condition de réflexion totale](https://youtu.be/iRdZpablVdI)
