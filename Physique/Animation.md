@@ -2,7 +2,7 @@
 
 
 
-### Bloc Optique
+### Optique
 
 * [Animation sur les défauts de l’œil](https://youtu.be/QSHyidVFEsw)
 * [Animation lunette astronomique](https://youtu.be/xBk9Hl6tTvs)

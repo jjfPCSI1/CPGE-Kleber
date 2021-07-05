@@ -2,7 +2,7 @@
 
 
 
-### Bloc Outils transversaux
+### Outils transversaux
 
 * [Point méthode, analyse dimensionnelle](https://youtu.be/l9o3QecW2Hk)
 * [Dérivée de fonctions composées (1/2), présentation](https://youtu.be/tejCkGhKs0M)

@@ -126,7 +126,7 @@ for matiere in CHAP:
                      if len(v_chaps) == 0: continue
                      if not(bloc) or bloc != chapitres[c]['Bloc']: 
                         bloc = chapitres[c]['Bloc']
-                        s += '\n\n### Bloc {}\n\n'.format(bloc)
+                        s += '\n\n### {}\n\n'.format(bloc)
                      print(c, type)
                      for v in v_chaps:
                          s+= '* [{}]({})\n'.format(v['Titre'], v['Lien'])
