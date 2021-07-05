@@ -13,5 +13,8 @@
 
 * [L'essentiel: cinématique, systèmes de coordonnées](https://youtu.be/II58_TbS9Rc)
 * [L'essentiel: cinématique, mouvements usuels](https://youtu.be/ff1LIsekmg8)
+* [L'essentiel: forces usuelles en mécanique](https://youtu.be/QxIf3A-vYu0)
+* [L'essentiel: tension d'un ressort](https://youtu.be/KeQ69f1gg8Q)
+* [L'essentiel, DiaN, le pendule simple](https://youtu.be/jWPpqd4FXDA)
 
 
