@@ -18,7 +18,7 @@ chacun leur playlist. En particulier:
 * Les [vidéos de cours](Physique/Cours.html)
 * Les [corrections d'exercice](Physique/TD.html)
 * Les [démonstrations rapide](Physique/DiaN.html)
-* Les [expériences amusantes](Physique/Expériences.html)
+* Les [expériences amusantes](Physique/Expérience.html)
 * Les [animations d'illustration](Physique/Animations.html)
 * Les [savoirs-faire](Physique/Savoir-faire.html) essentiels
 * Les [points-méthode](Physique/PM.html)
