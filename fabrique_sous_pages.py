@@ -32,6 +32,7 @@ def lecture_donnees(fichier):
     with open(fichier, newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
+            print(row)
             types.add(row['Type'])
             matieres.add(row['Matière'])
             videos.append(row)
