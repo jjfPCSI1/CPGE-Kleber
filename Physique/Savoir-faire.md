@@ -8,6 +8,11 @@
 * [Tracé d'un objet à partir d’une image A’B’](https://youtu.be/XbFz0rUWSUc)
 
 
+### Electricité & Mécanique
+
+* [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U)
+
+
 ### Mécanique
 
 * [Savoir-faire, projeter un vecteur sur une base orthonormée](https://youtu.be/s_lBmr_1zBo)
@@ -22,5 +27,20 @@
 
 * [Savoir faire, calculer une force de Laplace](https://youtu.be/DdqvG1qYIDo)
 * [Savoir faire, calculer le flux d'un champ magnétique au travers d'un circuit](https://youtu.be/0JGzGpSZxR4)
+
+
+### Thermodynamique
+
+* [Savoir faire, passer de 1 à n moles](https://youtu.be/eoyVSGgZaAk)
+* [Interpolation linéaire (1/3), principe](https://youtu.be/xhCcHVWayjA)
+* [Interpolation linéaire (2/3), vision intuitive](https://youtu.be/S3VTX_4CyQ8)
+* [Interpolation linéaire (3/3), application pratique](https://youtu.be/Bgi1SMRQ2vA)
+
+
+### Phénomènes ondulatoires
+
+* [Représentation de Fresnel (1/3), principe](https://youtu.be/L7qd21sR5nU)
+* [Représentation de Fresnel (2/3), application à l'addition de deux signaux](https://youtu.be/s9LVY44vB7s)
+* [Application de la représentation de Fresnel (3/3), quelques exemples](https://youtu.be/lnbqEsXiMdA)
 
 

@@ -13,6 +13,12 @@
 * [L’essentiel sur les circuits électriques](https://youtu.be/v_-H_8wRB10)
 
 
+### Electricité & Mécanique
+
+* [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs)
+* [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8)
+
+
 ### Mécanique
 
 * [L'essentiel: cinématique, systèmes de coordonnées](https://youtu.be/II58_TbS9Rc)

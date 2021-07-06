@@ -30,6 +30,17 @@
 * [S3, partie 4, caractéristique de dipôles](https://youtu.be/RosRQrNt2Zo)
 
 
+### Electricité & Mécanique
+
+* [S8, filtrage linéaire, partie 1, signaux périodiques](https://youtu.be/bDLAx6rHOEk)
+* [S8, partie 2, notion de filtrage linéaire](https://youtu.be/uwV_NXLlfVA)
+* [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA)
+* [S8, classification des divers filtres à disposition](https://youtu.be/tPdNomgUxTY)
+* [S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade](https://youtu.be/DKyddOdrxnQ)
+* [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA)
+* [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs)
+
+
 ### Mécanique
 
 * [M0, partie 1, Connaissances de base sur les vecteurs](https://youtu.be/2NVeskm4Cc4)
@@ -126,6 +137,10 @@
 * [T1, partie 1, théorie cinétique des gaz](https://youtu.be/ktCqwVC5n9s)
 * [T1, partie 2, Vocabulaire thermodynamique](https://youtu.be/cUUJYNLDgTk)
 * [T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3](https://youtu.be/bqJ-u8jQ-7I)
+* [T2, gaz réels, phases condensée et changements d'état, partie 1](https://youtu.be/ijNMe-uezY4)
+* [T2, partie 2, présentation générale des changements d'état](https://youtu.be/CuhtpmLiEeE)
+* [T2, partie 3, diagramme P,T](https://youtu.be/1ALJnYm5ZHM)
+* [T2, partie 4, équilibre liquide-vapeur](https://youtu.be/HH0Fcz-rouY)
 * [T3, partie 1, Transformations](https://youtu.be/DQzr9HLxfH8)
 * [T3, partie 2, Travail](https://youtu.be/aLZTNl_hCs8)
 * [T3, partie 2.3, Travaux usuels](https://youtu.be/6ytgvfGlsYM)
@@ -146,6 +161,16 @@
 
 ### Phénomènes ondulatoires
 
+* [S9, partie 1, Propagation d'un signal, Signaux de la vie de tous les jours](https://youtu.be/eSjBN59rx7Y)
+* [S9, partie 2, Notion d'onde progressive](https://youtu.be/EIXhp5R6tWk)
+* [S9, partie 3, onde progressive sinusoïdale](https://youtu.be/o8nvT6soRJ4)
+* [S10, parties I 1 à I 4, Interférences, les outils](https://youtu.be/Z50Z3nbbdCM)
+* [S10, partie 1, interférences, le cœur du problème](https://youtu.be/mGbDAO7Usuc)
+* [S10, partie 1, Interférence, démo en option](https://youtu.be/r7fbmLoCkhw)
+* [S10, partie 2, battements](https://youtu.be/wu3dkVVi2YM)
+* [S10, partie 3, ondes stationnaires, début](https://youtu.be/UQK6G0KkdCw)
+* [S10, partie 3, ondes stationnaires, fin](https://youtu.be/r8RISdIDpco)
+* [S10, partie 4, diffraction à l'infini](https://youtu.be/X82xhdKwQdA)
 * [S11, partie 1, Aspect corpusculaire de la lumière](https://youtu.be/D55aqpU5mfM)
 * [S11, partie 2, aspect ondulatoire de la matière](https://youtu.be/7CP0iHkhzeA)
 * [S11, partie 3, Oscillateur Harmonique Quantique, Puits infini et atome de Bohr](https://youtu.be/BQq1lKvCTlA)
