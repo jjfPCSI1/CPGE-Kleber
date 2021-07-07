@@ -16,3 +16,6 @@ vous permettre de vous y retrouver rapidement:
 * une page rassemble tous les [essentiels](Physique/Essentiel.html) du cours de physique
 * une autre s'occupe des [démonstrations principales](Physique/DiaN.html) de chacun des chapitres étudiés durant l'année.
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6EF5_F3SN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
