@@ -9,6 +9,12 @@
 * [Passage algébrique de Descartes à Newton pour les lentilles minces](https://youtu.be/ovTa2IEEEj0)
 
 
+### Electricité
+
+* [DiaN: Exemple de résolution de circuit du premier ordre](https://youtu.be/xXNI_Yn3Cg4)
+* [DiaN: Charge d'un circuit RC](https://youtu.be/oeXvNClYOQc)
+
+
 ### Mécanique
 
 * [DiaN, Vitesse et accélération en coordonnées polaires](https://youtu.be/DZOqlgy4gU8)

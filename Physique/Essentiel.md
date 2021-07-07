@@ -11,6 +11,8 @@
 ### Electricité
 
 * [L’essentiel sur les circuits électriques](https://youtu.be/v_-H_8wRB10)
+* [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI)
+* [L'essentiel: circuits du premier ordre](https://youtu.be/1someJAuFz0)
 
 
 ### Electricité & Mécanique

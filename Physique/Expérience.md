@@ -11,3 +11,8 @@
 * [Un burin dans mon aquarium](https://youtu.be/69_ScPtD7R8)
 
 
+### Electricité
+
+* [Expérience du circuit RC série](https://youtu.be/_FTwRYAQIhA)
+
+

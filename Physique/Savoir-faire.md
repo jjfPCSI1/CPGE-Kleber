@@ -8,6 +8,14 @@
 * [Tracé d'un objet à partir d’une image A’B’](https://youtu.be/XbFz0rUWSUc)
 
 
+### Electricité
+
+* [Diagrammes de phase (1/4), principe](https://youtu.be/QJG9Yt7eg4c)
+* [Diagrammes de phase (2/4), premier ordre](https://youtu.be/S3BH-WQ9YKw)
+* [Diagrammes de phase (3/4), application au COVID19](https://youtu.be/MH0XN-1jW_4)
+* [Diagrammes de phase (4/4), systèmes plus complexes](https://youtu.be/82YcVb1ZBvM)
+
+
 ### Electricité & Mécanique
 
 * [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U)

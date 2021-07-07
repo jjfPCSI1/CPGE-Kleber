@@ -28,6 +28,9 @@
 * [S3, partie 2.4, sources linéaires](https://youtu.be/Wd8ZsSGNGLo)
 * [S3, partie 3, association de résistances et raccourcis](https://youtu.be/cV7ihzZdZAQ)
 * [S3, partie 4, caractéristique de dipôles](https://youtu.be/RosRQrNt2Zo)
+* [S4, Circuit linéaires du premier ordre, partie 1, Expérience du RC série](https://youtu.be/mnkBSEg17rE)
+* [S4, partie 2, Mise en équation](https://youtu.be/4Ba_2_0oiLU)
+* [S4, partie 3, commutation sur un circuit RL](https://youtu.be/fO38pnqPG98)
 
 
 ### Electricité & Mécanique
