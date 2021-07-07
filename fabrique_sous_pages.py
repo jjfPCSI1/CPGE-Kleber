@@ -59,6 +59,17 @@ def embedded_video(lien):
 </div>
 """.format(video_inline)
 
+def embedded_playlist(lien):
+    video_inline = lien.replace('https://youtube.com/playlist?', 'https://www.youtube.com/embed/videoseries?')
+    return """<div style="text-align:center">
+<iframe width="560" height="315"
+src="{}"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+</div>
+""".format(video_inline)
+
 def partie_page(titre, donnees, embedded=True):
     """
     Fabrique la sous-partie d'une page de chapitre, on doit donner:
@@ -80,7 +91,8 @@ def fabrique_page_chapitre(chapitre, matiere='Physique'):
     with open(fichier, 'w') as f:
         # On commence par le titre
         f.write('# {}\n\n'.format(chap['Titre']))
-        f.write('La playlist principale peut se trouver à [ce lien]({}).\n\n'.format(chap['Lien']))
+        f.write('La playlist principale peut se trouver à [ce lien]({}).\n'.format(chap['Lien']))
+        f.write(embedded_playlist(chap['Lien']))
         f.write("Dans le détail, voici ce qu'on peut trouver de ce chapitre.\n\n")
         for type in ASSOC_TYPES:
             vids = [v for v in videos if v['Type'] == type]
