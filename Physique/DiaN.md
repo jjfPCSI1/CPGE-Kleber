@@ -50,5 +50,6 @@
 * [DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme](https://youtu.be/KbHYb5W-cVw)
 * [DiaN, notion de pression cinétique](https://youtu.be/UdODT76lFfk)
 * [DiaN, premier principe en écoulement stationnaire](https://youtu.be/NDvnm8X7cCo)
+* [DiaN, Théorème de Carnot pour le rendement d'un moteur ditherme](https://youtu.be/LIFbSJejA2Q)
 
 

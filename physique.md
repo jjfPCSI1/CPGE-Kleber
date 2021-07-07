@@ -19,7 +19,7 @@ chacun leur playlist. En particulier:
 * Les [corrections d'exercice](Physique/TD.html)
 * Les [démonstrations rapide](Physique/DiaN.html)
 * Les [expériences amusantes](Physique/Expérience.html)
-* Les [animations d'illustration](Physique/Animations.html)
+* Les [animations d'illustration](Physique/Animation.html)
 * Les [savoirs-faire](Physique/Savoir-faire.html) essentiels
 * Les [points-méthode](Physique/PM.html)
 * Les [savoirs-faire de TP](Physique/TP.html)

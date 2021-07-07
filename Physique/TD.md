@@ -75,7 +75,7 @@
 * [Vaporisation dans le vide, T5, Ex18](https://youtu.be/ooiciiA-INA)
 * [Surfusion, T5, Ex20](https://youtu.be/AFapVMlGQ1g)
 * [Fonction caractéristique, T5, Ex24](https://youtu.be/Xdn7expggoE)
-* [Transformation irréversible d'un gaz parfait, T5, Ex26](None)
+* [Transformation irréversible d'un gaz parfait, T5, Ex26](https://youtu.be/R7u4EIRWTdQ)
 * [Installation frigorifique, T6, Ex01](https://youtu.be/ME2J-ZipWp0)
 * [Réfrigérateur réversible puis irréversible, T6, Ex02](https://youtu.be/h8miwYitki8)
 * [Développement durable, T6, Ex03](https://youtu.be/dOb966R64y4)

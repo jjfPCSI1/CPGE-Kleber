@@ -52,7 +52,7 @@ for matiere in MATIERES:
          print('Création du répertoire {}/'.format(matiere))
     
 
-def partie_page(titre, donnees):
+def partie_page(titre, donnees, embedded=True):
     """
     Fabrique la sous-partie d'une page de chapitre, on doit donner:
     * le titre associé (Cours, TD, DiaN, etc)
@@ -61,6 +61,14 @@ def partie_page(titre, donnees):
     s = '## {}\n\n'.format(titre)
     for v in donnees:
          s += '* [{}]({})\n'.format(v['Titre'], v['Lien'])
+         if embedded:
+             print(v)
+             video_inline = v['Lien'].replace('https://youtu.be/', 'https://www.youtube.com/embed/')
+             s += """
+<div style="text-align:center">
+<iframe width="560" height="315" src="{}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+""".format(video_inline)
     return s + "\n"
 
 def fabrique_page_chapitre(chapitre, matiere='Physique'):
