@@ -35,6 +35,18 @@
 
 ### Electricité & Mécanique
 
+* [S5, partie 1, Oscillateurs amortis, régime libre](https://youtu.be/np3oLodpw2M)
+* [S5, partie 2, Recherche des solutions](https://youtu.be/br1SkE9U0Vo)
+* [S6, l'oscillateur harmonique, parties 1 et 2](https://youtu.be/1G5UsxES9R8)
+* [S6, partie 3, Confrontation en théorie et expérience](https://youtu.be/lmoHDhehZrQ)
+* [S7, partie 1, régime sinusoïdal forcé et notation complexe](https://youtu.be/mtbVY64U7fQ)
+* [S7, partie 2, impédance complexe](https://youtu.be/oarBKzvv-FM)
+* [S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant](https://youtu.be/Q1JAPjF6Z6g)
+* [S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité](https://youtu.be/TlPN5o4QIpQ)
+* [S7, partie 3 2 c suite, lien entre facteur de qualité et largeur de résonance](https://youtu.be/9LMPM6-Wtjw)
+* [S7, partie 3.2.c fin, pourquoi parle t on de résonance en intensité ou en vitesse](https://youtu.be/Xgk6TQCdh2U)
+* [S7, partie 3.3, rôle du facteur de qualité dans la résonance en tension ou en élongation](https://youtu.be/RuAecK6hZ9c)
+* [S7, partie 3.4 Détermination de w0 et Q à partir de graphes expérimentaux](https://youtu.be/OaDKCosR2VM)
 * [S8, filtrage linéaire, partie 1, signaux périodiques](https://youtu.be/bDLAx6rHOEk)
 * [S8, partie 2, notion de filtrage linéaire](https://youtu.be/uwV_NXLlfVA)
 * [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA)

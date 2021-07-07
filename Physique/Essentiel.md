@@ -17,6 +17,9 @@
 
 ### Electricité & Mécanique
 
+* [L'essentiel: circuit du 2e ordre](https://youtu.be/J1LAqBhiPQ4)
+* [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI)
+* [L'essentiel: l'oscillateur harmonique](https://youtu.be/EMBQCbn9n6k)
 * [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs)
 * [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8)
 

@@ -18,6 +18,11 @@
 
 ### Electricité & Mécanique
 
+* [Représentation de Fresnel (1/3), principe](https://youtu.be/L7qd21sR5nU)
+* [Représentation de Fresnel (2/3), application à l'addition de deux signaux](https://youtu.be/s9LVY44vB7s)
+* [Application de la représentation de Fresnel (3/3), quelques exemples](https://youtu.be/lnbqEsXiMdA)
+* [Savoir faire, Déterminer w0 et Q pour une résonance en vitesse à partir de graphes expérimentaux](https://youtu.be/mS3E9z6hokM)
+* [Savoir faire, Détermination de Q et w0 pour une résonance en élongation](https://youtu.be/lijzDI59sUE)
 * [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U)
 
 
