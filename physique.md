@@ -9,7 +9,7 @@ Le programme de physique est subdivisé en plusieurs grands blocs qui ont
 chacun leur playlist. En particulier:
 * Le bloc signal avec les cours d'[optique](https://youtube.com/playlist?list=PLEABsk5Xlyk4JZAYGw1bnjIUaMJqAd0rl), d'[électricité](https://youtube.com/playlist?list=PLEABsk5Xlyk4I4WWw6vbkMBd_m_Dx4sv1) et de [phénomènes ondulatoires](https://youtube.com/playlist?list=PLEABsk5Xlyk6Q82qy-EAcVXlcnyrQ1-uj) (dont le cours sur l'[oscillateur harmonique](https://youtube.com/playlist?list=PLEABsk5Xlyk7bLoHb0aPJQ5MGWVMe6GiU) et les TD de [mécanique quantique](https://youtube.com/playlist?list=PLEABsk5Xlyk4eIhKGvkYQEqPXGcDTdriw))
 * Le bloc de [mécanique](https://youtube.com/playlist?list=PLEABsk5Xlyk5Aq2E38P_fdQGfQ6Fu6D0V)
-* Le bloc d'induction avec le [cours](https://youtube.com/playlist?list=PLEABsk5Xlyk6r8_7CTmoWGci81U6xMFxG) et les [TD](https://youtube.com/playlist?list=PLEABsk5Xlyk7oeDyQQhOLRFAvknibb7so)
+* Le bloc d'induction avec le [cours](https://youtube.com/playlist?list=PLEABsk5Xlyk5s3L48ASeoU_eJd8PKCpXE) et les [TD](https://youtube.com/playlist?list=PLEABsk5Xlyk7oeDyQQhOLRFAvknibb7so)
 * Le bloc de thermodynamique avec le [cours](https://youtube.com/playlist?list=PLEABsk5Xlyk6r8_7CTmoWGci81U6xMFxG) et les [TD](https://youtube.com/playlist?list=PLEABsk5Xlyk606nCvG1XJ1oIHkCPUCp6-)
 
 ## Classement par type de vidéos
