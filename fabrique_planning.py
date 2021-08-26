@@ -125,7 +125,7 @@ Durée totale en vitesse normale: DUREE
 
 txt_index = debut_index
 
-generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le mardi {} durée: {}\n'
+generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le mardi {}\n\n  durée: {}\n\n'
 for k in sorted(DATE.keys()):
      chap = CHAPITRES[k]
      num  = k[-2:] # Les deux derniers sont les chiffres de la semaine
