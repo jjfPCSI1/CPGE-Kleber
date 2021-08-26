@@ -58,26 +58,12 @@ with open('semaines/planning.txt') as f:
          DATE[semaine] = transforme(date)
          CHAPITRES[semaine] = chapitres.strip()
 
-txt_index = debut_index
 
-generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le mardi {}\n'
-for k in sorted(DATE.keys()):
-     chap = CHAPITRES[k]
-     num  = k[-2:] # Les deux derniers sont les chiffres de la semaine
-     date = DATE[k]
-     if chap == 'CCB':
-         txt_index += '* Semaine du concours blanc, révisez bien !\n'
-     elif chap == 'Révisions':
-         txt_index += '* Exercices de révision à préparer, pas de vidéos\n'
-     else:
-         txt_index += generic.format(num, k, chap, date)
-
-with open('Physique/planning/index.md', 'w') as f:
-    f.write(txt_index)
 
 
 # Ne reste plus qu'à faire une boucle sur les semaines et écrire les pages associées.
 
+DUREES_TOT = {}
 for semaine in DATE.keys():
     duree_totale = 0 # Temps total en minutes
     duree_opt = 0    # Temps des vidéos optionnelles
@@ -125,9 +111,31 @@ Durée totale en vitesse normale: DUREE
                 txt += generic.format(opt, titre, lien, heure_min(duree))
                 embedded += generic_embedded.format(opt, titre, heure_min(duree), embedded_video(lien))
 
+
     with open('Physique/planning/{}.md'.format(semaine), 'w') as f:
         dur_tot = heure_min(duree_totale - duree_opt)
         dur_opt = heure_min(duree_opt)
         dur = "{} (plus {} en option)".format(dur_tot, dur_opt)
+        DUREES_TOT[semaine] = dur
         f.write(txt.replace('DUREE', dur))
         f.write(embedded)
+
+
+# La page d'index
+
+txt_index = debut_index
+
+generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le mardi {} durée: {}\n'
+for k in sorted(DATE.keys()):
+     chap = CHAPITRES[k]
+     num  = k[-2:] # Les deux derniers sont les chiffres de la semaine
+     date = DATE[k]
+     if chap == 'CCB':
+         txt_index += '* Semaine du concours blanc, révisez bien !\n'
+     elif chap == 'Révisions':
+         txt_index += '* Exercices de révision à préparer, pas de vidéos\n'
+     else:
+         txt_index += generic.format(num, k, chap, date, DUREES_TOT[k])
+
+with open('Physique/planning/index.md', 'w') as f:
+    f.write(txt_index)
