@@ -1,0 +1,9 @@
+Cours;Physique;I3;I3, loi de Faraday, partie 1;https://youtu.be/XZO-up9ttb0
+Cours;Physique;I3;I3, loi de Faraday, partie 2;https://youtu.be/X6mN1BHWx2Y
+# Optionnel 4
+Essentiel;Physique;I3;Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz;https://youtu.be/xXxS0f1ynPE
+Essentiel;Physique;I3;L'essentiel, utiliser la loi de Lenz;https://youtu.be/aoH1N9rMAxM
+Essentiel;Physique;I3;L'essentiel, utiliser la loi de Faraday;https://youtu.be/mdgf9dzgGYY
+Savoir-faire;Physique;I3;Savoir faire, calculer le flux d'un champ magnétique au travers d'un circuit;https://youtu.be/0JGzGpSZxR4
+Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, partie I.1;https://youtu.be/-ilV49YxJxk
+Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3;https://youtu.be/O0X-MzXqo9E

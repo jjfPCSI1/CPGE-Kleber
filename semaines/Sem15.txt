@@ -1,0 +1,14 @@
+Cours;Physique;M7;M7, partie 1, champ de force centrale;https://youtu.be/EHrFJYf4qCY
+Cours;Physique;M7;M7, partie 2, champ de force centrale conservatif;https://youtu.be/zR5yxj6e14U
+Cours;Physique;M7;M7, parties 3.1 à 3.3, Cas particulier du champ newtonien attracteur;https://youtu.be/PWbmI6zkPPc
+Cours;Physique;M7;M7, parties 3 4 et 3 5, Vitesses cosmiques et énergie mécanique;https://youtu.be/CzJp-rn6YjI
+Cours;Physique;M7;M7, Complément sur la géométrie des ellipses;https://youtu.be/38K4JBt8J_w
+# Optionnel
+Essentiel;Physique;M7;L'essentiel, mouvement dans un champ de force centrale conservatif;https://youtu.be/eJDIWLQ1f1M
+Pardef;Physique;M7;Par déf, force centrale conservative ?;https://youtu.be/-qFl4VbnpKU
+DiaN;Physique;M7;DiaN, Pourquoi a t on un mouvement plan lorsqu'on est soumis à une force centrale ?;https://youtu.be/1brOZRgw9hA
+DiaN;Physique;M7;DiaN, 3e loi de Képler;https://youtu.be/kc-r903YD_s
+DiaN;Physique;M7;DiaN, vitesse de libération;https://youtu.be/H6LRCG_VQcc
+DiaN;Physique;M7;DiaN, vitesse de circularisation pour une force gravitationnelle;https://youtu.be/JrKlD2VLjwg
+DiaN;Physique;M7;DiaN, énergie potentielle effective pour une force centrale conservative;https://youtu.be/biRfGAh3g-c
+DiaN;Physique;M7;DiaN, Énergie mécanique pour une orbite elliptique ou circulaire ?;https://youtu.be/naYH4SEFl2Q

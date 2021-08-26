@@ -1,0 +1,19 @@
+Cours;Physique;M6;M6, partie 1 1 a et 1 1 b, définition des moments cinétiques vectoriel et scalaire;https://youtu.be/B_vegJqVuFA
+Cours;Physique;M6;M6, partie 1 1 c et d, moment cinétique dans le cas des coordonnées polaires et cylindriques;https://youtu.be/CsCxnNm1bpI
+Cours;Physique;M6;M6, partie 1 2, moment cinétique d'un système discret de points matériels;https://youtu.be/F-siMXP_SY0
+# Optionnel 1
+Cours;Physique;M6;M6, pour aller plus loin, Moment d'inertie d'un solide continu, exemple du cylindre homogène;https://youtu.be/EgvKN-NaFR0
+Cours;Physique;M6;M6, parties 1.4 à 1.7, moment d'une force, couple, liaison pivot, moteur et frein;https://youtu.be/pRqikjG47dw
+Cours;Physique;M6;M6, partie 2, sections 1 et 2, énoncé de la loi du moment cinétique;https://youtu.be/f8aPX6goICY
+Cours;Physique;M6;M6, partie 2, section 3, Pendule de torsion;https://youtu.be/F2NhXoWAUIo
+Cours;Physique;M6;M6, partie 2 4, pendule pesant;https://youtu.be/uAT1NOZjhOI
+Cours;Physique;M6;M6, partie 3, approche énergétique;https://youtu.be/pSLiNJE0pHs
+Cours;Physique;M6;M6, Démonstration de la nullité du travail des forces internes dans un solide;https://youtu.be/Yo6-yho8HlU
+# Optionnel
+Essentiel;Physique;M6;L'essentiel, rotation autour d'un axe fixe;https://youtu.be/VXF7KutbXfk
+DiaN;Physique;M6;Dian, Pendule pesant;https://youtu.be/ATOgO_akMyQ
+DiaN;Physique;M6;DiaN, Pendule de torsion;https://youtu.be/ajWPes6YECQ
+Savoir-faire;Physique;M6;Principe du bras de levier (Ancienne version, 1/2);https://youtu.be/x9lkF3vjBjo
+Savoir-faire;Physique;M6;Notion de bras de levier (Ancienne version, 2/2), application au métronome;https://youtu.be/jBAX0KWxCj4
+Savoir-faire;Physique;M6;Savoir faire, Principe du bras de levier (nouvelle version);https://youtu.be/yY1ZLUkDg60
+Savoir-faire;Physique;M6;Savoir-faire: moment du poids pour le pendule simple;https://youtu.be/GHK-nEhEP_g

@@ -1,0 +1,15 @@
+Cours;Physique;S3;S3, partie 4, caractéristique de dipôles;https://youtu.be/RosRQrNt2Zo
+Cours;Physique;S4;S4, Circuit linéaires du premier ordre, partie 1, Expérience du RC série;https://youtu.be/mnkBSEg17rE
+Expérience;Physique;S4;Expérience du circuit RC série;https://youtu.be/_FTwRYAQIhA
+Cours;Physique;S4;S4, partie 2, Mise en équation;https://youtu.be/4Ba_2_0oiLU
+Cours;Physique;S4;S4, partie 3, commutation sur un circuit RL;https://youtu.be/fO38pnqPG98
+# Optionnel
+TP;Physique;S4;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU
+Essentiel;Physique;S4;L'essentiel: détermination des conditions initiales;https://youtu.be/5kQwORcuAyI
+Essentiel;Physique;S4;L'essentiel: circuits du premier ordre;https://youtu.be/1someJAuFz0
+DiaN;Physique;S4;DiaN: Exemple de résolution de circuit du premier ordre;https://youtu.be/xXNI_Yn3Cg4
+DiaN;Physique;S4;DiaN: Charge d'un circuit RC;https://youtu.be/oeXvNClYOQc
+Savoir-faire;Physique;S4;Diagrammes de phase (1/4), principe;https://youtu.be/QJG9Yt7eg4c
+Savoir-faire;Physique;S4;Diagrammes de phase (2/4), premier ordre;https://youtu.be/S3BH-WQ9YKw
+Savoir-faire;Physique;S4;Diagrammes de phase (3/4), application au COVID19;https://youtu.be/MH0XN-1jW_4
+Savoir-faire;Physique;S4;Diagrammes de phase (4/4), systèmes plus complexes;https://youtu.be/82YcVb1ZBvM

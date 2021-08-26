@@ -1,0 +1,19 @@
+Cours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8
+PM;Physique;S0;Point méthode, analyse dimensionnelle;https://youtu.be/l9o3QecW2Hk
+PM;Physique;S0;Dérivée de fonctions composées (1/2), présentation;https://youtu.be/tejCkGhKs0M
+# Optionnel 1
+PM;Physique;S0;Dérivée de fonctions composées (2/2), correction;https://youtu.be/eL12EbBF80U
+PM;Physique;S0;Développements limités en physique (1/2), présentation;https://youtu.be/gV4t036TqHo
+# Optionnel 1
+PM;Physique;S0;Développements limités en physique (2/2), correction;https://youtu.be/oO9nZhnofjc
+Cours;Physique;S1;Optique géométrique, partie 1, la lumière;https://youtu.be/IuTHPE5BToc
+Cours;Physique;S1;Optique géométrique, partie 2, lois de Descartes;https://youtu.be/1dDZTVz0n74
+Expérience;Physique;S1;NCIS: interrogation room, Principe du miroir sans tain;https://youtu.be/796zHx_vdiw
+Expérience;Physique;S1;L’énigme du biberon de lait;https://youtu.be/5oXs0ruxRbk
+# Optionnel 1
+Expérience;Physique;S1;Le mystère du doigt en triple;https://youtu.be/qqzBjvEmtTA
+Expérience;Physique;S1;Plongée en eaux troubles chez les axolotls;https://youtu.be/u_QVmyIKyS4
+Expérience;Physique;S1;Un burin dans mon aquarium;https://youtu.be/69_ScPtD7R8
+# Optionnel
+DiaN;Physique;S1;Angle de réfraction limite;https://youtu.be/cYNm_0nwc74
+DiaN;Physique;S1;Condition de réflexion totale;https://youtu.be/iRdZpablVdI

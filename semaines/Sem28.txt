@@ -1,0 +1,4 @@
+Cours;Physique;T5;T5, partie 1, irréversibilité en thermodynamique;https://youtu.be/QqTzU3xEfVM
+Cours;Physique;T5;T5, partie 2, Deuxième principe de la thermodynamique, notion d'entropie;https://youtu.be/arcL-gOY01E
+Cours;Physique;T5;T5, partie 3, variation d'entropie d'un système;https://youtu.be/fPI8megGcmg
+Cours;Physique;T5;T5, parties 4 et 5, Principe de Nernst et cas pratiques;https://youtu.be/YUmmIs9nUNo

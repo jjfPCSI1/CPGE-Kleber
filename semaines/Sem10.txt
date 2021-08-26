@@ -1,0 +1,8 @@
+Cours;Physique;M2;M2, partie 2, Relation Fondamentale de la Dynamique dans un référentiel galiléen;https://youtu.be/bCevVKUBe1E
+Cours;Physique;M2;M2, partie 3, Mouvement dans un champ de pesanteur uniforme;https://youtu.be/3TW41xR3MuI
+Cours;Physique;M2;M2, partie 4, histoires de ressorts;https://youtu.be/gLZRuEblvDM
+Cours;Physique;M2;M2, partie 5, Pendule simple;https://youtu.be/hR0xQCzbo_w
+Cours;Physique;M2;M2, partie 6, Utilisation des lois de Coulomb du frottement de glissement;https://youtu.be/Zfk-5h0iBeI
+# Optionnel 2
+Essentiel;Physique;M2;L'essentiel, DiaN, le pendule simple;https://youtu.be/jWPpqd4FXDA
+TP;Physique;M2;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU

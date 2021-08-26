@@ -1,0 +1,10 @@
+Cours;Physique;M4;M4, parties 1.1 et 1.2, Systèmes à un degré de liberté;https://youtu.be/pomOptAqri0
+Cours;Physique;M4;M4, partie 1.3, Positions d'équilibre et graphe en énergie potentielle;https://youtu.be/sKaa3t1cTck
+Cours;Physique;M4;M4, partie 1.4.a, perle sur un cercle vertical sans frottement;https://youtu.be/tbHWSM9GIKM
+Cours;Physique;M4;M4, partie 1.4.b, Oscillateur de Landau;https://youtu.be/W53TNGzSHTQ
+Cours;Physique;M4;M4, partie 2.1, Oscillateurs, Approximation harmonique;https://youtu.be/kJxniEoaoRI
+Cours;Physique;M4;M4, partie 2.2, Oscillateur de Landau;https://youtu.be/wrLjlOuqwMQ
+Cours;Physique;M4;M4, partie 2.3, Oscillateur de Landau tilté;https://youtu.be/qRNo780xdgs
+# Optionnel
+Essentiel;Physique;M4;L'essentiel: les systèmes à un degré de liberté;https://youtu.be/E0L-pV_-w40
+DiaN;Physique;M4;DiaN, approximation harmonique pour l'énergie potentielle;https://youtu.be/LGK2IZ77hZc

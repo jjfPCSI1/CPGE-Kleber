@@ -1,0 +1,6 @@
+Cours;Physique;T6;T6, partie 1, Etude théorique des machines cycliques polythermes;https://youtu.be/AW45t8r4v8o
+Cours;Physique;T6;T6, partie 2, moteur à 4 temps;https://youtu.be/GKCBZ-bj2MA
+Cours;Physique;T6;T6, partie 3, théorèmes de Carnot;https://youtu.be/q65BnaKZA70
+Cours;Physique;T6;T6, partie 4, Fonctionnement d'une machine thermique avec changement d'état;https://youtu.be/h7GFW6vlEFY
+# Optionnel
+DiaN;Physique;T6;DiaN, Théorème de Carnot pour le rendement d'un moteur ditherme;https://youtu.be/LIFbSJejA2Q

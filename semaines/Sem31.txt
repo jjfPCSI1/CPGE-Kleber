@@ -1,0 +1,3 @@
+Cours;Physique;S9;S9, partie 1, Propagation d'un signal, Signaux de la vie de tous les jours;https://youtu.be/eSjBN59rx7Y
+Cours;Physique;S9;S9, partie 2, Notion d'onde progressive;https://youtu.be/EIXhp5R6tWk
+Cours;Physique;S9;S9, partie 3, onde progressive sinusoïdale;https://youtu.be/o8nvT6soRJ4
