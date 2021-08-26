@@ -1,45 +1,47 @@
 
 # Vidéos à voir pour le mardi 12 octobre 2021, chapitres S5, S6
 
+Durée totale en vitesse normale: 4 h et 11 minutes (plus 9 minutes en option)
+
 ## Liste avec liens vers YouTube
 
-*  [S5, partie 1, Oscillateurs amortis, régime libre](https://youtu.be/np3oLodpw2M)
-*  [S5, partie 2, Recherche des solutions](https://youtu.be/br1SkE9U0Vo)
-* (optionnel) [L'essentiel: circuit du 2e ordre](https://youtu.be/J1LAqBhiPQ4)
-* (optionnel) [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI)
-*  [S6, l'oscillateur harmonique, parties 1 et 2](https://youtu.be/1G5UsxES9R8)
+*  [S5, partie 1, Oscillateurs amortis, régime libre](https://youtu.be/np3oLodpw2M) (1 h et 11 minutes)
+*  [S5, partie 2, Recherche des solutions](https://youtu.be/br1SkE9U0Vo) (1 h et 42 minutes)
+* (optionnel) [L'essentiel: circuit du 2e ordre](https://youtu.be/J1LAqBhiPQ4) (5 minutes)
+* (optionnel) [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI) (4 minutes)
+*  [S6, l'oscillateur harmonique, parties 1 et 2](https://youtu.be/1G5UsxES9R8) (1 h et 18 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  S5, partie 1, Oscillateurs amortis, régime libre 
+*  S5, partie 1, Oscillateurs amortis, régime libre (1 h et 11 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/np3oLodpw2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  S5, partie 2, Recherche des solutions 
+*  S5, partie 2, Recherche des solutions (1 h et 42 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/br1SkE9U0Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel: circuit du 2e ordre 
+* (optionnel) L'essentiel: circuit du 2e ordre (5 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J1LAqBhiPQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel: détermination des conditions initiales 
+* (optionnel) L'essentiel: détermination des conditions initiales (4 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kQwORcuAyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  S6, l'oscillateur harmonique, parties 1 et 2 
+*  S6, l'oscillateur harmonique, parties 1 et 2 (1 h et 18 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1G5UsxES9R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -35,6 +35,19 @@ def embedded_video(lien):
 </div>
 """.format(video_inline)
 
+def heure_min(duree):
+    if duree // 60 > 0:
+        return "{} h et {} minutes".format(duree//60, duree%60)
+    else:
+        return "{} minutes".format(duree)
+
+# Lecture des données sur les longueurs des vidéos
+
+DUREE = {}
+with open('semaines/longueurs.txt') as f:
+    for ligne in f:
+        lien, duree = ligne.split(';')
+        DUREE[lien] = int(duree)//60 + 1 # On arrondit à la minute supérieure
 
 # Lecture du planning
 DATE = {}
@@ -66,8 +79,12 @@ with open('Physique/planning/index.md', 'w') as f:
 # Ne reste plus qu'à faire une boucle sur les semaines et écrire les pages associées.
 
 for semaine in DATE.keys():
+    duree_totale = 0 # Temps total en minutes
+    duree_opt = 0    # Temps des vidéos optionnelles
     txt = """
 # Vidéos à voir pour le mardi {}, chapitre {}
+
+Durée totale en vitesse normale: DUREE
 
 ## Liste avec liens vers YouTube
 
@@ -79,31 +96,38 @@ for semaine in DATE.keys():
     # Cas où il y a plusieurs chapitres
     if CHAPITRES[semaine].count(',') > 0:
         txt = txt.replace('chapitre', 'chapitres')
-    generic = "* {} [{}]({})\n"
-    generic_embedded = "* {} {} \n\n {} \n\n"
+    generic = "* {} [{}]({}) ({})\n"
+    generic_embedded = "* {} {} ({})\n\n {} \n\n"
     with open('semaines/{}.txt'.format(semaine)) as f:
         print("On s'occupe de {}".format(semaine))
-        duree = 0
+        nb_opt = 0
         for ligne in f:
             # Cas des vidéos optionnelles, on donne le nombre
             print(ligne)
             if ligne.startswith('# Optionnel'):
                 data = ligne.split()
                 if len(data) > 2:
-                    duree = int(data[2])
+                    nb_opt = int(data[2])
                 else: # ou alors tout le reste est concerné
-                    duree = 100
+                    nb_opt = 100
             else:
                 # Si on n'a pas de caractère optionnel
-                if duree > 0:
-                    duree -= 1
+                if nb_opt > 0:
+                    nb_opt -= 1
                     opt = '(optionnel)'
                 else:
                     opt = ''
                 type, matiere, chapitre, titre, lien = ligne.strip().split(';')
-                txt += generic.format(opt, titre, lien)
-                embedded += generic_embedded.format(opt, titre, embedded_video(lien))
+                duree = DUREE[lien]
+                duree_totale += duree
+                if opt:
+                    duree_opt += duree
+                txt += generic.format(opt, titre, lien, heure_min(duree))
+                embedded += generic_embedded.format(opt, titre, heure_min(duree), embedded_video(lien))
 
     with open('Physique/planning/{}.md'.format(semaine), 'w') as f:
-        f.write(txt)
+        dur_tot = heure_min(duree_totale - duree_opt)
+        dur_opt = heure_min(duree_opt)
+        dur = "{} (plus {} en option)".format(dur_tot, dur_opt)
+        f.write(txt.replace('DUREE', dur))
         f.write(embedded)
