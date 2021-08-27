@@ -13,4 +13,3 @@ Animation;Physique;S2;Objet-image pour les lentilles;https://youtu.be/St9bJM89aU
 # Optionnel
 Savoir-faire;Physique;S2;Tracé d’une image à partir d’un objet AB;https://youtu.be/Y404htGFNmM
 Savoir-faire;Physique;S2;Tracé d'un objet à partir d’une image A’B’;https://youtu.be/XbFz0rUWSUc
-Cours;Physique;S1;Optique géométrique, partie 2, lois de Descartes;https://youtu.be/1dDZTVz0n74

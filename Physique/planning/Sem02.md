@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le mardi 14 septembre 2021, chapitres S1, S2
 
-Durée totale en vitesse normale: 3 h et 18 minutes (plus 2 h et 16 minutes en option)
+Durée totale en vitesse normale: 3 h et 18 minutes (plus 59 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -17,7 +17,6 @@ Durée totale en vitesse normale: 3 h et 18 minutes (plus 2 h et 16 minutes en o
 *  [Objet-image pour les lentilles](https://youtu.be/St9bJM89aUI) (5 minutes)
 * (optionnel) [Tracé d’une image à partir d’un objet AB](https://youtu.be/Y404htGFNmM) (10 minutes)
 * (optionnel) [Tracé d'un objet à partir d’une image A’B’](https://youtu.be/XbFz0rUWSUc) (8 minutes)
-* (optionnel) [Optique géométrique, partie 2, lois de Descartes](https://youtu.be/1dDZTVz0n74) (1 h et 17 minutes)
 
 ## Liste avec inclusion des vidéos
 
@@ -102,13 +101,6 @@ Durée totale en vitesse normale: 3 h et 18 minutes (plus 2 h et 16 minutes en o
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XbFz0rUWSUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) Optique géométrique, partie 2, lois de Descartes (1 h et 17 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dDZTVz0n74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
