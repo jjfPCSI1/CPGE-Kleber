@@ -1,4 +1,3 @@
-Cours;Physique;T4;T4, partie 1, Premier principe;https://youtu.be/lmuawOKuajQ
 Cours;Physique;T4;T4, partie 2, la fonction enthalpie;https://youtu.be/tB-L3UYWwlg
 Cours;Physique;T4;T4, partie 3, enthalpie de changement d'état;https://youtu.be/nIGE2dd1Ikk
 Cours;Physique;T4;T4, partie 4, Premier principe en écoulement stationnaire;https://youtu.be/dY_RP5nvKag

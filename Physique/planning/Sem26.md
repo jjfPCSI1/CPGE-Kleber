@@ -1,7 +1,7 @@
 
-# Vidéos à voir pour le mardi 26 avril 2022, chapitre T3
+# Vidéos à voir pour le mardi 26 avril 2022, chapitres T3, T4
 
-Durée totale en vitesse normale: 2 h et 22 minutes (plus 5 minutes en option)
+Durée totale en vitesse normale: 3 h et 23 minutes (plus 5 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -10,6 +10,7 @@ Durée totale en vitesse normale: 2 h et 22 minutes (plus 5 minutes en option)
 *  [T3, partie 2.3, Travaux usuels](https://youtu.be/6ytgvfGlsYM) (22 minutes)
 *  [T3, partie 3, transfert thermique](https://youtu.be/dZOeQvPfVi8) (48 minutes)
 * (optionnel) [L'essentiel, comment travailler en prépa, euh, en thermo](https://youtu.be/U2_km104OcU) (5 minutes)
+*  [T4, partie 1, Premier principe](https://youtu.be/lmuawOKuajQ) (1 h et 1 minutes)
 
 ## Liste avec inclusion des vidéos
 
@@ -45,6 +46,13 @@ Durée totale en vitesse normale: 2 h et 22 minutes (plus 5 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2_km104OcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+*  T4, partie 1, Premier principe (1 h et 1 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lmuawOKuajQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

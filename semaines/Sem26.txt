@@ -2,5 +2,6 @@ Cours;Physique;T3;T3, partie 1, Transformations;https://youtu.be/DQzr9HLxfH8
 Cours;Physique;T3;T3, partie 2, Travail;https://youtu.be/aLZTNl_hCs8
 Cours;Physique;T3;T3, partie 2.3, Travaux usuels;https://youtu.be/6ytgvfGlsYM
 Cours;Physique;T3;T3, partie 3, transfert thermique;https://youtu.be/dZOeQvPfVi8
-# Optionnel
+# Optionnel 1
 Essentiel;Physique;T3;L'essentiel, comment travailler en prépa, euh, en thermo;https://youtu.be/U2_km104OcU
+Cours;Physique;T4;T4, partie 1, Premier principe;https://youtu.be/lmuawOKuajQ

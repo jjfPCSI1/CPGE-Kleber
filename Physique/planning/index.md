@@ -54,10 +54,10 @@ semaine de l'année à chaque fois pour le mardi qui commence:
   durée: 3 h et 23 minutes (plus 21 minutes en option)
 * Vidéos de la [semaine 25](Sem25.html) (T2) à avoir vu pour le mardi 05 avril 2022   
   durée: 3 h et 47 minutes (plus 14 minutes en option)
-* Vidéos de la [semaine 26](Sem26.html) (T3) à avoir vu pour le mardi 26 avril 2022   
-  durée: 2 h et 22 minutes (plus 5 minutes en option)
+* Vidéos de la [semaine 26](Sem26.html) (T3, T4) à avoir vu pour le mardi 26 avril 2022   
+  durée: 3 h et 23 minutes (plus 5 minutes en option)
 * Vidéos de la [semaine 27](Sem27.html) (T4) à avoir vu pour le mardi 02 mai 2022   
-  durée: 4 h et 19 minutes (plus 28 minutes en option)
+  durée: 3 h et 18 minutes (plus 28 minutes en option)
 * Vidéos de la [semaine 28](Sem28.html) (T5) à avoir vu pour le mardi 09 mai 2022   
   durée: 2 h et 44 minutes (plus 0 minutes en option)
 * Vidéos de la [semaine 29](Sem29.html) (T6) à avoir vu pour le mardi 16 mai 2022   
