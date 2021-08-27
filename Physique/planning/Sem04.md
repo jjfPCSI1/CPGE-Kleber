@@ -1,11 +1,11 @@
 
 # Vidéos à voir pour le mardi 28 septembre 2021, chapitre S3
 
-Durée totale en vitesse normale: 5 h et 2 minutes (plus 9 minutes en option)
+Durée totale en vitesse normale: 4 h et 9 minutes (plus 9 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [S3, partie 1, Circuits électriques dans le cadre de l’ARQS](https://youtu.be/LFiQk27hqAE) (1 h et 44 minutes)
+*  [S3, partie 1, Circuits électriques dans le cadre de l'ARQS apres puissance](https://youtu.be/sGN5-w9q2w0) (51 minutes)
 *  [S3, partie 2.1, dipôles usuels: la résistance](https://youtu.be/c3e9ZrVHU7g) (36 minutes)
 *  [S3, partie 2.2, dipôles usuels: le condensateur](https://youtu.be/MKjnF010xeM) (51 minutes)
 *  [S3, partie 2.2, dipôles usuels: la bobine](https://youtu.be/O7KuqkmZhYo) (22 minutes)
@@ -15,10 +15,10 @@ Durée totale en vitesse normale: 5 h et 2 minutes (plus 9 minutes en option)
 
 ## Liste avec inclusion des vidéos
 
-*  S3, partie 1, Circuits électriques dans le cadre de l’ARQS (1 h et 44 minutes)
+*  S3, partie 1, Circuits électriques dans le cadre de l'ARQS apres puissance (51 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LFiQk27hqAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGN5-w9q2w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

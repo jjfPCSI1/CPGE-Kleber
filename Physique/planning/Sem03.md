@@ -1,7 +1,7 @@
 
-# Vidéos à voir pour le mardi 21 septembre 2021, chapitre S2
+# Vidéos à voir pour le mardi 21 septembre 2021, chapitres S2, S3
 
-Durée totale en vitesse normale: 3 h et 11 minutes (plus 8 minutes en option)
+Durée totale en vitesse normale: 4 h et 5 minutes (plus 8 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -11,6 +11,7 @@ Durée totale en vitesse normale: 3 h et 11 minutes (plus 8 minutes en option)
 *  [Animation lunette astronomique](https://youtu.be/xBk9Hl6tTvs) (3 minutes)
 * (optionnel) [Passage algébrique de Descartes à Newton pour les lentilles minces](https://youtu.be/ovTa2IEEEj0) (2 minutes)
 * (optionnel) [L’essentiel sur les lentilles minces](https://youtu.be/T3nog9EKSJ8) (6 minutes)
+*  [S3, partie 1, Circuits électriques dans le cadre de l'ARQS avant puissance](https://youtu.be/s4TL61TfgMo) (54 minutes)
 
 ## Liste avec inclusion des vidéos
 
@@ -53,6 +54,13 @@ Durée totale en vitesse normale: 3 h et 11 minutes (plus 8 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3nog9EKSJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+*  S3, partie 1, Circuits électriques dans le cadre de l'ARQS avant puissance (54 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4TL61TfgMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

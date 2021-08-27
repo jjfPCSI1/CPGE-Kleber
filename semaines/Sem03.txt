@@ -5,3 +5,4 @@ Animation;Physique;S2;Animation lunette astronomique;https://youtu.be/xBk9Hl6tTv
 # Optionnel 2
 DiaN;Physique;S2;Passage algébrique de Descartes à Newton pour les lentilles minces;https://youtu.be/ovTa2IEEEj0
 Essentiel;Physique;S2;L’essentiel sur les lentilles minces;https://youtu.be/T3nog9EKSJ8
+Cours;Physique;S3;S3, partie 1, Circuits électriques dans le cadre de l'ARQS avant puissance;https://youtu.be/s4TL61TfgMo

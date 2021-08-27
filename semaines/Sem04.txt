@@ -1,4 +1,4 @@
-Cours;Physique;S3;S3, partie 1, Circuits électriques dans le cadre de l’ARQS;https://youtu.be/LFiQk27hqAE
+Cours;Physique;S3;S3, partie 1, Circuits électriques dans le cadre de l'ARQS apres puissance;https://youtu.be/sGN5-w9q2w0
 Cours;Physique;S3;S3, partie 2.1, dipôles usuels: la résistance;https://youtu.be/c3e9ZrVHU7g
 Cours;Physique;S3;S3, partie 2.2, dipôles usuels: le condensateur;https://youtu.be/MKjnF010xeM
 Cours;Physique;S3;S3, partie 2.2, dipôles usuels: la bobine;https://youtu.be/O7KuqkmZhYo
