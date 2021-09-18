@@ -1,66 +1,50 @@
 
-# Vidéos à voir pour le mardi 01 mars 2022, chapitre I2
+# Vidéos à voir pour le mardi 01 mars 2022, chapitre I1 (+ fin exos filtres)
 
-Durée totale en vitesse normale: 2 h et 13 minutes (plus 18 minutes en option)
+Durée totale en vitesse normale: 1 h et 56 minutes (plus 12 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [I2, forces de Laplace, partie 1](https://youtu.be/CUhJA9H9y3s) (33 minutes)
-*  [I2, forces de Laplace, partie 2, action des forces de Laplace sur une spire rectangulaire](https://youtu.be/2t0Zkmru4Pw) (45 minutes)
-*  [I2, forces de Laplace, partie 3, action d'un champ magnétique extérieur uniforme sur un aimant](https://youtu.be/sH84mmkkZKU) (24 minutes)
-*  [I2, forces de Laplace, partie 4, principe du moteur synchrone](https://youtu.be/embesZcT59w) (31 minutes)
-* (optionnel) [L'essentiel, forces de Laplace](https://youtu.be/H9RPVl1mxbk) (6 minutes)
-* (optionnel) [DiaN, rails de Laplace](https://youtu.be/4fgPDHTHclc) (5 minutes)
-* (optionnel) [Savoir faire, calculer une force de Laplace](https://youtu.be/DdqvG1qYIDo) (7 minutes)
+*  [I1, Champ magnétique, partie 1](https://youtu.be/p2GF7quALM8) (30 minutes)
+*  [I1, Champ magnétique, partie 2](https://youtu.be/T88rg9_am0I) (1 h et 3 minutes)
+*  [I1, champ magnétique, partie 3](https://youtu.be/XBN0OlfytTU) (23 minutes)
+* (optionnel) [L'essentiel, un champ magnétique, c'est quoi ?](https://youtu.be/rc4548OyN3E) (7 minutes)
+* (optionnel) [Faisons Court (Ancien PCSI1) - Champ Magnétique et Electro-Aimant](https://youtu.be/abQcDpGsAsY) (5 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  I2, forces de Laplace, partie 1 (33 minutes)
+*  I1, Champ magnétique, partie 1 (30 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CUhJA9H9y3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2GF7quALM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  I2, forces de Laplace, partie 2, action des forces de Laplace sur une spire rectangulaire (45 minutes)
+*  I1, Champ magnétique, partie 2 (1 h et 3 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2t0Zkmru4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T88rg9_am0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  I2, forces de Laplace, partie 3, action d'un champ magnétique extérieur uniforme sur un aimant (24 minutes)
+*  I1, champ magnétique, partie 3 (23 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sH84mmkkZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBN0OlfytTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  I2, forces de Laplace, partie 4, principe du moteur synchrone (31 minutes)
+* (optionnel) L'essentiel, un champ magnétique, c'est quoi ? (7 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/embesZcT59w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rc4548OyN3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, forces de Laplace (6 minutes)
+* (optionnel) Faisons Court (Ancien PCSI1) - Champ Magnétique et Electro-Aimant (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H9RPVl1mxbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) DiaN, rails de Laplace (5 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4fgPDHTHclc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) Savoir faire, calculer une force de Laplace (7 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DdqvG1qYIDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abQcDpGsAsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

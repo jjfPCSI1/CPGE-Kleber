@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le mardi 05 octobre 2021, chapitre S4
 
-Durée totale en vitesse normale: 3 h et 40 minutes (plus 44 minutes en option)
+Durée totale en vitesse normale: 2 h et 53 minutes (plus 44 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -9,7 +9,6 @@ Durée totale en vitesse normale: 3 h et 40 minutes (plus 44 minutes en option)
 *  [S4, Circuit linéaires du premier ordre, partie 1, Expérience du RC série](https://youtu.be/mnkBSEg17rE) (18 minutes)
 *  [Expérience du circuit RC série](https://youtu.be/_FTwRYAQIhA) (4 minutes)
 *  [S4, partie 2, Mise en équation](https://youtu.be/4Ba_2_0oiLU) (1 h et 49 minutes)
-*  [S4, partie 3, commutation sur un circuit RL](https://youtu.be/fO38pnqPG98) (47 minutes)
 * (optionnel) [Matériel de TP, la plaque Sysam et LatisPro](https://youtu.be/YGyb_nnhLRU) (9 minutes)
 * (optionnel) [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI) (4 minutes)
 * (optionnel) [L'essentiel: circuits du premier ordre](https://youtu.be/1someJAuFz0) (5 minutes)
@@ -47,13 +46,6 @@ Durée totale en vitesse normale: 3 h et 40 minutes (plus 44 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Ba_2_0oiLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-*  S4, partie 3, commutation sur un circuit RL (47 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fO38pnqPG98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

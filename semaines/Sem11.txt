@@ -1,12 +1,8 @@
-Cours;Physique;M3;M3, Approche énergétique, partie 1, Puissance et travail;https://youtu.be/Zvke_VeCS5Y
-Cours;Physique;M3;M3, partie 2, Théorème de la puissance cinétique et de l'énergie cinétique;https://youtu.be/2Jceu1A6-MQ
-Cours;Physique;M3;M3, parties 3.1 et 3.2, forces conservatives;https://youtu.be/ue5gcqn2cEY
-Cours;Physique;M3;M3, parties 3.3 à 3.5, énergies potentielles usuelles;https://youtu.be/0Dned2mGfko
-Cours;Physique;M3;M3, partie 4, Théorème de l'énergie mécanique;https://youtu.be/zKJyHBLNZw8
-# Optionnel
-Essentiel;Physique;M3;L'essentiel, approche énergétique du mouvement d'un point matériel;https://youtu.be/8AEfu_sqwHc
-DiaN;Physique;M3;DiaN, énergie potentielle élastique associée à un ressort;https://youtu.be/WvA-O1sxlno
-DiaN;Physique;M3;DiaN, énergies potentielles électrostatiques;https://youtu.be/q5zy9PDUJt4
-DiaN;Physique;M3;DiaN, énergie potentielle gravitationnelle;https://youtu.be/5wVOIGUBeeU
-DiaN;Physique;M3;DiaN, énergie potentielle de pesanteur;https://youtu.be/yHyfkUfpbEA
-DiaN;Physique;M3;DiaN, énergies potentielles usuelles en mécanique;https://youtu.be/qyTQ-9M155o
+Cours;Physique;M2;M2, partie 2, Relation Fondamentale de la Dynamique dans un référentiel galiléen;https://youtu.be/bCevVKUBe1E
+Cours;Physique;M2;M2, partie 3, Mouvement dans un champ de pesanteur uniforme;https://youtu.be/3TW41xR3MuI
+Cours;Physique;M2;M2, partie 4, histoires de ressorts;https://youtu.be/gLZRuEblvDM
+Cours;Physique;M2;M2, partie 5, Pendule simple;https://youtu.be/hR0xQCzbo_w
+Cours;Physique;M2;M2, partie 6, Utilisation des lois de Coulomb du frottement de glissement;https://youtu.be/Zfk-5h0iBeI
+# Optionnel 2
+Essentiel;Physique;M2;L'essentiel, DiaN, le pendule simple;https://youtu.be/jWPpqd4FXDA
+TP;Physique;M2;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU

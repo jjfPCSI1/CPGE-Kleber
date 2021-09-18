@@ -1,74 +1,58 @@
 
-# Vidéos à voir pour le mardi 05 avril 2022, chapitre T2
+# Vidéos à voir pour le mardi 05 avril 2022, chapitre T1
 
-Durée totale en vitesse normale: 3 h et 47 minutes (plus 14 minutes en option)
+Durée totale en vitesse normale: 3 h et 23 minutes (plus 21 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [T2, gaz réels, phases condensée et changements d'état, partie 1](https://youtu.be/ijNMe-uezY4) (36 minutes)
-*  [T2, partie 2, présentation générale des changements d'état](https://youtu.be/CuhtpmLiEeE) (1 h et 13 minutes)
-*  [T2, partie 3, diagramme P,T](https://youtu.be/1ALJnYm5ZHM) (41 minutes)
-*  [T2, partie 4, équilibre liquide-vapeur](https://youtu.be/HH0Fcz-rouY) (1 h et 17 minutes)
-* (optionnel) [Savoir faire, passer de 1 à n moles](https://youtu.be/eoyVSGgZaAk) (2 minutes)
-* (optionnel) [Interpolation linéaire (1/3), principe](https://youtu.be/xhCcHVWayjA) (4 minutes)
-* (optionnel) [Interpolation linéaire (2/3), vision intuitive](https://youtu.be/S3VTX_4CyQ8) (4 minutes)
-* (optionnel) [Interpolation linéaire (3/3), application pratique](https://youtu.be/Bgi1SMRQ2vA) (4 minutes)
+*  [T1, partie 1, théorie cinétique des gaz](https://youtu.be/ktCqwVC5n9s) (1 h et 18 minutes)
+*  [T1, partie 2, Vocabulaire thermodynamique](https://youtu.be/cUUJYNLDgTk) (1 h et 18 minutes)
+*  [T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3](https://youtu.be/bqJ-u8jQ-7I) (47 minutes)
+* (optionnel) [L'essentiel, notion d'énergie interne U](https://youtu.be/XKQ3HkihIv0) (6 minutes)
+* (optionnel) [L'essentiel, théorie cinétique des gaz](https://youtu.be/HsgYArgXnrA) (9 minutes)
+* (optionnel) [DiaN, notion de pression cinétique](https://youtu.be/UdODT76lFfk) (6 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  T2, gaz réels, phases condensée et changements d'état, partie 1 (36 minutes)
+*  T1, partie 1, théorie cinétique des gaz (1 h et 18 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ijNMe-uezY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktCqwVC5n9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T2, partie 2, présentation générale des changements d'état (1 h et 13 minutes)
+*  T1, partie 2, Vocabulaire thermodynamique (1 h et 18 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CuhtpmLiEeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUUJYNLDgTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T2, partie 3, diagramme P,T (41 minutes)
+*  T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3 (47 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1ALJnYm5ZHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqJ-u8jQ-7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T2, partie 4, équilibre liquide-vapeur (1 h et 17 minutes)
+* (optionnel) L'essentiel, notion d'énergie interne U (6 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HH0Fcz-rouY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKQ3HkihIv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Savoir faire, passer de 1 à n moles (2 minutes)
+* (optionnel) L'essentiel, théorie cinétique des gaz (9 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoyVSGgZaAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsgYArgXnrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Interpolation linéaire (1/3), principe (4 minutes)
+* (optionnel) DiaN, notion de pression cinétique (6 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhCcHVWayjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) Interpolation linéaire (2/3), vision intuitive (4 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3VTX_4CyQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) Interpolation linéaire (3/3), application pratique (4 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bgi1SMRQ2vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UdODT76lFfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

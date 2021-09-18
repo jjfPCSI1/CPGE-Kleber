@@ -1,0 +1,6 @@
+maths;https://youtube.com/playlist?list=PLEABsk5Xlyk7d7iiFIlr9YmJ2OXMX7SAB
+informatique;https://youtube.com/playlist?list=PLEABsk5Xlyk6WZngWEj_8zGzCjx18Dxro
+langues;https://youtube.com/playlist?list=PLEABsk5Xlyk5qXnRxAlJtF2hRRWZiU--s
+organisation;https://youtube.com/playlist?list=PLEABsk5Xlyk7XzrHfy_itS46itpWmi8WA
+physique;https://youtube.com/playlist?list=PLEABsk5Xlyk4i5Y5lKBJ-hh6BhRHeV31B
+chimie;https://youtube.com/playlist?list=PLEABsk5Xlyk5oZeHlQcdDpknc04sZQTeV

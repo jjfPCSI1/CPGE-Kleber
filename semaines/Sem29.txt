@@ -1,6 +1,4 @@
-Cours;Physique;T6;T6, partie 1, Etude théorique des machines cycliques polythermes;https://youtu.be/AW45t8r4v8o
-Cours;Physique;T6;T6, partie 2, moteur à 4 temps;https://youtu.be/GKCBZ-bj2MA
-Cours;Physique;T6;T6, partie 3, théorèmes de Carnot;https://youtu.be/q65BnaKZA70
-Cours;Physique;T6;T6, partie 4, Fonctionnement d'une machine thermique avec changement d'état;https://youtu.be/h7GFW6vlEFY
-# Optionnel
-DiaN;Physique;T6;DiaN, Théorème de Carnot pour le rendement d'un moteur ditherme;https://youtu.be/LIFbSJejA2Q
+Cours;Physique;T5;T5, partie 1, irréversibilité en thermodynamique;https://youtu.be/QqTzU3xEfVM
+Cours;Physique;T5;T5, partie 2, Deuxième principe de la thermodynamique, notion d'entropie;https://youtu.be/arcL-gOY01E
+Cours;Physique;T5;T5, partie 3, variation d'entropie d'un système;https://youtu.be/fPI8megGcmg
+Cours;Physique;T5;T5, parties 4 et 5, Principe de Nernst et cas pratiques;https://youtu.be/YUmmIs9nUNo

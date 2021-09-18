@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=5V3zbryYLX4;457;informatique, notion de variables en programmation;235
+https://www.youtube.com/watch?v=-blIX6jvSUA;519;Informatique, c'est l'histoire des types en Python;152
+https://www.youtube.com/watch?v=z7Z3DMWmFK8;463;Informatique, c'est l'histoire d'un type...   les listes;137
+https://www.youtube.com/watch?v=1BHl7cPFKNA;124;Informatique, les boucles en Python;97
+https://www.youtube.com/watch?v=_h_lnHqdJPc;394;Informatique, opérations usuelles en Python;87
+https://www.youtube.com/watch?v=dYt8lszo1t0;81;Informatique, bien utiliser la boucle while;87
+https://www.youtube.com/watch?v=3G5bIvQ7OlM;180;Informatique, Python, un langage à indentation significative;73
+https://www.youtube.com/watch?v=-kJQnSAi9ng;274;Informatique, c'est l'histoire d'un type: les dictionnaires;56

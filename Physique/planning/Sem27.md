@@ -1,66 +1,58 @@
 
-# Vidéos à voir pour le mardi 02 mai 2022, chapitre T4
+# Vidéos à voir pour le mardi 02 mai 2022, chapitres T3, T4
 
-Durée totale en vitesse normale: 3 h et 18 minutes (plus 28 minutes en option)
+Durée totale en vitesse normale: 3 h et 23 minutes (plus 5 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [T4, partie 2, la fonction enthalpie](https://youtu.be/tB-L3UYWwlg) (1 h et 23 minutes)
-*  [T4, partie 3, enthalpie de changement d'état](https://youtu.be/nIGE2dd1Ikk) (48 minutes)
-*  [T4, partie 4, Premier principe en écoulement stationnaire](https://youtu.be/dY_RP5nvKag) (1 h et 7 minutes)
-* (optionnel) [L'essentiel, que faire face à un exercice de thermodynamique ?](https://youtu.be/eym5KnCWD10) (10 minutes)
-* (optionnel) [L'essentiel, la mystérieuse fonction enthalpie](https://youtu.be/rpIq472lq4g) (6 minutes)
-* (optionnel) [L'essentiel, premier principe de la thermodynamique](https://youtu.be/WT5vlr94fKc) (4 minutes)
-* (optionnel) [DiaN, premier principe en écoulement stationnaire](https://youtu.be/NDvnm8X7cCo) (8 minutes)
+*  [T3, partie 1, Transformations](https://youtu.be/DQzr9HLxfH8) (27 minutes)
+*  [T3, partie 2, Travail](https://youtu.be/aLZTNl_hCs8) (45 minutes)
+*  [T3, partie 2.3, Travaux usuels](https://youtu.be/6ytgvfGlsYM) (22 minutes)
+*  [T3, partie 3, transfert thermique](https://youtu.be/dZOeQvPfVi8) (48 minutes)
+* (optionnel) [L'essentiel, comment travailler en prépa, euh, en thermo](https://youtu.be/U2_km104OcU) (5 minutes)
+*  [T4, partie 1, Premier principe](https://youtu.be/lmuawOKuajQ) (1 h et 1 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  T4, partie 2, la fonction enthalpie (1 h et 23 minutes)
+*  T3, partie 1, Transformations (27 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tB-L3UYWwlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DQzr9HLxfH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T4, partie 3, enthalpie de changement d'état (48 minutes)
+*  T3, partie 2, Travail (45 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nIGE2dd1Ikk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLZTNl_hCs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T4, partie 4, Premier principe en écoulement stationnaire (1 h et 7 minutes)
+*  T3, partie 2.3, Travaux usuels (22 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dY_RP5nvKag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ytgvfGlsYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, que faire face à un exercice de thermodynamique ? (10 minutes)
+*  T3, partie 3, transfert thermique (48 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eym5KnCWD10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZOeQvPfVi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, la mystérieuse fonction enthalpie (6 minutes)
+* (optionnel) L'essentiel, comment travailler en prépa, euh, en thermo (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rpIq472lq4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2_km104OcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, premier principe de la thermodynamique (4 minutes)
+*  T4, partie 1, Premier principe (1 h et 1 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WT5vlr94fKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-* (optionnel) DiaN, premier principe en écoulement stationnaire (8 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NDvnm8X7cCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lmuawOKuajQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

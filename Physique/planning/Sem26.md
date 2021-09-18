@@ -1,58 +1,74 @@
 
-# Vidéos à voir pour le mardi 26 avril 2022, chapitres T3, T4
+# Vidéos à voir pour le mardi 26 avril 2022, chapitre T2
 
-Durée totale en vitesse normale: 3 h et 23 minutes (plus 5 minutes en option)
+Durée totale en vitesse normale: 3 h et 47 minutes (plus 14 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [T3, partie 1, Transformations](https://youtu.be/DQzr9HLxfH8) (27 minutes)
-*  [T3, partie 2, Travail](https://youtu.be/aLZTNl_hCs8) (45 minutes)
-*  [T3, partie 2.3, Travaux usuels](https://youtu.be/6ytgvfGlsYM) (22 minutes)
-*  [T3, partie 3, transfert thermique](https://youtu.be/dZOeQvPfVi8) (48 minutes)
-* (optionnel) [L'essentiel, comment travailler en prépa, euh, en thermo](https://youtu.be/U2_km104OcU) (5 minutes)
-*  [T4, partie 1, Premier principe](https://youtu.be/lmuawOKuajQ) (1 h et 1 minutes)
+*  [T2, gaz réels, phases condensée et changements d'état, partie 1](https://youtu.be/ijNMe-uezY4) (36 minutes)
+*  [T2, partie 2, présentation générale des changements d'état](https://youtu.be/CuhtpmLiEeE) (1 h et 13 minutes)
+*  [T2, partie 3, diagramme P,T](https://youtu.be/1ALJnYm5ZHM) (41 minutes)
+*  [T2, partie 4, équilibre liquide-vapeur](https://youtu.be/HH0Fcz-rouY) (1 h et 17 minutes)
+* (optionnel) [Savoir faire, passer de 1 à n moles](https://youtu.be/eoyVSGgZaAk) (2 minutes)
+* (optionnel) [Interpolation linéaire (1/3), principe](https://youtu.be/xhCcHVWayjA) (4 minutes)
+* (optionnel) [Interpolation linéaire (2/3), vision intuitive](https://youtu.be/S3VTX_4CyQ8) (4 minutes)
+* (optionnel) [Interpolation linéaire (3/3), application pratique](https://youtu.be/Bgi1SMRQ2vA) (4 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  T3, partie 1, Transformations (27 minutes)
+*  T2, gaz réels, phases condensée et changements d'état, partie 1 (36 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DQzr9HLxfH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijNMe-uezY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T3, partie 2, Travail (45 minutes)
+*  T2, partie 2, présentation générale des changements d'état (1 h et 13 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aLZTNl_hCs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuhtpmLiEeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T3, partie 2.3, Travaux usuels (22 minutes)
+*  T2, partie 3, diagramme P,T (41 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ytgvfGlsYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ALJnYm5ZHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T3, partie 3, transfert thermique (48 minutes)
+*  T2, partie 4, équilibre liquide-vapeur (1 h et 17 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dZOeQvPfVi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HH0Fcz-rouY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, comment travailler en prépa, euh, en thermo (5 minutes)
+* (optionnel) Savoir faire, passer de 1 à n moles (2 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2_km104OcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoyVSGgZaAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T4, partie 1, Premier principe (1 h et 1 minutes)
+* (optionnel) Interpolation linéaire (1/3), principe (4 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lmuawOKuajQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhCcHVWayjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Interpolation linéaire (2/3), vision intuitive (4 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3VTX_4CyQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Interpolation linéaire (3/3), application pratique (4 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bgi1SMRQ2vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

@@ -2,7 +2,6 @@ Cours;Physique;S3;S3, partie 4, caractéristique de dipôles;https://youtu.be/Ro
 Cours;Physique;S4;S4, Circuit linéaires du premier ordre, partie 1, Expérience du RC série;https://youtu.be/mnkBSEg17rE
 Expérience;Physique;S4;Expérience du circuit RC série;https://youtu.be/_FTwRYAQIhA
 Cours;Physique;S4;S4, partie 2, Mise en équation;https://youtu.be/4Ba_2_0oiLU
-Cours;Physique;S4;S4, partie 3, commutation sur un circuit RL;https://youtu.be/fO38pnqPG98
 # Optionnel
 TP;Physique;S4;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU
 Essentiel;Physique;S4;L'essentiel: détermination des conditions initiales;https://youtu.be/5kQwORcuAyI

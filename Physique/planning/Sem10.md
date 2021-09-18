@@ -1,66 +1,74 @@
 
 # Vidéos à voir pour le mardi 23 novembre 2021, chapitre M2
 
-Durée totale en vitesse normale: 3 h et 0 minutes (plus 12 minutes en option)
+Durée totale en vitesse normale: 1 h et 50 minutes (plus 9 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [M2, partie 2, Relation Fondamentale de la Dynamique dans un référentiel galiléen](https://youtu.be/bCevVKUBe1E) (42 minutes)
-*  [M2, partie 3, Mouvement dans un champ de pesanteur uniforme](https://youtu.be/3TW41xR3MuI) (30 minutes)
-*  [M2, partie 4, histoires de ressorts](https://youtu.be/gLZRuEblvDM) (37 minutes)
-*  [M2, partie 5, Pendule simple](https://youtu.be/hR0xQCzbo_w) (46 minutes)
-*  [M2, partie 6, Utilisation des lois de Coulomb du frottement de glissement](https://youtu.be/Zfk-5h0iBeI) (25 minutes)
-* (optionnel) [L'essentiel, DiaN, le pendule simple](https://youtu.be/jWPpqd4FXDA) (3 minutes)
-* (optionnel) [Matériel de TP, la plaque Sysam et LatisPro](https://youtu.be/YGyb_nnhLRU) (9 minutes)
+*  [M2, Partie 1.1 à 1.3, Forces](https://youtu.be/rsaIdrSowFI) (20 minutes)
+*  [M2, partie 1.4, poids, force gravitationnelle et lien entre les deux](https://youtu.be/qR1s9VJKD3s) (26 minutes)
+*  [M2, partie 1.4, forces de pression, poussée d'Archimède et force électrostatique](https://youtu.be/jg98gZFrDnQ) (14 minutes)
+*  [M2, partie 1.4, forces usuelles: tension du ressort et du fil](https://youtu.be/v90QWXBW7tM) (21 minutes)
+*  [M2, partie 1.4, forces de frottement](https://youtu.be/-8xE5Rd5xHw) (14 minutes)
+*  [M2, partie 1, fin (1.5 à 1.7), quantité de mouvement](https://youtu.be/nWJja0Nuo4I) (15 minutes)
+* (optionnel) [L'essentiel: forces usuelles en mécanique](https://youtu.be/QxIf3A-vYu0) (6 minutes)
+* (optionnel) [L'essentiel: tension d'un ressort](https://youtu.be/KeQ69f1gg8Q) (3 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  M2, partie 2, Relation Fondamentale de la Dynamique dans un référentiel galiléen (42 minutes)
+*  M2, Partie 1.1 à 1.3, Forces (20 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCevVKUBe1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsaIdrSowFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M2, partie 3, Mouvement dans un champ de pesanteur uniforme (30 minutes)
+*  M2, partie 1.4, poids, force gravitationnelle et lien entre les deux (26 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3TW41xR3MuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qR1s9VJKD3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M2, partie 4, histoires de ressorts (37 minutes)
+*  M2, partie 1.4, forces de pression, poussée d'Archimède et force électrostatique (14 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gLZRuEblvDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jg98gZFrDnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M2, partie 5, Pendule simple (46 minutes)
+*  M2, partie 1.4, forces usuelles: tension du ressort et du fil (21 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hR0xQCzbo_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v90QWXBW7tM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M2, partie 6, Utilisation des lois de Coulomb du frottement de glissement (25 minutes)
+*  M2, partie 1.4, forces de frottement (14 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zfk-5h0iBeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8xE5Rd5xHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, DiaN, le pendule simple (3 minutes)
+*  M2, partie 1, fin (1.5 à 1.7), quantité de mouvement (15 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jWPpqd4FXDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWJja0Nuo4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Matériel de TP, la plaque Sysam et LatisPro (9 minutes)
+* (optionnel) L'essentiel: forces usuelles en mécanique (6 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YGyb_nnhLRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxIf3A-vYu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) L'essentiel: tension d'un ressort (3 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KeQ69f1gg8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

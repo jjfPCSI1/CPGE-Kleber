@@ -1,74 +1,66 @@
 
-# Vidéos à voir pour le mardi 08 mars 2022, chapitres I3, I4
+# Vidéos à voir pour le mardi 08 mars 2022, chapitre I2
 
-Durée totale en vitesse normale: 2 h et 49 minutes (plus 20 minutes en option)
+Durée totale en vitesse normale: 2 h et 13 minutes (plus 18 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [I3, loi de Faraday, partie 1](https://youtu.be/XZO-up9ttb0) (31 minutes)
-*  [I3, loi de Faraday, partie 2](https://youtu.be/X6mN1BHWx2Y) (56 minutes)
-* (optionnel) [Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz](https://youtu.be/xXxS0f1ynPE) (7 minutes)
-* (optionnel) [L'essentiel, utiliser la loi de Lenz](https://youtu.be/aoH1N9rMAxM) (4 minutes)
-* (optionnel) [L'essentiel, utiliser la loi de Faraday](https://youtu.be/mdgf9dzgGYY) (4 minutes)
-* (optionnel) [Savoir faire, calculer le flux d'un champ magnétique au travers d'un circuit](https://youtu.be/0JGzGpSZxR4) (5 minutes)
-*  [I4, Circuit mobile dans un champ stationnaire, partie I.1](https://youtu.be/-ilV49YxJxk) (55 minutes)
-*  [I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3](https://youtu.be/O0X-MzXqo9E) (27 minutes)
+*  [I2, forces de Laplace, partie 1](https://youtu.be/CUhJA9H9y3s) (33 minutes)
+*  [I2, forces de Laplace, partie 2, action des forces de Laplace sur une spire rectangulaire](https://youtu.be/2t0Zkmru4Pw) (45 minutes)
+*  [I2, forces de Laplace, partie 3, action d'un champ magnétique extérieur uniforme sur un aimant](https://youtu.be/sH84mmkkZKU) (24 minutes)
+*  [I2, forces de Laplace, partie 4, principe du moteur synchrone](https://youtu.be/embesZcT59w) (31 minutes)
+* (optionnel) [L'essentiel, forces de Laplace](https://youtu.be/H9RPVl1mxbk) (6 minutes)
+* (optionnel) [DiaN, rails de Laplace](https://youtu.be/4fgPDHTHclc) (5 minutes)
+* (optionnel) [Savoir faire, calculer une force de Laplace](https://youtu.be/DdqvG1qYIDo) (7 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  I3, loi de Faraday, partie 1 (31 minutes)
+*  I2, forces de Laplace, partie 1 (33 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XZO-up9ttb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CUhJA9H9y3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  I3, loi de Faraday, partie 2 (56 minutes)
+*  I2, forces de Laplace, partie 2, action des forces de Laplace sur une spire rectangulaire (45 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6mN1BHWx2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2t0Zkmru4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz (7 minutes)
+*  I2, forces de Laplace, partie 3, action d'un champ magnétique extérieur uniforme sur un aimant (24 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xXxS0f1ynPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sH84mmkkZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, utiliser la loi de Lenz (4 minutes)
+*  I2, forces de Laplace, partie 4, principe du moteur synchrone (31 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoH1N9rMAxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/embesZcT59w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, utiliser la loi de Faraday (4 minutes)
+* (optionnel) L'essentiel, forces de Laplace (6 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdgf9dzgGYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H9RPVl1mxbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Savoir faire, calculer le flux d'un champ magnétique au travers d'un circuit (5 minutes)
+* (optionnel) DiaN, rails de Laplace (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0JGzGpSZxR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fgPDHTHclc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  I4, Circuit mobile dans un champ stationnaire, partie I.1 (55 minutes)
+* (optionnel) Savoir faire, calculer une force de Laplace (7 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ilV49YxJxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-*  I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3 (27 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0X-MzXqo9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdqvG1qYIDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

@@ -1,9 +1,8 @@
-Cours;Physique;I3;I3, loi de Faraday, partie 1;https://youtu.be/XZO-up9ttb0
-Cours;Physique;I3;I3, loi de Faraday, partie 2;https://youtu.be/X6mN1BHWx2Y
-# Optionnel 4
-Essentiel;Physique;I3;Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz;https://youtu.be/xXxS0f1ynPE
-Essentiel;Physique;I3;L'essentiel, utiliser la loi de Lenz;https://youtu.be/aoH1N9rMAxM
-Essentiel;Physique;I3;L'essentiel, utiliser la loi de Faraday;https://youtu.be/mdgf9dzgGYY
-Savoir-faire;Physique;I3;Savoir faire, calculer le flux d'un champ magnétique au travers d'un circuit;https://youtu.be/0JGzGpSZxR4
-Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, partie I.1;https://youtu.be/-ilV49YxJxk
-Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3;https://youtu.be/O0X-MzXqo9E
+Cours;Physique;I2;I2, forces de Laplace, partie 1;https://youtu.be/CUhJA9H9y3s
+Cours;Physique;I2;I2, forces de Laplace, partie 2, action des forces de Laplace sur une spire rectangulaire;https://youtu.be/2t0Zkmru4Pw
+Cours;Physique;I2;I2, forces de Laplace, partie 3, action d'un champ magnétique extérieur uniforme sur un aimant;https://youtu.be/sH84mmkkZKU
+Cours;Physique;I2;I2, forces de Laplace, partie 4, principe du moteur synchrone;https://youtu.be/embesZcT59w
+# Optionnel
+Essentiel;Physique;I2;L'essentiel, forces de Laplace;https://youtu.be/H9RPVl1mxbk
+DiaN;Physique;I2;DiaN, rails de Laplace;https://youtu.be/4fgPDHTHclc
+Savoir-faire;Physique;I2;Savoir faire, calculer une force de Laplace;https://youtu.be/DdqvG1qYIDo

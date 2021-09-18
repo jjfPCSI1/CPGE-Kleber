@@ -1,50 +1,50 @@
 
-# Vidéos à voir pour le mardi 23 mai 2022, chapitre T0
+# Vidéos à voir pour le mardi 23 mai 2022, chapitre T6
 
-Durée totale en vitesse normale: 2 h et 30 minutes (plus 21 minutes en option)
+Durée totale en vitesse normale: 4 h et 11 minutes (plus 8 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [T0, partie 3, Résultante des forces de pression](https://youtu.be/n30gw5A8TlE) (1 h et 36 minutes)
-*  [T0, partie 4, Forces volumiques de pression](https://youtu.be/k2_jqGKFhl4) (54 minutes)
-* (optionnel) [L'essentiel, travail des forces pressantes sur un système thermodynamique](https://youtu.be/b9aoSWqzHP0) (10 minutes)
-* (optionnel) [L'essentiel, notion de pression dans un fluide](https://youtu.be/4bo11_9oYXA) (5 minutes)
-* (optionnel) [DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme](https://youtu.be/KbHYb5W-cVw) (6 minutes)
+*  [T6, partie 1, Etude théorique des machines cycliques polythermes](https://youtu.be/AW45t8r4v8o) (32 minutes)
+*  [T6, partie 2, moteur à 4 temps](https://youtu.be/GKCBZ-bj2MA) (1 h et 2 minutes)
+*  [T6, partie 3, théorèmes de Carnot](https://youtu.be/q65BnaKZA70) (1 h et 11 minutes)
+*  [T6, partie 4, Fonctionnement d'une machine thermique avec changement d'état](https://youtu.be/h7GFW6vlEFY) (1 h et 26 minutes)
+* (optionnel) [DiaN, Théorème de Carnot pour le rendement d'un moteur ditherme](https://youtu.be/LIFbSJejA2Q) (8 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  T0, partie 3, Résultante des forces de pression (1 h et 36 minutes)
+*  T6, partie 1, Etude théorique des machines cycliques polythermes (32 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n30gw5A8TlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AW45t8r4v8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  T0, partie 4, Forces volumiques de pression (54 minutes)
+*  T6, partie 2, moteur à 4 temps (1 h et 2 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k2_jqGKFhl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKCBZ-bj2MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, travail des forces pressantes sur un système thermodynamique (10 minutes)
+*  T6, partie 3, théorèmes de Carnot (1 h et 11 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b9aoSWqzHP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q65BnaKZA70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, notion de pression dans un fluide (5 minutes)
+*  T6, partie 4, Fonctionnement d'une machine thermique avec changement d'état (1 h et 26 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4bo11_9oYXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7GFW6vlEFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme (6 minutes)
+* (optionnel) DiaN, Théorème de Carnot pour le rendement d'un moteur ditherme (8 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KbHYb5W-cVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LIFbSJejA2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

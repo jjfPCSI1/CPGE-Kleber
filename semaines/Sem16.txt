@@ -1,14 +1,14 @@
-Cours;Physique;S7;S7, partie 1, régime sinusoïdal forcé et notation complexe;https://youtu.be/mtbVY64U7fQ
-TP;Physique;S7;Expérience de cours, S7, résonance dans le RLC série;https://youtu.be/eEcj6zSbKr4
-Cours;Physique;S7;S7, partie 2, impédance complexe;https://youtu.be/oarBKzvv-FM
-Cours;Physique;S7;S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant;https://youtu.be/Q1JAPjF6Z6g
-Cours;Physique;S7;S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité;https://youtu.be/TlPN5o4QIpQ
+Cours;Physique;M7;M7, partie 1, champ de force centrale;https://youtu.be/EHrFJYf4qCY
+Cours;Physique;M7;M7, partie 2, champ de force centrale conservatif;https://youtu.be/zR5yxj6e14U
+Cours;Physique;M7;M7, parties 3.1 à 3.3, Cas particulier du champ newtonien attracteur;https://youtu.be/PWbmI6zkPPc
+Cours;Physique;M7;M7, parties 3 4 et 3 5, Vitesses cosmiques et énergie mécanique;https://youtu.be/CzJp-rn6YjI
+Cours;Physique;M7;M7, Complément sur la géométrie des ellipses;https://youtu.be/38K4JBt8J_w
 # Optionnel
-Pardef;Physique;S7;Par déf, Impédance complexe;https://youtu.be/Bwr80nZXxW8
-Pardef;Physique;S7;Par déf, notation complexe en régime sinusoïdal forcé;https://youtu.be/QrAbmfEGpvQ
-Savoir-faire;Physique;S7;Représentation de Fresnel (1/3), principe;https://youtu.be/L7qd21sR5nU
-Savoir-faire;Physique;S7;Représentation de Fresnel (2/3), application à l'addition de deux signaux;https://youtu.be/s9LVY44vB7s
-Savoir-faire;Physique;S7;Application de la représentation de Fresnel (3/3), quelques exemples;https://youtu.be/lnbqEsXiMdA
-TP;Physique;S7;Matériel de TP, le générateur basse fréquence GBF;https://youtu.be/cc5qh-ecE2Q
-TP;Physique;S7;Matériel de TP, l'oscilloscope, guide de survie;https://youtu.be/LvbWWGnyRoc
-TP;Physique;S7;Matériel de TP, mesures au multimètre en mode AC;https://youtu.be/6rNykh1Suns
+Essentiel;Physique;M7;L'essentiel, mouvement dans un champ de force centrale conservatif;https://youtu.be/eJDIWLQ1f1M
+Pardef;Physique;M7;Par déf, force centrale conservative ?;https://youtu.be/-qFl4VbnpKU
+DiaN;Physique;M7;DiaN, Pourquoi a t on un mouvement plan lorsqu'on est soumis à une force centrale ?;https://youtu.be/1brOZRgw9hA
+DiaN;Physique;M7;DiaN, 3e loi de Képler;https://youtu.be/kc-r903YD_s
+DiaN;Physique;M7;DiaN, vitesse de libération;https://youtu.be/H6LRCG_VQcc
+DiaN;Physique;M7;DiaN, vitesse de circularisation pour une force gravitationnelle;https://youtu.be/JrKlD2VLjwg
+DiaN;Physique;M7;DiaN, énergie potentielle effective pour une force centrale conservative;https://youtu.be/biRfGAh3g-c
+DiaN;Physique;M7;DiaN, Énergie mécanique pour une orbite elliptique ou circulaire ?;https://youtu.be/naYH4SEFl2Q

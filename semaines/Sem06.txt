@@ -1,6 +1,6 @@
+Cours;Physique;S4;S4, partie 3, commutation sur un circuit RL;https://youtu.be/fO38pnqPG98
 Cours;Physique;S5;S5, partie 1, Oscillateurs amortis, régime libre;https://youtu.be/np3oLodpw2M
 Cours;Physique;S5;S5, partie 2, Recherche des solutions;https://youtu.be/br1SkE9U0Vo
 # Optionnel 2
 Essentiel;Physique;S5;L'essentiel: circuit du 2e ordre;https://youtu.be/J1LAqBhiPQ4
 Essentiel;Physique;S5;L'essentiel: détermination des conditions initiales;https://youtu.be/5kQwORcuAyI
-Cours;Physique;S6;S6, l'oscillateur harmonique, parties 1 et 2;https://youtu.be/1G5UsxES9R8
