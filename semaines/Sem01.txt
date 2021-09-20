@@ -1,7 +1,7 @@
 Cours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8
 PM;Physique;S0;Point méthode, analyse dimensionnelle;https://youtu.be/l9o3QecW2Hk
-# Optionnel 3
 PM;Physique;S0;Dérivée de fonctions composées (1/2), présentation;https://youtu.be/tejCkGhKs0M
+# Optionnel 1
 PM;Physique;S0;Dérivée de fonctions composées (2/2), correction;https://youtu.be/eL12EbBF80U
 PM;Physique;S0;Développements limités en physique (1/2), présentation;https://youtu.be/gV4t036TqHo
 # Optionnel 1

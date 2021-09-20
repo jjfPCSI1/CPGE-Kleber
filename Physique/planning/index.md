@@ -5,7 +5,7 @@ Vous trouverez sur cette page les liens vers les vidéos à voir pour chaque
 semaine de l'année à chaque fois pour le mardi qui commence:
 
 * Vidéos de la [semaine 01](Sem01.html) (S0, S1) à avoir vu pour le mardi 07 septembre 2021   
-  durée: 3 h et 39 minutes (plus 1 h et 10 minutes en option)
+  durée: 3 h et 55 minutes (plus 54 minutes en option)
 * Vidéos de la [semaine 02](Sem02.html) (S1, S2) à avoir vu pour le mardi 14 septembre 2021   
   durée: 3 h et 18 minutes (plus 59 minutes en option)
 * Vidéos de la [semaine 03](Sem03.html) (S2, S3) à avoir vu pour le mardi 21 septembre 2021   

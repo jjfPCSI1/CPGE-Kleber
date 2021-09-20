@@ -1,15 +1,15 @@
 
 # Vidéos à voir pour le mardi 07 septembre 2021, chapitres S0, S1
 
-Durée totale en vitesse normale: 3 h et 39 minutes (plus 1 h et 10 minutes en option)
+Durée totale en vitesse normale: 3 h et 55 minutes (plus 54 minutes en option)
 
 ## Liste avec liens vers YouTube
 
 *  [S0, partie 1, Homogénéité](https://youtu.be/PfdRpjnDgH8) (1 h et 6 minutes)
 *  [Point méthode, analyse dimensionnelle](https://youtu.be/l9o3QecW2Hk) (18 minutes)
-* (optionnel) [Dérivée de fonctions composées (1/2), présentation](https://youtu.be/tejCkGhKs0M) (5 minutes)
+*  [Dérivée de fonctions composées (1/2), présentation](https://youtu.be/tejCkGhKs0M) (5 minutes)
 * (optionnel) [Dérivée de fonctions composées (2/2), correction](https://youtu.be/eL12EbBF80U) (7 minutes)
-* (optionnel) [Développements limités en physique (1/2), présentation](https://youtu.be/gV4t036TqHo) (11 minutes)
+*  [Développements limités en physique (1/2), présentation](https://youtu.be/gV4t036TqHo) (11 minutes)
 * (optionnel) [Développements limités en physique (2/2), correction](https://youtu.be/oO9nZhnofjc) (7 minutes)
 *  [Optique géométrique, partie 1, la lumière](https://youtu.be/IuTHPE5BToc) (58 minutes)
 *  [Optique géométrique, partie 2, lois de Descartes](https://youtu.be/1dDZTVz0n74) (1 h et 17 minutes)
@@ -37,7 +37,7 @@ Durée totale en vitesse normale: 3 h et 39 minutes (plus 1 h et 10 minutes en o
 </div>
  
 
-* (optionnel) Dérivée de fonctions composées (1/2), présentation (5 minutes)
+*  Dérivée de fonctions composées (1/2), présentation (5 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tejCkGhKs0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Durée totale en vitesse normale: 3 h et 39 minutes (plus 1 h et 10 minutes en o
 </div>
  
 
-* (optionnel) Développements limités en physique (1/2), présentation (11 minutes)
+*  Développements limités en physique (1/2), présentation (11 minutes)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gV4t036TqHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
