@@ -1,11 +1,4 @@
-Cours;Physique;T0;T0, début de l'hydrostatique;https://youtu.be/6SsroJWV3VM
-# Optionnel
-Essentiel;Physique;T0;L'essentiel, travail des forces pressantes sur un système thermodynamique;https://youtu.be/b9aoSWqzHP0
-Essentiel;Physique;T0;L'essentiel, notion de pression dans un fluide;https://youtu.be/4bo11_9oYXA
-DiaN;Physique;T0;DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme;https://youtu.be/KbHYb5W-cVw
-Cours;Physique;T1;T1, partie 1, théorie cinétique des gaz;https://youtu.be/ktCqwVC5n9s
-Cours;Physique;T1;T1, partie 2, Vocabulaire thermodynamique;https://youtu.be/cUUJYNLDgTk
-Cours;Physique;T1;T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3;https://youtu.be/bqJ-u8jQ-7I
-# Optionnel
-Essentiel;Physique;T1;L'essentiel, notion d'énergie interne U;https://youtu.be/XKQ3HkihIv0
-Essentiel;Physique;T1;L'essentiel, théorie cinétique des gaz;https://youtu.be/HsgYArgXnrA
+Savoir-faire;Physique;S3;Gentils et Méchants, le principe;https://youtu.be/TR4EwaVldk8
+Savoir-faire;Physique;S3;Gentils et Méchants, les équations différentielles;https://youtu.be/EuOBUC5Olnw
+Savoir-faire;Physique;S3;Gentils et Méchants, la ligue des Méchants !;https://youtu.be/Gt1bt6xXGTU
+

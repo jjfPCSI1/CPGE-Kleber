@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le mardi 28 septembre 2021, chapitre S3
 
-Durée totale en vitesse normale: 4 h et 9 minutes (plus 9 minutes en option)
+Durée totale en vitesse normale: 4 h et 9 minutes (plus 14 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -12,6 +12,7 @@ Durée totale en vitesse normale: 4 h et 9 minutes (plus 9 minutes en option)
 *  [S3, partie 2.4, sources linéaires](https://youtu.be/Wd8ZsSGNGLo) (38 minutes)
 *  [S3, partie 3, association de résistances et raccourcis](https://youtu.be/cV7ihzZdZAQ) (51 minutes)
 * (optionnel) [L’essentiel sur les circuits électriques](https://youtu.be/v_-H_8wRB10) (9 minutes)
+* (optionnel) [Gentils et Méchants, le principe](https://youtu.be/TR4EwaVldk8) (5 minutes)
 
 ## Liste avec inclusion des vidéos
 
@@ -61,6 +62,13 @@ Durée totale en vitesse normale: 4 h et 9 minutes (plus 9 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_-H_8wRB10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Gentils et Méchants, le principe (5 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TR4EwaVldk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

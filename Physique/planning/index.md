@@ -11,9 +11,9 @@ semaine de l'année à chaque fois pour le mardi qui commence:
 * Vidéos de la [semaine 03](Sem03.html) (S2, S3) à avoir vu pour le mardi 21 septembre 2021   
   durée: 4 h et 5 minutes (plus 8 minutes en option)
 * Vidéos de la [semaine 04](Sem04.html) (S3) à avoir vu pour le mardi 28 septembre 2021   
-  durée: 4 h et 9 minutes (plus 9 minutes en option)
+  durée: 4 h et 9 minutes (plus 14 minutes en option)
 * Vidéos de la [semaine 05](Sem05.html) (S4) à avoir vu pour le mardi 05 octobre 2021   
-  durée: 2 h et 53 minutes (plus 44 minutes en option)
+  durée: 2 h et 53 minutes (plus 59 minutes en option)
 * Vidéos de la [semaine 06](Sem06.html) (S4, S5) à avoir vu pour le mardi 12 octobre 2021   
   durée: 3 h et 40 minutes (plus 9 minutes en option)
 * Vidéos de la [semaine 07](Sem07.html) (S6, M0) à avoir vu pour le mardi 19 octobre 2021   

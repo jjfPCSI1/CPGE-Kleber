@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le mardi 05 octobre 2021, chapitre S4
 
-Durée totale en vitesse normale: 2 h et 53 minutes (plus 44 minutes en option)
+Durée totale en vitesse normale: 2 h et 53 minutes (plus 59 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -9,11 +9,14 @@ Durée totale en vitesse normale: 2 h et 53 minutes (plus 44 minutes en option)
 *  [S4, Circuit linéaires du premier ordre, partie 1, Expérience du RC série](https://youtu.be/mnkBSEg17rE) (18 minutes)
 *  [Expérience du circuit RC série](https://youtu.be/_FTwRYAQIhA) (4 minutes)
 *  [S4, partie 2, Mise en équation](https://youtu.be/4Ba_2_0oiLU) (1 h et 49 minutes)
+* (optionnel) [Gentils et Méchants, le principe](https://youtu.be/TR4EwaVldk8) (5 minutes)
 * (optionnel) [Matériel de TP, la plaque Sysam et LatisPro](https://youtu.be/YGyb_nnhLRU) (9 minutes)
 * (optionnel) [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI) (4 minutes)
 * (optionnel) [L'essentiel: circuits du premier ordre](https://youtu.be/1someJAuFz0) (5 minutes)
 * (optionnel) [DiaN: Exemple de résolution de circuit du premier ordre](https://youtu.be/xXNI_Yn3Cg4) (6 minutes)
 * (optionnel) [DiaN: Charge d'un circuit RC](https://youtu.be/oeXvNClYOQc) (4 minutes)
+* (optionnel) [Gentils et Méchants, les équations différentielles](https://youtu.be/EuOBUC5Olnw) (4 minutes)
+* (optionnel) [Gentils et Méchants, la ligue des Méchants !](https://youtu.be/Gt1bt6xXGTU) (6 minutes)
 * (optionnel) [Diagrammes de phase (1/4), principe](https://youtu.be/QJG9Yt7eg4c) (3 minutes)
 * (optionnel) [Diagrammes de phase (2/4), premier ordre](https://youtu.be/S3BH-WQ9YKw) (3 minutes)
 * (optionnel) [Diagrammes de phase (3/4), application au COVID19](https://youtu.be/MH0XN-1jW_4) (4 minutes)
@@ -49,6 +52,13 @@ Durée totale en vitesse normale: 2 h et 53 minutes (plus 44 minutes en option)
 </div>
  
 
+* (optionnel) Gentils et Méchants, le principe (5 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TR4EwaVldk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
 * (optionnel) Matériel de TP, la plaque Sysam et LatisPro (9 minutes)
 
  <div style="text-align:center">
@@ -81,6 +91,20 @@ Durée totale en vitesse normale: 2 h et 53 minutes (plus 44 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oeXvNClYOQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Gentils et Méchants, les équations différentielles (4 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EuOBUC5Olnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Gentils et Méchants, la ligue des Méchants ! (6 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt1bt6xXGTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

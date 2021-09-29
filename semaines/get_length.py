@@ -3,7 +3,7 @@ import pafy
 resultat = ''
 
 with open('total.txt') as f:
-    with open('longueurs.txt', 'w') as g:
+    with open('longueurs.txt', 'a') as g:
         for line in f:
             if not(line.startswith('#')):
                  url = line.strip().split(';')[-1]
