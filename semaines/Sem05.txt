@@ -3,11 +3,14 @@ Cours;Physique;S4;S4, Circuit linéaires du premier ordre, partie 1, Expérience
 Expérience;Physique;S4;Expérience du circuit RC série;https://youtu.be/_FTwRYAQIhA
 Cours;Physique;S4;S4, partie 2, Mise en équation;https://youtu.be/4Ba_2_0oiLU
 # Optionnel
+Savoir-faire;Physique;S3;Gentils et Méchants, le principe;https://youtu.be/TR4EwaVldk8
 TP;Physique;S4;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU
 Essentiel;Physique;S4;L'essentiel: détermination des conditions initiales;https://youtu.be/5kQwORcuAyI
 Essentiel;Physique;S4;L'essentiel: circuits du premier ordre;https://youtu.be/1someJAuFz0
 DiaN;Physique;S4;DiaN: Exemple de résolution de circuit du premier ordre;https://youtu.be/xXNI_Yn3Cg4
 DiaN;Physique;S4;DiaN: Charge d'un circuit RC;https://youtu.be/oeXvNClYOQc
+Savoir-faire;Physique;S3;Gentils et Méchants, les équations différentielles;https://youtu.be/EuOBUC5Olnw
+Savoir-faire;Physique;S3;Gentils et Méchants, la ligue des Méchants !;https://youtu.be/Gt1bt6xXGTU
 Savoir-faire;Physique;S4;Diagrammes de phase (1/4), principe;https://youtu.be/QJG9Yt7eg4c
 Savoir-faire;Physique;S4;Diagrammes de phase (2/4), premier ordre;https://youtu.be/S3BH-WQ9YKw
 Savoir-faire;Physique;S4;Diagrammes de phase (3/4), application au COVID19;https://youtu.be/MH0XN-1jW_4

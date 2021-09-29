@@ -6,3 +6,4 @@ Cours;Physique;S3;S3, partie 2.4, sources linéaires;https://youtu.be/Wd8ZsSGNGL
 Cours;Physique;S3;S3, partie 3, association de résistances et raccourcis;https://youtu.be/cV7ihzZdZAQ
 # Optionnel
 Essentiel;Physique;S3;L’essentiel sur les circuits électriques;https://youtu.be/v_-H_8wRB10
+Savoir-faire;Physique;S3;Gentils et Méchants, le principe;https://youtu.be/TR4EwaVldk8
