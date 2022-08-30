@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 11 janvier 2022, chapitre M6
+# Vidéos à voir pour le mardi 10 janvier 2023, chapitre M6
 
 Durée totale en vitesse normale: 3 h et 21 minutes (plus 41 minutes en option)
 

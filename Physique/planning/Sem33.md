@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 14 juin 2022, chapitre S10
+# Vidéos à voir pour le mardi 13 juin 2023, chapitre S10
 
 Durée totale en vitesse normale: 3 h et 20 minutes (plus 16 minutes en option)
 

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 19 octobre 2021, chapitres S6, M0
+# Vidéos à voir pour le mardi 18 octobre 2022, chapitres S6, M0
 
 Durée totale en vitesse normale: 3 h et 5 minutes (plus 10 minutes en option)
 

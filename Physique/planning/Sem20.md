@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 01 mars 2022, chapitre I1 (+ fin exos filtres)
+# Vidéos à voir pour le mardi 07 février 2023, chapitre I1 (+ fin exos filtres)
 
 Durée totale en vitesse normale: 1 h et 56 minutes (plus 12 minutes en option)
 

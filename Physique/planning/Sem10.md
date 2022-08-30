@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 23 novembre 2021, chapitre M2
+# Vidéos à voir pour le mardi 22 novembre 2022, chapitre M2
 
 Durée totale en vitesse normale: 1 h et 50 minutes (plus 9 minutes en option)
 

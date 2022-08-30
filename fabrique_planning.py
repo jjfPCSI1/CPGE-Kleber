@@ -13,7 +13,7 @@ vidéos sous forme d'une liste de liens et ensuite en vidéos embarquées.
 """
 
 debut_index = """
-# Planning de l'année 2021-2022
+# Planning de l'année 2022-2023
 
 Vous trouverez sur cette page les liens vers les vidéos à voir pour chaque
 semaine de l'année à chaque fois pour le mardi qui commence:

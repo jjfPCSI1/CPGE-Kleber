@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 28 septembre 2021, chapitre S3
+# Vidéos à voir pour le mardi 27 septembre 2022, chapitre S3
 
 Durée totale en vitesse normale: 4 h et 9 minutes (plus 14 minutes en option)
 
