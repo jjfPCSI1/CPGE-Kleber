@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 11 octobre 2022, chapitres S4, S5
+# Vidéos à voir pour le mardi 10 octobre 2022, chapitres S4, S5
 
 Durée totale en vitesse normale: 3 h et 40 minutes (plus 9 minutes en option)
 

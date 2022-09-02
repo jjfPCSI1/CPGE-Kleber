@@ -1,7 +1,7 @@
-https://www.youtube.com/watch?v=mjPUGiY0s-I;479;Équilibrer une réaction chimique;189
-https://www.youtube.com/watch?v=Yd8Bm8lRKQE;283;Chimie, notion de tableau d'avancement;125
-https://www.youtube.com/watch?v=d47n_ZD_wrI;178;Chimie, notion de quotient de réaction;112
-https://www.youtube.com/watch?v=qUmFbc-MPTA;321;Chimie, réactions usuelles;111
-https://www.youtube.com/watch?v=Xwi9HTJHDPA;357;Chimie, dissolutions classiques;106
-https://www.youtube.com/watch?v=Tu3Lm3yj-HY;212;Chimie, fonctions classiques en chimie organique;106
-https://www.youtube.com/watch?v=gWRcVORPXlU;314;Chimie, la nomenclature par l'exemple;89
+https://www.youtube.com/watch?v=mjPUGiY0s-I;479;Équilibrer une réaction chimique;308
+https://www.youtube.com/watch?v=Yd8Bm8lRKQE;283;Chimie, notion de tableau d'avancement;287
+https://www.youtube.com/watch?v=d47n_ZD_wrI;178;Chimie, notion de quotient de réaction;479
+https://www.youtube.com/watch?v=qUmFbc-MPTA;321;Chimie, réactions usuelles;213
+https://www.youtube.com/watch?v=Xwi9HTJHDPA;357;Chimie, dissolutions classiques;205
+https://www.youtube.com/watch?v=Tu3Lm3yj-HY;212;Chimie, fonctions classiques en chimie organique;219
+https://www.youtube.com/watch?v=gWRcVORPXlU;314;Chimie, la nomenclature par l'exemple;267

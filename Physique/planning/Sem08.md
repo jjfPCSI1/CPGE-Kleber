@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 08 novembre 2022, chapitres M0, M1
+# Vidéos à voir pour le mardi 07 novembre 2022, chapitres M0, M1
 
 Durée totale en vitesse normale: 2 h et 34 minutes (plus 2 minutes en option)
 

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 04 avril 2023, chapitre T1
+# Vidéos à voir pour le mardi 03 avril 2023, chapitre T1
 
 Durée totale en vitesse normale: 3 h et 23 minutes (plus 21 minutes en option)
 

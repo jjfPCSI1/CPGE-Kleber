@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 03 janvier 2023, chapitre M5
+# Vidéos à voir pour le mardi 02 janvier 2023, chapitre M5
 
 Durée totale en vitesse normale: 3 h et 18 minutes (plus 8 minutes en option)
 

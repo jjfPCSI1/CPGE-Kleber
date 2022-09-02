@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 02 mai 2023, chapitres T3, T4
+# Vidéos à voir pour le mardi 01 mai 2023, chapitres T3, T4
 
 Durée totale en vitesse normale: 3 h et 23 minutes (plus 5 minutes en option)
 

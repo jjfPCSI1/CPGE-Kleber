@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 29 novembre 2022, chapitre M2
+# Vidéos à voir pour le mardi 28 novembre 2022, chapitre M2
 
 Durée totale en vitesse normale: 3 h et 0 minutes (plus 12 minutes en option)
 

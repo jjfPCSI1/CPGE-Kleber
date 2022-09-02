@@ -1,8 +1,8 @@
-https://www.youtube.com/watch?v=nejuOZ-N_ZQ;532;Mouvement dans un champ de force uniforme et indépendant du temps, partie 1;279
-https://www.youtube.com/watch?v=vsZOgN7azaY;213;Mouvement dans un champ de force uniforme et indépendant du temps, partie 2;157
-https://www.youtube.com/watch?v=pprKncOQbvQ;417;Conservation de l'énergie mécanique;150
-https://www.youtube.com/watch?v=MJFEY5O6SFs;291;Physique, loi de Snell-Descartes;210
-https://www.youtube.com/watch?v=j_OAcpcy1h8;174;Physique, nature des lentilles sphériques;115
-https://www.youtube.com/watch?v=d9SmOM-eaRo;302;Physique, tracés de rayons au passage d'une lentille mince;100
-https://www.youtube.com/watch?v=g8Y7RQ6bzuQ;420;Physique, les bases de l'électricité;155
-https://www.youtube.com/watch?v=w2G4PaW0IZ8;371;Physique, équadiff et électricité;91
+https://www.youtube.com/watch?v=nejuOZ-N_ZQ;532;Mouvement dans un champ de force uniforme et indépendant du temps, partie 1;470
+https://www.youtube.com/watch?v=vsZOgN7azaY;213;Mouvement dans un champ de force uniforme et indépendant du temps, partie 2;274
+https://www.youtube.com/watch?v=pprKncOQbvQ;417;Conservation de l'énergie mécanique;283
+https://www.youtube.com/watch?v=MJFEY5O6SFs;291;Physique, loi de Snell-Descartes;497
+https://www.youtube.com/watch?v=j_OAcpcy1h8;174;Physique, nature des lentilles sphériques;228
+https://www.youtube.com/watch?v=d9SmOM-eaRo;302;Physique, tracés de rayons au passage d'une lentille mince;333
+https://www.youtube.com/watch?v=g8Y7RQ6bzuQ;420;Physique, les bases de l'électricité;542
+https://www.youtube.com/watch?v=w2G4PaW0IZ8;371;Physique, équadiff et électricité;576

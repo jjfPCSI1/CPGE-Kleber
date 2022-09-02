@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=xkiSuKKCrak;1173;TP express, mesure d'un indice de réfraction;1179
+https://www.youtube.com/watch?v=0U5vn8nZPic;464;TP Express, Un appareil photo dans votre poche !;378
+https://www.youtube.com/watch?v=EJUuShjVsS8;576;TP express, méthodes de focométrie;925
+https://www.youtube.com/watch?v=M5z_kLhqUjM;245;Goniomètre: réglages et utilisation;2846
+https://www.youtube.com/watch?v=iZ8TzjNQsS4;369;TP express, le viseur;1032
+https://www.youtube.com/watch?v=jXJj0PtvIDE;553;TP express, GBF, oscilloscope et plaque sysam;655
+https://www.youtube.com/watch?v=ke1qgGUfLc8;552;TP express, étude d'une photodiode et fabrication d'un luxmètre avec arduino;565
+https://www.youtube.com/watch?v=MCwnuAoE7Ek;439;TP express, Luxmètre et mesure de distance avec Arduino;286
+https://www.youtube.com/watch?v=ZnNFSPWxMLU;302;TP express, fabrication d'un condensateur artinasal;1109
+https://www.youtube.com/watch?v=0hT2Hg1Cwws;510;TP express, étude énergétique d'un circuirt RLC série;556
+https://www.youtube.com/watch?v=d66IclttROY;353;TP express, l'accéléromètre nous mentirait-il ?;278
+https://www.youtube.com/watch?v=Erz7PSRIOp0;386;TP express, raideur d'un ressort par méthode dynamique;606

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 17 janvier 2023, chapitre M7
+# Vidéos à voir pour le mardi 16 janvier 2023, chapitre M7
 
 Durée totale en vitesse normale: 2 h et 26 minutes (plus 19 minutes en option)
 

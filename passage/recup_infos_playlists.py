@@ -12,6 +12,7 @@ PLAYLISTS = {}
 with open('playlists.txt') as f:
     for ligne in f:
         denomination, lien = ligne.strip().split(';')
+        if denomination[0] == '#': continue
         PLAYLISTS[denomination] = lien
 
 for denomination in PLAYLISTS:

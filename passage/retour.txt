@@ -1,30 +1,31 @@
 Concernant la playlist organisation
-Un total de 1032 vues pour 5 vidéos, soit 206 vues par vidéo en moyenne
-avec un minimum de 180 vues et un maximum de 239 vues.
+Un total de 2126 vues pour 5 vidéos, soit 425 vues par vidéo en moyenne
+avec un minimum de 366 vues et un maximum de 518 vues.
 ======================================================================
 
 Concernant la playlist langues
-Un total de 270 vues pour 2 vidéos, soit 135 vues par vidéo en moyenne
-avec un minimum de 107 vues et un maximum de 163 vues.
+Un total de 544 vues pour 2 vidéos, soit 272 vues par vidéo en moyenne
+avec un minimum de 226 vues et un maximum de 318 vues.
 ======================================================================
 
 Concernant la playlist maths
-Un total de 6988 vues pour 38 vidéos, soit 183 vues par vidéo en moyenne
-avec un minimum de 71 vues et un maximum de 666 vues.
+Un total de 16109 vues pour 38 vidéos, soit 423 vues par vidéo en moyenne
+avec un minimum de 192 vues et un maximum de 1325 vues.
 ======================================================================
 
 Concernant la playlist physique
-Un total de 1257 vues pour 8 vidéos, soit 157 vues par vidéo en moyenne
-avec un minimum de 91 vues et un maximum de 279 vues.
+Un total de 3203 vues pour 8 vidéos, soit 400 vues par vidéo en moyenne
+avec un minimum de 228 vues et un maximum de 576 vues.
 ======================================================================
 
 Concernant la playlist chimie
-Un total de 838 vues pour 7 vidéos, soit 119 vues par vidéo en moyenne
-avec un minimum de 89 vues et un maximum de 189 vues.
+Un total de 1978 vues pour 7 vidéos, soit 282 vues par vidéo en moyenne
+avec un minimum de 205 vues et un maximum de 479 vues.
 ======================================================================
 
 Concernant la playlist informatique
-Un total de 924 vues pour 8 vidéos, soit 115 vues par vidéo en moyenne
-avec un minimum de 56 vues et un maximum de 235 vues.
+Un total de 2517 vues pour 8 vidéos, soit 314 vues par vidéo en moyenne
+avec un minimum de 213 vues et un maximum de 582 vues.
 ======================================================================
 
+Au total, 68 vidéos totalisent 26477 vues soit 389 vues par vidéo

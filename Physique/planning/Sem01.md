@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 06 septembre 2022, chapitres S0, S1
+# Vidéos à voir pour le mardi 05 septembre 2022, chapitres S0, S1
 
 Durée totale en vitesse normale: 3 h et 55 minutes (plus 54 minutes en option)
 
