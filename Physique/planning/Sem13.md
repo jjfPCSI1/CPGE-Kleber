@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 12 décembre 2022, chapitre M4
+# Vidéos à voir pour le lundi 12 décembre 2022, chapitre M4
 
 Durée totale en vitesse normale: 2 h et 47 minutes (plus 11 minutes en option)
 

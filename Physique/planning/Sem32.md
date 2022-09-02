@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 05 juin 2023, chapitre S9
+# Vidéos à voir pour le lundi 05 juin 2023, chapitre S9
 
 Durée totale en vitesse normale: 1 h et 22 minutes (plus 0 minutes en option)
 

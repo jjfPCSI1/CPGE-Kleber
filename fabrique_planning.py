@@ -2,7 +2,7 @@
 Fabrication des pages du planning en plusieurs étapes:
 
 * on lit le fichier semaines/planning.txt qui associe à chaque semaine une
-date (un mardi) ainsi qu'un ou plusieurs chapitre (info non utilisée, juste là
+date (un lundi) ainsi qu'un ou plusieurs chapitre (info non utilisée, juste là
 pour être sûr qu'on s'y retrouve). On fabrique à partir de là la page d'index
 de Physique/planning/
 
@@ -16,7 +16,7 @@ debut_index = """
 # Planning de l'année 2022-2023
 
 Vous trouverez sur cette page les liens vers les vidéos à voir pour chaque
-semaine de l'année à chaque fois pour le mardi qui commence:
+semaine de l'année à chaque fois pour le lundi qui commence:
 
 """
 
@@ -68,7 +68,7 @@ for semaine in DATE.keys():
     duree_totale = 0 # Temps total en minutes
     duree_opt = 0    # Temps des vidéos optionnelles
     txt = """
-# Vidéos à voir pour le mardi {}, chapitre {}
+# Vidéos à voir pour le lundi {}, chapitre {}
 
 Durée totale en vitesse normale: DUREE
 
@@ -125,7 +125,7 @@ Durée totale en vitesse normale: DUREE
 
 txt_index = debut_index
 
-generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le mardi {}   \n  durée: {}\n'
+generic = '* Vidéos de la [semaine {}]({}.html) ({}) à avoir vu pour le lundi {}   \n  durée: {}\n'
 for k in sorted(DATE.keys()):
      chap = CHAPITRES[k]
      num  = k[-2:] # Les deux derniers sont les chiffres de la semaine

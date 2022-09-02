@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le mardi 13 mars 2023, chapitres I4, I5
+# Vidéos à voir pour le lundi 13 mars 2023, chapitres I4, I5
 
 Durée totale en vitesse normale: 2 h et 49 minutes (plus 24 minutes en option)
 
