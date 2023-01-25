@@ -3,8 +3,6 @@ Cours;Physique;S8;S8, partie 2, notion de filtrage linéaire;https://youtu.be/uw
 Cours;Physique;S8;S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC;https://youtu.be/iOaxb68D0TA
 Cours;Physique;S8;S8, classification des divers filtres à disposition;https://youtu.be/tPdNomgUxTY
 Cours;Physique;S8;S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade;https://youtu.be/DKyddOdrxnQ
-Cours;Physique;S8;S8, partie 3 1, Amortisseurs de voiture;https://youtu.be/EJcE9slpzBA
-Cours;Physique;S8;S8, partie 3 2, sismomètre et accéléromètre;https://youtu.be/Wq9cr4X7JFs
 # Optionnel
 Essentiel;Physique;S8;L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre;https://youtu.be/MA8YZNMTCTs
 Essentiel;Physique;S8;L'essentiel, analyse qualitative d'un filtre du second ordre;https://youtu.be/04p7WE6VOu8

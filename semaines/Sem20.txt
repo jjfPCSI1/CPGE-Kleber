@@ -1,3 +1,5 @@
+Cours;Physique;S8;S8, partie 3 1, Amortisseurs de voiture;https://youtu.be/EJcE9slpzBA
+Cours;Physique;S8;S8, partie 3 2, sismomètre et accéléromètre;https://youtu.be/Wq9cr4X7JFs
 Cours;Physique;I1;I1, Champ magnétique, partie 1;https://youtu.be/p2GF7quALM8
 Cours;Physique;I1;I1, Champ magnétique, partie 2;https://youtu.be/T88rg9_am0I
 Cours;Physique;I1;I1, champ magnétique, partie 3;https://youtu.be/XBN0OlfytTU

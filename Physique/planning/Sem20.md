@@ -1,10 +1,12 @@
 
-# Vidéos à voir pour le lundi 06 février 2023, chapitre I1 (+ fin exos filtres)
+# Vidéos à voir pour le lundi 27 février 2023, chapitres S8, I1
 
-Durée totale en vitesse normale: 1 h et 56 minutes (plus 12 minutes en option)
+Durée totale en vitesse normale: 2 h et 46 minutes (plus 12 minutes en option)
 
 ## Liste avec liens vers YouTube
 
+*  [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA) (28 minutes)
+*  [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs) (22 minutes)
 *  [I1, Champ magnétique, partie 1](https://youtu.be/p2GF7quALM8) (30 minutes)
 *  [I1, Champ magnétique, partie 2](https://youtu.be/T88rg9_am0I) (1 h et 3 minutes)
 *  [I1, champ magnétique, partie 3](https://youtu.be/XBN0OlfytTU) (23 minutes)
@@ -12,6 +14,20 @@ Durée totale en vitesse normale: 1 h et 56 minutes (plus 12 minutes en option)
 * (optionnel) [Faisons Court (Ancien PCSI1) - Champ Magnétique et Electro-Aimant](https://youtu.be/abQcDpGsAsY) (5 minutes)
 
 ## Liste avec inclusion des vidéos
+
+*  S8, partie 3 1, Amortisseurs de voiture (28 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcE9slpzBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+*  S8, partie 3 2, sismomètre et accéléromètre (22 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9cr4X7JFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
 
 *  I1, Champ magnétique, partie 1 (30 minutes)
 

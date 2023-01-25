@@ -1,7 +1,7 @@
 
-# Vidéos à voir pour le lundi 21 février 2023, chapitre S8
+# Vidéos à voir pour le lundi 06 février 2023, chapitre S8
 
-Durée totale en vitesse normale: 4 h et 15 minutes (plus 16 minutes en option)
+Durée totale en vitesse normale: 3 h et 25 minutes (plus 16 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -10,8 +10,6 @@ Durée totale en vitesse normale: 4 h et 15 minutes (plus 16 minutes en option)
 *  [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA) (27 minutes)
 *  [S8, classification des divers filtres à disposition](https://youtu.be/tPdNomgUxTY) (45 minutes)
 *  [S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade](https://youtu.be/DKyddOdrxnQ) (26 minutes)
-*  [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA) (28 minutes)
-*  [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs) (22 minutes)
 * (optionnel) [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs) (5 minutes)
 * (optionnel) [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8) (7 minutes)
 * (optionnel) [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U) (4 minutes)
@@ -50,20 +48,6 @@ Durée totale en vitesse normale: 4 h et 15 minutes (plus 16 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DKyddOdrxnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-*  S8, partie 3 1, Amortisseurs de voiture (28 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcE9slpzBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-
-*  S8, partie 3 2, sismomètre et accéléromètre (22 minutes)
-
- <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9cr4X7JFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
