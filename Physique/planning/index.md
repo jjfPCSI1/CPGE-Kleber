@@ -67,7 +67,7 @@ semaine de l'année à chaque fois pour le lundi qui commence:
 * Semaine du concours blanc, révisez bien !
 * Vidéos de la [semaine 32](Sem32.html) (T0) à avoir vu pour le lundi 12 juin 2023   
   durée: 2 h et 30 minutes (plus 21 minutes en option)
-* Vidéos de la [semaine 33](Sem33.html) (S9,) à avoir vu pour le lundi 19 juin 2023   
+* Vidéos de la [semaine 33](Sem33.html) (S9) à avoir vu pour le lundi 19 juin 2023   
   durée: 1 h et 22 minutes (plus 0 minutes en option)
 * Vidéos de la [semaine 34](Sem34.html) (S10) à avoir vu pour le lundi 26 juin 2023   
   durée: 3 h et 20 minutes (plus 16 minutes en option)
