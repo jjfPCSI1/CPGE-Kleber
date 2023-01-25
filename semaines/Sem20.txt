@@ -1,3 +1,4 @@
+Cours;Physique;S8;S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade;https://youtu.be/DKyddOdrxnQ
 Cours;Physique;S8;S8, partie 3 1, Amortisseurs de voiture;https://youtu.be/EJcE9slpzBA
 Cours;Physique;S8;S8, partie 3 2, sismomètre et accéléromètre;https://youtu.be/Wq9cr4X7JFs
 Cours;Physique;I1;I1, Champ magnétique, partie 1;https://youtu.be/p2GF7quALM8

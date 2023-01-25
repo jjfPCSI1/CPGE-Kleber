@@ -41,9 +41,9 @@ semaine de l'année à chaque fois pour le lundi qui commence:
 * Vidéos de la [semaine 18](Sem18.html) (S7) à avoir vu pour le lundi 30 janvier 2023   
   durée: 1 h et 43 minutes (plus 27 minutes en option)
 * Vidéos de la [semaine 19](Sem19.html) (S8) à avoir vu pour le lundi 06 février 2023   
-  durée: 3 h et 25 minutes (plus 16 minutes en option)
+  durée: 2 h et 59 minutes (plus 16 minutes en option)
 * Vidéos de la [semaine 20](Sem20.html) (S8, I1) à avoir vu pour le lundi 27 février 2023   
-  durée: 2 h et 46 minutes (plus 12 minutes en option)
+  durée: 3 h et 12 minutes (plus 12 minutes en option)
 * Vidéos de la [semaine 21](Sem21.html) (I2) à avoir vu pour le lundi 06 mars 2023   
   durée: 2 h et 13 minutes (plus 18 minutes en option)
 * Vidéos de la [semaine 22](Sem22.html) (I3, I4) à avoir vu pour le lundi 13 mars 2023   
@@ -64,13 +64,12 @@ semaine de l'année à chaque fois pour le lundi qui commence:
   durée: 2 h et 44 minutes (plus 0 minutes en option)
 * Vidéos de la [semaine 30](Sem30.html) (T6) à avoir vu pour le lundi 29 mai 2023   
   durée: 4 h et 11 minutes (plus 8 minutes en option)
-* Vidéos de la [semaine 31](Sem31.html) (T0) à avoir vu pour le lundi 12 juin 2023   
+* Semaine du concours blanc, révisez bien !
+* Vidéos de la [semaine 32](Sem32.html) (T0) à avoir vu pour le lundi 12 juin 2023   
   durée: 2 h et 30 minutes (plus 21 minutes en option)
-* Vidéos de la [semaine 32](Sem32.html) (S9) à avoir vu pour le lundi 19 juin 2023   
+* Vidéos de la [semaine 33](Sem33.html) (S9,) à avoir vu pour le lundi 19 juin 2023   
   durée: 1 h et 22 minutes (plus 0 minutes en option)
-* Vidéos de la [semaine 33](Sem33.html) (S10) à avoir vu pour le lundi 26 juin 2023   
+* Vidéos de la [semaine 34](Sem34.html) (S10) à avoir vu pour le lundi 26 juin 2023   
   durée: 3 h et 20 minutes (plus 16 minutes en option)
-* Vidéos de la [semaine 34](Sem34.html) (S11) à avoir vu pour le lundi 03 juillet 2023   
+* Vidéos de la [semaine 35](Sem35.html) (S11) à avoir vu pour le lundi 03 juillet 2023   
   durée: 3 h et 37 minutes (plus 0 minutes en option)
-* Vidéos de la [semaine CB](SemCCB.html) (révisions pour Concours Blanc, pas de vidéos) à avoir vu pour le lundi 05 juin 2023   
-  durée: 0 minutes (plus 0 minutes en option)

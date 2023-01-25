@@ -28,8 +28,8 @@ Sem27;08-05-23;T3, T4
 Sem28;15-05-23;T4
 Sem29;22-05-23;T5
 Sem30;29-05-23;T6
-SemCCB;05-06-23;révisions pour Concours Blanc, pas de vidéos
-Sem31;12-06-23;T0
-Sem32;19-06-23;S9
-Sem33;26-06-23;S10
-Sem34;03-07-23;S11
+Sem31;05-06-23;CCB
+Sem32;12-06-23;T0
+Sem33;19-06-23;S9, 
+Sem34;26-06-23;S10
+Sem35;03-07-23;S11

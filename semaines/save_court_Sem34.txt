@@ -1,0 +1,8 @@
+Cours;Physique;S10;S10, partie 4, diffraction à l'infini;https://youtu.be/X82xhdKwQdA
+Cours;Physique;S11;S11, partie 1, Aspect corpusculaire de la lumière;https://youtu.be/D55aqpU5mfM
+Cours;Physique;S11;S11, partie 2, aspect ondulatoire de la matière;https://youtu.be/7CP0iHkhzeA
+Cours;Physique;S11;S11, partie 3, Oscillateur Harmonique Quantique, Puits infini et atome de Bohr;https://youtu.be/BQq1lKvCTlA
+# Optionnel
+Savoir-faire;Physique;S10;Représentation de Fresnel (1/3), principe;https://youtu.be/L7qd21sR5nU
+Savoir-faire;Physique;S10;Représentation de Fresnel (2/3), application à l'addition de deux signaux;https://youtu.be/s9LVY44vB7s
+Savoir-faire;Physique;S10;Application de la représentation de Fresnel (3/3), quelques exemples;https://youtu.be/lnbqEsXiMdA
