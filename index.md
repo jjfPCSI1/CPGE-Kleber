@@ -5,7 +5,7 @@ place au début du confinement de mars 2020 et qui vise à permettre aux élève
 de la PCSI1 du lycée Kléber, mais aussi à tout élève désireux de travailler 
 son cours de CPGE, de s'y retrouver facilement dans les vidéos proposées.
 
-Pour la PCSI1 en particulier, voici le lien vers le [planning 2021-2022](Physique/planning/)
+Pour la PCSI1 en particulier, voici le lien vers le [planning 2022-2023](Physique/planning/)
 
 Toutes les vidéos peuvent bien sûr être retrouvées sur la [chaîne 
 Youtube](https://www.youtube.com/c/JeanJulienFleck) en particulier si vous 
