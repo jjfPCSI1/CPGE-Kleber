@@ -65,7 +65,7 @@ semaine de l'année à chaque fois pour le lundi qui commence:
 * Vidéos de la [semaine 30](Sem30.html) (T6) à avoir vu pour le lundi 22 mai 2023   
   durée: 4 h et 11 minutes (plus 8 minutes en option)
 * Vidéos de la [semaine 31](Sem31.html) (T0) à avoir vu pour le lundi 29 mai 2023   
-  durée: 0 minutes (plus 0 minutes en option)
+  durée: 2 h et 30 minutes (plus 21 minutes en option)
 * Semaine du concours blanc, révisez bien !
 * Vidéos de la [semaine 33](Sem33.html) (S9) à avoir vu pour le lundi 12 juin 2023   
   durée: 1 h et 22 minutes (plus 0 minutes en option)
