@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 29 mai 2023, chapitre T0
+# Vidéos à voir pour le lundi 05 juin 2023, chapitre CCB
 
 Durée totale en vitesse normale: 2 h et 30 minutes (plus 21 minutes en option)
 
