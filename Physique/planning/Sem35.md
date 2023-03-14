@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 03 juillet 2023, chapitre S11
+# Vidéos à voir pour le lundi 26 juin 2023, chapitre S11
 
 Durée totale en vitesse normale: 3 h et 37 minutes (plus 0 minutes en option)
 

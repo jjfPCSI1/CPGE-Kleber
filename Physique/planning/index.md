@@ -48,28 +48,28 @@ semaine de l'année à chaque fois pour le lundi qui commence:
   durée: 2 h et 13 minutes (plus 18 minutes en option)
 * Vidéos de la [semaine 22](Sem22.html) (I3, I4) à avoir vu pour le lundi 13 mars 2023   
   durée: 2 h et 49 minutes (plus 20 minutes en option)
-* Vidéos de la [semaine 23](Sem23.html) (I4, I5) à avoir vu pour le lundi 27 mars 2023   
+* Vidéos de la [semaine 23](Sem23.html) (I4, I5) à avoir vu pour le lundi 20 mars 2023   
   durée: 2 h et 49 minutes (plus 24 minutes en option)
-* Vidéos de la [semaine 24](Sem24.html) (I5, T0) à avoir vu pour le lundi 03 avril 2023   
+* Vidéos de la [semaine 24](Sem24.html) (I5, T0) à avoir vu pour le lundi 27 mars 2023   
   durée: 2 h et 26 minutes (plus 21 minutes en option)
-* Vidéos de la [semaine 25](Sem25.html) (T1) à avoir vu pour le lundi 10 avril 2023   
+* Vidéos de la [semaine 25](Sem25.html) (T1) à avoir vu pour le lundi 03 avril 2023   
   durée: 3 h et 23 minutes (plus 21 minutes en option)
-* Vidéos de la [semaine 26](Sem26.html) (T2) à avoir vu pour le lundi 01 mai 2023   
+* Vidéos de la [semaine 26](Sem26.html) (T2) à avoir vu pour le lundi 10 avril 2023   
   durée: 3 h et 47 minutes (plus 14 minutes en option)
-* Vidéos de la [semaine 27](Sem27.html) (T3, T4) à avoir vu pour le lundi 08 mai 2023   
+* Vidéos de la [semaine 27](Sem27.html) (T3, T4) à avoir vu pour le lundi 01 mai 2023   
   durée: 3 h et 23 minutes (plus 5 minutes en option)
-* Vidéos de la [semaine 28](Sem28.html) (T4) à avoir vu pour le lundi 15 mai 2023   
+* Vidéos de la [semaine 28](Sem28.html) (T4) à avoir vu pour le lundi 08 mai 2023   
   durée: 3 h et 18 minutes (plus 28 minutes en option)
-* Vidéos de la [semaine 29](Sem29.html) (T5) à avoir vu pour le lundi 22 mai 2023   
+* Vidéos de la [semaine 29](Sem29.html) (T5) à avoir vu pour le lundi 15 mai 2023   
   durée: 2 h et 44 minutes (plus 0 minutes en option)
-* Vidéos de la [semaine 30](Sem30.html) (T6) à avoir vu pour le lundi 29 mai 2023   
+* Vidéos de la [semaine 30](Sem30.html) (T6) à avoir vu pour le lundi 22 mai 2023   
   durée: 4 h et 11 minutes (plus 8 minutes en option)
 * Semaine du concours blanc, révisez bien !
-* Vidéos de la [semaine 32](Sem32.html) (T0) à avoir vu pour le lundi 12 juin 2023   
+* Vidéos de la [semaine 32](Sem32.html) (T0) à avoir vu pour le lundi 29 mai 2023   
   durée: 2 h et 30 minutes (plus 21 minutes en option)
-* Vidéos de la [semaine 33](Sem33.html) (S9) à avoir vu pour le lundi 19 juin 2023   
+* Vidéos de la [semaine 33](Sem33.html) (S9) à avoir vu pour le lundi 12 juin 2023   
   durée: 1 h et 22 minutes (plus 0 minutes en option)
-* Vidéos de la [semaine 34](Sem34.html) (S10) à avoir vu pour le lundi 26 juin 2023   
+* Vidéos de la [semaine 34](Sem34.html) (S10) à avoir vu pour le lundi 19 juin 2023   
   durée: 3 h et 20 minutes (plus 16 minutes en option)
-* Vidéos de la [semaine 35](Sem35.html) (S11) à avoir vu pour le lundi 03 juillet 2023   
+* Vidéos de la [semaine 35](Sem35.html) (S11) à avoir vu pour le lundi 26 juin 2023   
   durée: 3 h et 37 minutes (plus 0 minutes en option)
