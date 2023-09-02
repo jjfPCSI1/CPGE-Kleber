@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 14 novembre 2022, chapitre M1
+# Vidéos à voir pour le lundi 13 novembre 2023, chapitre M1
 
 Durée totale en vitesse normale: 2 h et 45 minutes (plus 16 minutes en option)
 

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 07 novembre 2022, chapitres M0, M1
+# Vidéos à voir pour le lundi 06 novembre 2023, chapitres M0, M1
 
 Durée totale en vitesse normale: 2 h et 34 minutes (plus 2 minutes en option)
 

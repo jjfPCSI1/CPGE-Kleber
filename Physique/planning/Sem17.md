@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 23 janvier 2023, chapitre S7
+# Vidéos à voir pour le lundi 22 janvier 2023, chapitre S7
 
 Durée totale en vitesse normale: 2 h et 36 minutes (plus 47 minutes en option)
 

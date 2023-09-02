@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 09 janvier 2023, chapitre M6
+# Vidéos à voir pour le lundi 08 janvier 2024, chapitre M6
 
 Durée totale en vitesse normale: 3 h et 21 minutes (plus 41 minutes en option)
 

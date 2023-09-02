@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 19 septembre 2022, chapitres S2, S3
+# Vidéos à voir pour le lundi 18 septembre 2023, chapitres S2, S3
 
 Durée totale en vitesse normale: 4 h et 5 minutes (plus 8 minutes en option)
 
