@@ -1,15 +1,9 @@
-# Optionnel 5
-Expérience;Physique;S1;NCIS: interrogation room, Principe du miroir sans tain;https://youtu.be/796zHx_vdiw
-Expérience;Physique;S1;L’énigme du biberon de lait;https://youtu.be/5oXs0ruxRbk
-Expérience;Physique;S1;Le mystère du doigt en triple;https://youtu.be/qqzBjvEmtTA
-Expérience;Physique;S1;Plongée en eaux troubles chez les axolotls;https://youtu.be/u_QVmyIKyS4
-Expérience;Physique;S1;Un burin dans mon aquarium;https://youtu.be/69_ScPtD7R8
-Cours;Physique;S1;Optique géométrique, partie 3, miroir et dioptre plans;https://youtu.be/LOOMgec_RuY
 # Optionnel 1
 Essentiel;Physique;S1;L’essentiel sur l’optique géométrique;https://youtu.be/ALNDFzfj5NQ
 Cours;Physique;S2;S2, partie 1, lentilles minces dans l’approximation de Gauss;https://youtu.be/j19WY4taPNE
 Cours;Physique;S2;S2, partie 2, constructions graphiques;https://youtu.be/HF5o2zR8mPM
 Animation;Physique;S2;Objet-image pour les lentilles;https://youtu.be/St9bJM89aUI
+Cours;Physique;S2;S2, partie 3, relations de conjugaison;https://youtu.be/wuzqU0xa6S0
 # Optionnel
 Savoir-faire;Physique;S2;Tracé d’une image à partir d’un objet AB;https://youtu.be/Y404htGFNmM
 Savoir-faire;Physique;S2;Tracé d'un objet à partir d’une image A’B’;https://youtu.be/XbFz0rUWSUc

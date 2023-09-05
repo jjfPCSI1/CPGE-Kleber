@@ -1,4 +1,3 @@
-Cours;Physique;S0;S0, partie 1, Homogénéité;https://youtu.be/PfdRpjnDgH8
 PM;Physique;S0;Point méthode, analyse dimensionnelle;https://youtu.be/l9o3QecW2Hk
 PM;Physique;S0;Dérivée de fonctions composées (1/2), présentation;https://youtu.be/tejCkGhKs0M
 # Optionnel 1
@@ -8,6 +7,7 @@ PM;Physique;S0;Développements limités en physique (1/2), présentation;https:/
 PM;Physique;S0;Développements limités en physique (2/2), correction;https://youtu.be/oO9nZhnofjc
 Cours;Physique;S1;Optique géométrique, partie 1, la lumière;https://youtu.be/IuTHPE5BToc
 Cours;Physique;S1;Optique géométrique, partie 2, lois de Descartes;https://youtu.be/1dDZTVz0n74
+Cours;Physique;S1;Optique géométrique, partie 3, miroir et dioptre plans;https://youtu.be/LOOMgec_RuY
 # Optionnel
 Expérience;Physique;S1;NCIS: interrogation room, Principe du miroir sans tain;https://youtu.be/796zHx_vdiw
 Expérience;Physique;S1;L’énigme du biberon de lait;https://youtu.be/5oXs0ruxRbk
