@@ -1,4 +1,3 @@
-Cours;Physique;S2;S2, partie 3, relations de conjugaison;https://youtu.be/wuzqU0xa6S0
 Cours;Physique;S2;S2, partie 4, instruments d’optique;https://youtu.be/TJ1ajAUVhIg
 Animation;Physique;S2;Animation sur les défauts de l’œil;https://youtu.be/QSHyidVFEsw
 Animation;Physique;S2;Animation lunette astronomique;https://youtu.be/xBk9Hl6tTvs

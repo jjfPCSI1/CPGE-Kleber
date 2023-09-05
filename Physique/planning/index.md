@@ -11,7 +11,7 @@ semaine de l'année à chaque fois pour le lundi qui commence:
 * Vidéos de la [semaine 02](Sem02.html) (S2) à avoir vu pour le lundi 18 septembre 2023   
   durée: 3 h et 34 minutes (plus 23 minutes en option)
 * Vidéos de la [semaine 03](Sem03.html) (S2, S3) à avoir vu pour le lundi 25 septembre 2023   
-  durée: 4 h et 5 minutes (plus 8 minutes en option)
+  durée: 2 h et 42 minutes (plus 8 minutes en option)
 * Vidéos de la [semaine 04](Sem04.html) (S3) à avoir vu pour le lundi 02 octobre 2023   
   durée: 4 h et 9 minutes (plus 14 minutes en option)
 * Vidéos de la [semaine 05](Sem05.html) (S4) à avoir vu pour le lundi 09 octobre 2023   
