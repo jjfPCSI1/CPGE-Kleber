@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 02 octobre 2023, chapitre S4
+# Vidéos à voir pour le lundi 09 octobre 2023, chapitre S4
 
 Durée totale en vitesse normale: 2 h et 53 minutes (plus 59 minutes en option)
 

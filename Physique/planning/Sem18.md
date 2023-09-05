@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 29 janvier 2023, chapitre S7
+# Vidéos à voir pour le lundi 05 février 2024, chapitre S7
 
 Durée totale en vitesse normale: 1 h et 43 minutes (plus 27 minutes en option)
 

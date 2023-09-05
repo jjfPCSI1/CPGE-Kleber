@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 17 juin 2023, chapitre S10
+# Vidéos à voir pour le lundi 24 juin 2024, chapitre S10
 
 Durée totale en vitesse normale: 3 h et 20 minutes (plus 16 minutes en option)
 

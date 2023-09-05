@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 04 septembre 2023, chapitres S0, S1
+# Vidéos à voir pour le lundi 11 septembre 2023, chapitre S1
 
 Durée totale en vitesse normale: 3 h et 55 minutes (plus 54 minutes en option)
 

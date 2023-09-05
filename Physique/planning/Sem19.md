@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 05 février 2023, chapitre S8
+# Vidéos à voir pour le lundi 12 février 2024, chapitre S8
 
 Durée totale en vitesse normale: 2 h et 59 minutes (plus 16 minutes en option)
 

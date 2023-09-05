@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 21 mai 2023, chapitre T6
+# Vidéos à voir pour le lundi 27 mai 2024, chapitre T6
 
 Durée totale en vitesse normale: 4 h et 11 minutes (plus 8 minutes en option)
 

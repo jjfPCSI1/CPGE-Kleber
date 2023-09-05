@@ -1,0 +1,6 @@
+Cours;Physique;T0;T0, partie 3, Résultante des forces de pression;https://youtu.be/n30gw5A8TlE
+Cours;Physique;T0;T0, partie 4, Forces volumiques de pression;https://youtu.be/k2_jqGKFhl4
+# Optionnel
+Essentiel;Physique;T0;L'essentiel, travail des forces pressantes sur un système thermodynamique;https://youtu.be/b9aoSWqzHP0
+Essentiel;Physique;T0;L'essentiel, notion de pression dans un fluide;https://youtu.be/4bo11_9oYXA
+DiaN;Physique;T0;DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme;https://youtu.be/KbHYb5W-cVw

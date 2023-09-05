@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 20 novembre 2023, chapitre M2
+# Vidéos à voir pour le lundi 27 novembre 2023, chapitre M2
 
 Durée totale en vitesse normale: 1 h et 50 minutes (plus 9 minutes en option)
 
