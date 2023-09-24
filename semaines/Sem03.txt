@@ -3,5 +3,6 @@ Animation;Physique;S2;Animation sur les défauts de l’œil;https://youtu.be/QS
 Animation;Physique;S2;Animation lunette astronomique;https://youtu.be/xBk9Hl6tTvs
 # Optionnel 2
 DiaN;Physique;S2;Passage algébrique de Descartes à Newton pour les lentilles minces;https://youtu.be/ovTa2IEEEj0
+DiaN;Physique;S2;DiaN, image réelle d'un objet réel pour une lentille convergente: D supérieure ou égale à 4f';https://youtu.be/9PHgwUCi8nA
 Essentiel;Physique;S2;L’essentiel sur les lentilles minces;https://youtu.be/T3nog9EKSJ8
 Cours;Physique;S3;S3, partie 1, Circuits électriques dans le cadre de l'ARQS avant puissance;https://youtu.be/s4TL61TfgMo
