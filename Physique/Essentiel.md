@@ -20,6 +20,10 @@
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_-H_8wRB10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+* [Les bases de l'électricité](https://youtu.be/g8Y7RQ6bzuQ)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8Y7RQ6bzuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 * [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kQwORcuAyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

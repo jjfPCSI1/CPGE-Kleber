@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le lundi 02 octobre 2023, chapitre S3
 
-Durée totale en vitesse normale: 4 h et 9 minutes (plus 20 minutes en option)
+Durée totale en vitesse normale: 4 h et 9 minutes (plus 28 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -12,6 +12,7 @@ Durée totale en vitesse normale: 4 h et 9 minutes (plus 20 minutes en option)
 *  [S3, partie 2.4, sources linéaires](https://youtu.be/Wd8ZsSGNGLo) (38 minutes)
 *  [S3, partie 3, association de résistances et raccourcis](https://youtu.be/cV7ihzZdZAQ) (51 minutes)
 * (optionnel) [L’essentiel sur les circuits électriques](https://youtu.be/v_-H_8wRB10) (9 minutes)
+* (optionnel) [Les bases de l'électricité](https://youtu.be/g8Y7RQ6bzuQ) (8 minutes)
 * (optionnel) [DiaN, diviseur de tension](https://youtu.be/q-Rzt0N78gs) (2 minutes)
 * (optionnel) [DiaN, diviseur de courant](https://youtu.be/3JyIYnJh8-k) (2 minutes)
 * (optionnel) [DiaN, équivalence Thévenin/Norton](https://youtu.be/_FjEDjBIK38) (2 minutes)
@@ -65,6 +66,13 @@ Durée totale en vitesse normale: 4 h et 9 minutes (plus 20 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_-H_8wRB10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Les bases de l'électricité (8 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8Y7RQ6bzuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

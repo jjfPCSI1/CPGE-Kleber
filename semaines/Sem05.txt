@@ -4,6 +4,7 @@ Expérience;Physique;S4;Expérience du circuit RC série;https://youtu.be/_FTwRY
 Cours;Physique;S4;S4, partie 2, Mise en équation;https://youtu.be/4Ba_2_0oiLU
 # Optionnel
 Savoir-faire;Physique;S3;Gentils et Méchants, le principe;https://youtu.be/TR4EwaVldk8
+Essentiel;Physique;S3;Les bases de l'électricité;https://youtu.be/g8Y7RQ6bzuQ
 TP;Physique;S4;Matériel de TP, la plaque Sysam et LatisPro;https://youtu.be/YGyb_nnhLRU
 Essentiel;Physique;S4;L'essentiel: détermination des conditions initiales;https://youtu.be/5kQwORcuAyI
 Essentiel;Physique;S4;L'essentiel: circuits du premier ordre;https://youtu.be/1someJAuFz0

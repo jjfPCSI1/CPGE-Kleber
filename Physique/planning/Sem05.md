@@ -1,7 +1,7 @@
 
 # Vidéos à voir pour le lundi 09 octobre 2023, chapitre S4
 
-Durée totale en vitesse normale: 2 h et 53 minutes (plus 59 minutes en option)
+Durée totale en vitesse normale: 2 h et 53 minutes (plus 1 h et 7 minutes en option)
 
 ## Liste avec liens vers YouTube
 
@@ -10,6 +10,7 @@ Durée totale en vitesse normale: 2 h et 53 minutes (plus 59 minutes en option)
 *  [Expérience du circuit RC série](https://youtu.be/_FTwRYAQIhA) (4 minutes)
 *  [S4, partie 2, Mise en équation](https://youtu.be/4Ba_2_0oiLU) (1 h et 49 minutes)
 * (optionnel) [Gentils et Méchants, le principe](https://youtu.be/TR4EwaVldk8) (5 minutes)
+* (optionnel) [Les bases de l'électricité](https://youtu.be/g8Y7RQ6bzuQ) (8 minutes)
 * (optionnel) [Matériel de TP, la plaque Sysam et LatisPro](https://youtu.be/YGyb_nnhLRU) (9 minutes)
 * (optionnel) [L'essentiel: détermination des conditions initiales](https://youtu.be/5kQwORcuAyI) (4 minutes)
 * (optionnel) [L'essentiel: circuits du premier ordre](https://youtu.be/1someJAuFz0) (5 minutes)
@@ -56,6 +57,13 @@ Durée totale en vitesse normale: 2 h et 53 minutes (plus 59 minutes en option)
 
  <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TR4EwaVldk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Les bases de l'électricité (8 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8Y7RQ6bzuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
