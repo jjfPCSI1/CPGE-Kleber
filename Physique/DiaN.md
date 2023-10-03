@@ -24,6 +24,18 @@
 
 ### Electricité
 
+* [DiaN, diviseur de tension](https://youtu.be/q-Rzt0N78gs)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-Rzt0N78gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [DiaN, diviseur de courant](https://youtu.be/3JyIYnJh8-k)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JyIYnJh8-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [DiaN, équivalence Thévenin/Norton](https://youtu.be/_FjEDjBIK38)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FjEDjBIK38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 * [DiaN: Exemple de résolution de circuit du premier ordre](https://youtu.be/xXNI_Yn3Cg4)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xXNI_Yn3Cg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
