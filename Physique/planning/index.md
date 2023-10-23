@@ -18,9 +18,9 @@ semaine de l'année à chaque fois pour le lundi qui commence:
   durée: 2 h et 53 minutes (plus 1 h et 7 minutes en option)
 * Vidéos de la [semaine 06](Sem06.html) (S4, S5) à avoir vu pour le lundi 16 octobre 2023   
   durée: 3 h et 40 minutes (plus 9 minutes en option)
-* Vidéos de la [semaine 07](Sem07.html) (S6, M0) à avoir vu pour le lundi 06 novembre 2023   
+* Vidéos de la [semaine 07](Sem07.html) (S6, M0, M1) à avoir vu pour le lundi 06 novembre 2023   
   durée: 5 h et 39 minutes (plus 12 minutes en option)
-* Vidéos de la [semaine 08](Sem08.html) (M0, M1) à avoir vu pour le lundi 13 novembre 2023   
+* Vidéos de la [semaine 08](Sem08.html) (M1) à avoir vu pour le lundi 13 novembre 2023   
   durée: 2 h et 45 minutes (plus 16 minutes en option)
 * Vidéos de la [semaine 09](Sem09.html) (M2) à avoir vu pour le lundi 20 novembre 2023   
   durée: 1 h et 50 minutes (plus 9 minutes en option)

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 06 novembre 2023, chapitres S6, M0
+# Vidéos à voir pour le lundi 06 novembre 2023, chapitres S6, M0, M1
 
 Durée totale en vitesse normale: 5 h et 39 minutes (plus 12 minutes en option)
 
