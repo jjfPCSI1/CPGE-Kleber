@@ -1,7 +1,9 @@
-Cours;Physique;T1;T1, partie 1, théorie cinétique des gaz;https://youtu.be/ktCqwVC5n9s
-Cours;Physique;T1;T1, partie 2, Vocabulaire thermodynamique;https://youtu.be/cUUJYNLDgTk
-Cours;Physique;T1;T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3;https://youtu.be/bqJ-u8jQ-7I
+Cours;Physique;T2;T2, gaz réels, phases condensée et changements d'état, partie 1;https://youtu.be/ijNMe-uezY4
+Cours;Physique;T2;T2, partie 2, présentation générale des changements d'état;https://youtu.be/CuhtpmLiEeE
+Cours;Physique;T2;T2, partie 3, diagramme P,T;https://youtu.be/1ALJnYm5ZHM
+Cours;Physique;T2;T2, partie 4, équilibre liquide-vapeur;https://youtu.be/HH0Fcz-rouY
 # Optionnel
-Essentiel;Physique;T1;L'essentiel, notion d'énergie interne U;https://youtu.be/XKQ3HkihIv0
-Essentiel;Physique;T1;L'essentiel, théorie cinétique des gaz;https://youtu.be/HsgYArgXnrA
-DiaN;Physique;T1;DiaN, notion de pression cinétique;https://youtu.be/UdODT76lFfk
+Savoir-faire;Physique;T2;Savoir faire, passer de 1 à n moles;https://youtu.be/eoyVSGgZaAk
+Savoir-faire;Physique;T2;Interpolation linéaire (1/3), principe;https://youtu.be/xhCcHVWayjA
+Savoir-faire;Physique;T2;Interpolation linéaire (2/3), vision intuitive;https://youtu.be/S3VTX_4CyQ8
+Savoir-faire;Physique;T2;Interpolation linéaire (3/3), application pratique;https://youtu.be/Bgi1SMRQ2vA

@@ -1,6 +1,7 @@
-Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 3 (et 4);https://youtu.be/nNH3RYRSbDE
-Cours;Physique;T0;T0, début de l'hydrostatique;https://youtu.be/6SsroJWV3VM
+Cours;Physique;T1;T1, partie 1, théorie cinétique des gaz;https://youtu.be/ktCqwVC5n9s
+Cours;Physique;T1;T1, partie 2, Vocabulaire thermodynamique;https://youtu.be/cUUJYNLDgTk
+Cours;Physique;T1;T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3;https://youtu.be/bqJ-u8jQ-7I
 # Optionnel
-Essentiel;Physique;T0;L'essentiel, travail des forces pressantes sur un système thermodynamique;https://youtu.be/b9aoSWqzHP0
-Essentiel;Physique;T0;L'essentiel, notion de pression dans un fluide;https://youtu.be/4bo11_9oYXA
-DiaN;Physique;T0;DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme;https://youtu.be/KbHYb5W-cVw
+Essentiel;Physique;T1;L'essentiel, notion d'énergie interne U;https://youtu.be/XKQ3HkihIv0
+Essentiel;Physique;T1;L'essentiel, théorie cinétique des gaz;https://youtu.be/HsgYArgXnrA
+DiaN;Physique;T1;DiaN, notion de pression cinétique;https://youtu.be/UdODT76lFfk

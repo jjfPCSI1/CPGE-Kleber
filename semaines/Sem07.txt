@@ -6,3 +6,11 @@ Cours;Physique;M0;M0, partie 1, Connaissances de base sur les vecteurs;https://y
 Cours;Physique;M0;M0, partie 2, projections;https://youtu.be/PHPP5HAByk0
 # Optionnel 1
 Savoir-faire;Physique;M0;Savoir-faire, projeter un vecteur sur une base orthonormée;https://youtu.be/s_lBmr_1zBo
+Cours;Physique;M0;M0, partie 3, produit vectoriel;https://youtu.be/yxkOwnByyrk
+Cours;Physique;M0;M0, partie 4.1, Résolution vectorielle d'équation différentielle, exemple simple;https://youtu.be/KxD4IBSb1LM
+Cours;Physique;M0;M0, partie 4.2, Exemple un peu plus évolué;https://youtu.be/jYldm1OupGY
+Cours;Physique;M0;M0, partie 5, barycentres;https://youtu.be/-JoPHW85pSc
+# Optionnel 1
+Savoir-faire;Physique;M0;Savoir-faire, produit vectoriel de deux vecteurs du plan;https://youtu.be/5W-zXhNfQPU
+Cours;Physique;M1;M1, partie 1, Notion d'espace-temps;https://youtu.be/CqFj4KW17GI
+Cours;Physique;M1;M1, partie 2, Référentiels d'observation;https://youtu.be/07g1wnFqYbQ

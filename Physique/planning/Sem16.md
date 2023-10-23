@@ -1,114 +1,114 @@
 
 # Vidéos à voir pour le lundi 22 janvier 2024, chapitre M7
 
-Durée totale en vitesse normale: 2 h et 26 minutes (plus 19 minutes en option)
+Durée totale en vitesse normale: 2 h et 36 minutes (plus 47 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [M7, partie 1, champ de force centrale](https://youtu.be/EHrFJYf4qCY) (30 minutes)
-*  [M7, partie 2, champ de force centrale conservatif](https://youtu.be/zR5yxj6e14U) (46 minutes)
-*  [M7, parties 3.1 à 3.3, Cas particulier du champ newtonien attracteur](https://youtu.be/PWbmI6zkPPc) (33 minutes)
-*  [M7, parties 3 4 et 3 5, Vitesses cosmiques et énergie mécanique](https://youtu.be/CzJp-rn6YjI) (25 minutes)
-*  [M7, Complément sur la géométrie des ellipses](https://youtu.be/38K4JBt8J_w) (12 minutes)
-* (optionnel) [L'essentiel, mouvement dans un champ de force centrale conservatif](https://youtu.be/eJDIWLQ1f1M) (5 minutes)
-* (optionnel) [Par déf, force centrale conservative ?](https://youtu.be/-qFl4VbnpKU) (2 minutes)
-* (optionnel) [DiaN, Pourquoi a t on un mouvement plan lorsqu'on est soumis à une force centrale ?](https://youtu.be/1brOZRgw9hA) (1 minutes)
-* (optionnel) [DiaN, 3e loi de Képler](https://youtu.be/kc-r903YD_s) (3 minutes)
-* (optionnel) [DiaN, vitesse de libération](https://youtu.be/H6LRCG_VQcc) (2 minutes)
-* (optionnel) [DiaN, vitesse de circularisation pour une force gravitationnelle](https://youtu.be/JrKlD2VLjwg) (3 minutes)
-* (optionnel) [DiaN, énergie potentielle effective pour une force centrale conservative](https://youtu.be/biRfGAh3g-c) (2 minutes)
-* (optionnel) [DiaN, Énergie mécanique pour une orbite elliptique ou circulaire ?](https://youtu.be/naYH4SEFl2Q) (1 minutes)
+*  [S7, partie 1, régime sinusoïdal forcé et notation complexe](https://youtu.be/mtbVY64U7fQ) (47 minutes)
+*  [Expérience de cours, S7, résonance dans le RLC série](https://youtu.be/eEcj6zSbKr4) (13 minutes)
+*  [S7, partie 2, impédance complexe](https://youtu.be/oarBKzvv-FM) (43 minutes)
+*  [S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant](https://youtu.be/Q1JAPjF6Z6g) (32 minutes)
+*  [S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité](https://youtu.be/TlPN5o4QIpQ) (21 minutes)
+* (optionnel) [Par déf, Impédance complexe](https://youtu.be/Bwr80nZXxW8) (5 minutes)
+* (optionnel) [Par déf, notation complexe en régime sinusoïdal forcé](https://youtu.be/QrAbmfEGpvQ) (7 minutes)
+* (optionnel) [Représentation de Fresnel (1/3), principe](https://youtu.be/L7qd21sR5nU) (3 minutes)
+* (optionnel) [Représentation de Fresnel (2/3), application à l'addition de deux signaux](https://youtu.be/s9LVY44vB7s) (5 minutes)
+* (optionnel) [Application de la représentation de Fresnel (3/3), quelques exemples](https://youtu.be/lnbqEsXiMdA) (8 minutes)
+* (optionnel) [Matériel de TP, le générateur basse fréquence GBF](https://youtu.be/cc5qh-ecE2Q) (5 minutes)
+* (optionnel) [Matériel de TP, l'oscilloscope, guide de survie](https://youtu.be/LvbWWGnyRoc) (10 minutes)
+* (optionnel) [Matériel de TP, mesures au multimètre en mode AC](https://youtu.be/6rNykh1Suns) (4 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  M7, partie 1, champ de force centrale (30 minutes)
+*  S7, partie 1, régime sinusoïdal forcé et notation complexe (47 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHrFJYf4qCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtbVY64U7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M7, partie 2, champ de force centrale conservatif (46 minutes)
+*  Expérience de cours, S7, résonance dans le RLC série (13 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zR5yxj6e14U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eEcj6zSbKr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M7, parties 3.1 à 3.3, Cas particulier du champ newtonien attracteur (33 minutes)
+*  S7, partie 2, impédance complexe (43 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PWbmI6zkPPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oarBKzvv-FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M7, parties 3 4 et 3 5, Vitesses cosmiques et énergie mécanique (25 minutes)
+*  S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant (32 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CzJp-rn6YjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1JAPjF6Z6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  M7, Complément sur la géométrie des ellipses (12 minutes)
+*  S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité (21 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38K4JBt8J_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TlPN5o4QIpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, mouvement dans un champ de force centrale conservatif (5 minutes)
+* (optionnel) Par déf, Impédance complexe (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJDIWLQ1f1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bwr80nZXxW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Par déf, force centrale conservative ? (2 minutes)
+* (optionnel) Par déf, notation complexe en régime sinusoïdal forcé (7 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-qFl4VbnpKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrAbmfEGpvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, Pourquoi a t on un mouvement plan lorsqu'on est soumis à une force centrale ? (1 minutes)
+* (optionnel) Représentation de Fresnel (1/3), principe (3 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1brOZRgw9hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7qd21sR5nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, 3e loi de Képler (3 minutes)
+* (optionnel) Représentation de Fresnel (2/3), application à l'addition de deux signaux (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kc-r903YD_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9LVY44vB7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, vitesse de libération (2 minutes)
+* (optionnel) Application de la représentation de Fresnel (3/3), quelques exemples (8 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H6LRCG_VQcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnbqEsXiMdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, vitesse de circularisation pour une force gravitationnelle (3 minutes)
+* (optionnel) Matériel de TP, le générateur basse fréquence GBF (5 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JrKlD2VLjwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cc5qh-ecE2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, énergie potentielle effective pour une force centrale conservative (2 minutes)
+* (optionnel) Matériel de TP, l'oscilloscope, guide de survie (10 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/biRfGAh3g-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvbWWGnyRoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) DiaN, Énergie mécanique pour une orbite elliptique ou circulaire ? (1 minutes)
+* (optionnel) Matériel de TP, mesures au multimètre en mode AC (4 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/naYH4SEFl2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6rNykh1Suns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

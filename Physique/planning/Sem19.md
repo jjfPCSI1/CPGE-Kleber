@@ -1,66 +1,74 @@
 
 # Vidéos à voir pour le lundi 12 février 2024, chapitre S8
 
-Durée totale en vitesse normale: 2 h et 59 minutes (plus 16 minutes en option)
+Durée totale en vitesse normale: 3 h et 12 minutes (plus 12 minutes en option)
 
 ## Liste avec liens vers YouTube
 
-*  [S8, filtrage linéaire, partie 1, signaux périodiques](https://youtu.be/bDLAx6rHOEk) (47 minutes)
-*  [S8, partie 2, notion de filtrage linéaire](https://youtu.be/uwV_NXLlfVA) (1 h et 0 minutes)
-*  [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA) (27 minutes)
-*  [S8, classification des divers filtres à disposition](https://youtu.be/tPdNomgUxTY) (45 minutes)
-* (optionnel) [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs) (5 minutes)
-* (optionnel) [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8) (7 minutes)
-* (optionnel) [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U) (4 minutes)
+*  [S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade](https://youtu.be/DKyddOdrxnQ) (26 minutes)
+*  [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA) (28 minutes)
+*  [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs) (22 minutes)
+*  [I1, Champ magnétique, partie 1](https://youtu.be/p2GF7quALM8) (30 minutes)
+*  [I1, Champ magnétique, partie 2](https://youtu.be/T88rg9_am0I) (1 h et 3 minutes)
+*  [I1, champ magnétique, partie 3](https://youtu.be/XBN0OlfytTU) (23 minutes)
+* (optionnel) [L'essentiel, un champ magnétique, c'est quoi ?](https://youtu.be/rc4548OyN3E) (7 minutes)
+* (optionnel) [Faisons Court (Ancien PCSI1) - Champ Magnétique et Electro-Aimant](https://youtu.be/abQcDpGsAsY) (5 minutes)
 
 ## Liste avec inclusion des vidéos
 
-*  S8, filtrage linéaire, partie 1, signaux périodiques (47 minutes)
+*  S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade (26 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bDLAx6rHOEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DKyddOdrxnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  S8, partie 2, notion de filtrage linéaire (1 h et 0 minutes)
+*  S8, partie 3 1, Amortisseurs de voiture (28 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uwV_NXLlfVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcE9slpzBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC (27 minutes)
+*  S8, partie 3 2, sismomètre et accéléromètre (22 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOaxb68D0TA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9cr4X7JFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-*  S8, classification des divers filtres à disposition (45 minutes)
+*  I1, Champ magnétique, partie 1 (30 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPdNomgUxTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2GF7quALM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre (5 minutes)
+*  I1, Champ magnétique, partie 2 (1 h et 3 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MA8YZNMTCTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T88rg9_am0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) L'essentiel, analyse qualitative d'un filtre du second ordre (7 minutes)
+*  I1, champ magnétique, partie 3 (23 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/04p7WE6VOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBN0OlfytTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 
-* (optionnel) Savoir faire, action d'un filtre à partir de son diagramme de Bode (4 minutes)
+* (optionnel) L'essentiel, un champ magnétique, c'est quoi ? (7 minutes)
 
  <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uuL6twOdx1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rc4548OyN3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+* (optionnel) Faisons Court (Ancien PCSI1) - Champ Magnétique et Electro-Aimant (5 minutes)
+
+ <div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abQcDpGsAsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
 

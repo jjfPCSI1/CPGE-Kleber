@@ -1,7 +1,8 @@
-Cours;Physique;T3;T3, partie 1, Transformations;https://youtu.be/DQzr9HLxfH8
-Cours;Physique;T3;T3, partie 2, Travail;https://youtu.be/aLZTNl_hCs8
-Cours;Physique;T3;T3, partie 2.3, Travaux usuels;https://youtu.be/6ytgvfGlsYM
-Cours;Physique;T3;T3, partie 3, transfert thermique;https://youtu.be/dZOeQvPfVi8
-# Optionnel 1
-Essentiel;Physique;T3;L'essentiel, comment travailler en prépa, euh, en thermo;https://youtu.be/U2_km104OcU
-Cours;Physique;T4;T4, partie 1, Premier principe;https://youtu.be/lmuawOKuajQ
+Cours;Physique;T4;T4, partie 2, la fonction enthalpie;https://youtu.be/tB-L3UYWwlg
+Cours;Physique;T4;T4, partie 3, enthalpie de changement d'état;https://youtu.be/nIGE2dd1Ikk
+Cours;Physique;T4;T4, partie 4, Premier principe en écoulement stationnaire;https://youtu.be/dY_RP5nvKag
+# Optionnel
+Essentiel;Physique;T4;L'essentiel, que faire face à un exercice de thermodynamique ?;https://youtu.be/eym5KnCWD10
+Essentiel;Physique;T4;L'essentiel, la mystérieuse fonction enthalpie;https://youtu.be/rpIq472lq4g
+Essentiel;Physique;T4;L'essentiel, premier principe de la thermodynamique;https://youtu.be/WT5vlr94fKc
+DiaN;Physique;T4;DiaN, premier principe en écoulement stationnaire;https://youtu.be/NDvnm8X7cCo

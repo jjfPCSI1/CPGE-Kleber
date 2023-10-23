@@ -1,3 +1,0 @@
-Cours;Physique;S11;S11, partie 1, Aspect corpusculaire de la lumière;https://youtu.be/D55aqpU5mfM
-Cours;Physique;S11;S11, partie 2, aspect ondulatoire de la matière;https://youtu.be/7CP0iHkhzeA
-Cours;Physique;S11;S11, partie 3, Oscillateur Harmonique Quantique, Puits infini et atome de Bohr;https://youtu.be/BQq1lKvCTlA

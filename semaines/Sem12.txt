@@ -1,12 +1,10 @@
-Cours;Physique;M3;M3, Approche énergétique, partie 1, Puissance et travail;https://youtu.be/Zvke_VeCS5Y
-Cours;Physique;M3;M3, partie 2, Théorème de la puissance cinétique et de l'énergie cinétique;https://youtu.be/2Jceu1A6-MQ
-Cours;Physique;M3;M3, parties 3.1 et 3.2, forces conservatives;https://youtu.be/ue5gcqn2cEY
-Cours;Physique;M3;M3, parties 3.3 à 3.5, énergies potentielles usuelles;https://youtu.be/0Dned2mGfko
-Cours;Physique;M3;M3, partie 4, Théorème de l'énergie mécanique;https://youtu.be/zKJyHBLNZw8
+Cours;Physique;M4;M4, parties 1.1 et 1.2, Systèmes à un degré de liberté;https://youtu.be/pomOptAqri0
+Cours;Physique;M4;M4, partie 1.3, Positions d'équilibre et graphe en énergie potentielle;https://youtu.be/sKaa3t1cTck
+Cours;Physique;M4;M4, partie 1.4.a, perle sur un cercle vertical sans frottement;https://youtu.be/tbHWSM9GIKM
+Cours;Physique;M4;M4, partie 1.4.b, Oscillateur de Landau;https://youtu.be/W53TNGzSHTQ
+Cours;Physique;M4;M4, partie 2.1, Oscillateurs, Approximation harmonique;https://youtu.be/kJxniEoaoRI
+Cours;Physique;M4;M4, partie 2.2, Oscillateur de Landau;https://youtu.be/wrLjlOuqwMQ
+Cours;Physique;M4;M4, partie 2.3, Oscillateur de Landau tilté;https://youtu.be/qRNo780xdgs
 # Optionnel
-Essentiel;Physique;M3;L'essentiel, approche énergétique du mouvement d'un point matériel;https://youtu.be/8AEfu_sqwHc
-DiaN;Physique;M3;DiaN, énergie potentielle élastique associée à un ressort;https://youtu.be/WvA-O1sxlno
-DiaN;Physique;M3;DiaN, énergies potentielles électrostatiques;https://youtu.be/q5zy9PDUJt4
-DiaN;Physique;M3;DiaN, énergie potentielle gravitationnelle;https://youtu.be/5wVOIGUBeeU
-DiaN;Physique;M3;DiaN, énergie potentielle de pesanteur;https://youtu.be/yHyfkUfpbEA
-DiaN;Physique;M3;DiaN, énergies potentielles usuelles en mécanique;https://youtu.be/qyTQ-9M155o
+Essentiel;Physique;M4;L'essentiel: les systèmes à un degré de liberté;https://youtu.be/E0L-pV_-w40
+DiaN;Physique;M4;DiaN, approximation harmonique pour l'énergie potentielle;https://youtu.be/LGK2IZ77hZc
