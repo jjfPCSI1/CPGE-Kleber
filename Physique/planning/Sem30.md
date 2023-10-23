@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 27 mai 2024, chapitre T6
+# Vidéos à voir pour le lundi 27 mai 2024, chapitre T0
 
 Durée totale en vitesse normale: 2 h et 30 minutes (plus 21 minutes en option)
 

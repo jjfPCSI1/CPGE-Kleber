@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 15 avril 2024, chapitre T2
+# Vidéos à voir pour le lundi 15 avril 2024, chapitres T3, T4
 
 Durée totale en vitesse normale: 3 h et 23 minutes (plus 5 minutes en option)
 

@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 15 janvier 2024, chapitre M6
+# Vidéos à voir pour le lundi 15 janvier 2024, chapitre M7
 
 Durée totale en vitesse normale: 2 h et 26 minutes (plus 19 minutes en option)
 

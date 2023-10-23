@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 01 avril 2024, chapitres I5, T0
+# Vidéos à voir pour le lundi 01 avril 2024, chapitre T1
 
 Durée totale en vitesse normale: 3 h et 23 minutes (plus 21 minutes en option)
 

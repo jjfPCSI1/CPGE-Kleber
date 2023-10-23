@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 19 février 2024, chapitres S8, I1
+# Vidéos à voir pour le lundi 19 février 2024, chapitre I2
 
 Durée totale en vitesse normale: 2 h et 13 minutes (plus 18 minutes en option)
 

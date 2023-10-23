@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 10 juin 2024, chapitre T0
+# Vidéos à voir pour le lundi 10 juin 2024, chapitre S9
 
 Durée totale en vitesse normale: 1 h et 22 minutes (plus 0 minutes en option)
 

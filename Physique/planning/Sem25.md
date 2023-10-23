@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 08 avril 2024, chapitre T1
+# Vidéos à voir pour le lundi 08 avril 2024, chapitre T2
 
 Durée totale en vitesse normale: 3 h et 47 minutes (plus 14 minutes en option)
 

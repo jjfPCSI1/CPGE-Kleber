@@ -1,5 +1,5 @@
 
-# Vidéos à voir pour le lundi 11 mars 2024, chapitre I2
+# Vidéos à voir pour le lundi 11 mars 2024, chapitres I3, I4
 
 Durée totale en vitesse normale: 2 h et 49 minutes (plus 20 minutes en option)
 
