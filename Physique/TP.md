@@ -20,6 +20,22 @@
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CuRzsw7NEkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+* [Focométrie 1, autocollimation](https://youtu.be/G52c-ukof3o)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G52c-ukof3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Focométrie 2, méthode de Silbermann](https://youtu.be/7XQyz407r4Q)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XQyz407r4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Focométrie 3, méthode de Bessel](https://youtu.be/hWHCcpRAB_g)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hWHCcpRAB_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Goniomètre, réglages et utilisation](https://youtu.be/M5z_kLhqUjM)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5z_kLhqUjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ### Electricité
@@ -31,6 +47,10 @@
 * [Matériel de TP, la plaque Sysam et LatisPro](https://youtu.be/YGyb_nnhLRU)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YGyb_nnhLRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Montage d'un circuit RL](https://youtu.be/WkP08qd9ViU)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkP08qd9ViU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 * [Expérience de l'échelon de tension sur un circuit RL non idéal](https://youtu.be/lXEHokd_dWo)
 <div style="text-align:center">
