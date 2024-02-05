@@ -16,6 +16,7 @@ chacun leur playlist. En particulier:
 
 * L'[essentiel du cours](Physique/Essentiel.html)
 * Les [vidéos de cours](Physique/Cours.html)
+* Les [TP-express](Physique/TP-express.html)
 * Les [corrections d'exercice](Physique/TD.html)
 * Les [démonstrations rapide](Physique/DiaN.html)
 * Les [expériences amusantes](Physique/Expérience.html)
