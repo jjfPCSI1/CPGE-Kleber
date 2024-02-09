@@ -18,7 +18,7 @@
 * TP14, [Mesure d'une constante de torsion](https://youtu.be/npo813iIWGI)
 * TP15, [Moment d'inertie d'un disque](https://youtu.be/eUC9_alYH7U)
 * TP16, [Oscilloscope et mesure d'impédance](https://youtu.be/oQwzkBbgo2U)
-* TP17, Premiers pas avec un filtre: None available yet...
+* TP17, [Comment bien calibrer sa FFT](https://youtu.be/Q6-sjgGFWiw)
 * TP18, Filtres d'ordre 1 et 2: None available yet...
 * TP19, [Module d'Young via soustracteur amplificateur à ALI](https://youtu.be/g9u4581LrVw)
 * TP20, [Mesure du champ magnétique terrestre](https://youtu.be/ZcyfI5hrGLA)
@@ -130,7 +130,12 @@
 </div>
 
 
-* TP17, Premiers pas avec un filtre: None available yet...
+* TP17, Comment bien calibrer sa FFT
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6-sjgGFWiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 * TP18, Filtres d'ordre 1 et 2: None available yet...
 * TP19, Module d'Young via soustracteur amplificateur à ALI
 <div style="text-align:center">
