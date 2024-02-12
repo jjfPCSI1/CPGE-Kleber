@@ -1,5 +1,5 @@
 
-# Planning de l'année 2022-2023
+# Planning de l'année 2023-2024
 
 Vous trouverez sur cette page les liens vers les vidéos à voir pour chaque
 semaine de l'année à chaque fois pour le lundi qui commence:
