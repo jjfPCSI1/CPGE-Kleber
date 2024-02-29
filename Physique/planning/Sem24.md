@@ -8,6 +8,8 @@ Durée totale en vitesse normale: 3 h et 23 minutes (plus 21 minutes en option)
 *  [T1, partie 1, théorie cinétique des gaz](https://youtu.be/ktCqwVC5n9s) (1 h et 18 minutes)
 *  [T1, partie 2, Vocabulaire thermodynamique](https://youtu.be/cUUJYNLDgTk) (1 h et 18 minutes)
 *  [T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3](https://youtu.be/bqJ-u8jQ-7I) (47 minutes)
+* Exos à préparer pour la semaine: TDT1, exos 9 et 10
+* Exos d'application directe: Cahier d'entraînement, exos 18.1, 18.2, 18.3, 18.6, 18.9, 18.12
 * (optionnel) [L'essentiel, notion d'énergie interne U](https://youtu.be/XKQ3HkihIv0) (6 minutes)
 * (optionnel) [L'essentiel, théorie cinétique des gaz](https://youtu.be/HsgYArgXnrA) (9 minutes)
 * (optionnel) [DiaN, notion de pression cinétique](https://youtu.be/UdODT76lFfk) (6 minutes)

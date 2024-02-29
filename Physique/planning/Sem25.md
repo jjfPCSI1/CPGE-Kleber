@@ -9,6 +9,7 @@ Durée totale en vitesse normale: 3 h et 47 minutes (plus 14 minutes en option)
 *  [T2, partie 2, présentation générale des changements d'état](https://youtu.be/CuhtpmLiEeE) (1 h et 13 minutes)
 *  [T2, partie 3, diagramme P,T](https://youtu.be/1ALJnYm5ZHM) (41 minutes)
 *  [T2, partie 4, équilibre liquide-vapeur](https://youtu.be/HH0Fcz-rouY) (1 h et 17 minutes)
+* Exos à préparer pour la semaine: TDT2, exos 9 et 10
 * (optionnel) [Savoir faire, passer de 1 à n moles](https://youtu.be/eoyVSGgZaAk) (2 minutes)
 * (optionnel) [Interpolation linéaire (1/3), principe](https://youtu.be/xhCcHVWayjA) (4 minutes)
 * (optionnel) [Interpolation linéaire (2/3), vision intuitive](https://youtu.be/S3VTX_4CyQ8) (4 minutes)

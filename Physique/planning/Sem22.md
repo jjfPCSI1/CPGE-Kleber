@@ -13,6 +13,7 @@ Durée totale en vitesse normale: 2 h et 49 minutes (plus 24 minutes en option)
 * (optionnel) [DiaN, rails de Laplace](https://youtu.be/4fgPDHTHclc) (5 minutes)
 *  [I5, Circuit fixe dans un champ variable, partie 1](https://youtu.be/Ntu3UQzxycw) (38 minutes)
 *  [I5, Circuit fixe dans un champ variable, partie 2](https://youtu.be/9Atn9WUvYV4) (35 minutes)
+* Exos à préparer pour la semaine: TDI5, exos 1 et 6
 
 ## Liste avec inclusion des vidéos
 
