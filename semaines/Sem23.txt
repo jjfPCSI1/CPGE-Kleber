@@ -1,6 +1,10 @@
 Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 3 (et 4);https://youtu.be/nNH3RYRSbDE
+Exos à préparer pour la semaine;Physique;I5;TDI5, exos 10 et 11;None
 Cours;Physique;T0;T0, début de l'hydrostatique;https://youtu.be/6SsroJWV3VM
 # Optionnel
 Essentiel;Physique;T0;L'essentiel, travail des forces pressantes sur un système thermodynamique;https://youtu.be/b9aoSWqzHP0
 Essentiel;Physique;T0;L'essentiel, notion de pression dans un fluide;https://youtu.be/4bo11_9oYXA
 DiaN;Physique;T0;DiaN, évolution de la pression pour le modèle de l'atmosphère isotherme;https://youtu.be/KbHYb5W-cVw
+Exos d'application directe;Physique;T0;Cahier d'entraînement, 21.1, 21.2, 21.3, 21.4, 21.5, 21.7, 21.8, 21.9, 21.10, 21.11, 21.17;None
+Exos à préparer pour la semaine;Physique;T0;TDT0, exos 1 et 2;None
+Exos d'approfondissement (optionnel);Physique;T0;Cahier d'entraînement, exos 21.12, 21.13, 21.14, 21.15;None

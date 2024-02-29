@@ -1,6 +1,8 @@
 Cours;Physique;T1;T1, partie 1, théorie cinétique des gaz;https://youtu.be/ktCqwVC5n9s
 Cours;Physique;T1;T1, partie 2, Vocabulaire thermodynamique;https://youtu.be/cUUJYNLDgTk
 Cours;Physique;T1;T1 (Description microscopique et macroscopique d'un système à l'équilibre), partie 3;https://youtu.be/bqJ-u8jQ-7I
+Exos à préparer pour la semaine;Physique;T1;TDT1, exos 9 et 10;None
+Exos d'application directe;Physique;T0;Cahier d'entraînement, exos 18.1, 18.2, 18.3, 18.6, 18.9, 18.12;None
 # Optionnel
 Essentiel;Physique;T1;L'essentiel, notion d'énergie interne U;https://youtu.be/XKQ3HkihIv0
 Essentiel;Physique;T1;L'essentiel, théorie cinétique des gaz;https://youtu.be/HsgYArgXnrA

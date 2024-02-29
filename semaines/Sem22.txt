@@ -7,3 +7,4 @@ Essentiel;Physique;I4;L'essentiel, principe du moteur à courant continu et entr
 DiaN;Physique;I4;DiaN, rails de Laplace;https://youtu.be/4fgPDHTHclc
 Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 1;https://youtu.be/Ntu3UQzxycw
 Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 2;https://youtu.be/9Atn9WUvYV4
+Exos à préparer pour la semaine;Physique;I5;TDI5, exos 1 et 6;None
