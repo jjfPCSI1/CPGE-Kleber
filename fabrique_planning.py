@@ -104,12 +104,15 @@ Durée totale en vitesse normale: DUREE
                 else:
                     opt = ''
                 type, matiere, chapitre, titre, lien = ligne.strip().split(';')
-                duree = DUREE[lien]
-                duree_totale += duree
-                if opt:
-                    duree_opt += duree
-                txt += generic.format(opt, titre, lien, heure_min(duree))
-                embedded += generic_embedded.format(opt, titre, heure_min(duree), embedded_video(lien))
+                if 'Exos' in type:
+                    txt += '* {}: {}\n'.format(type, titre)
+                else:
+                    duree = DUREE[lien]
+                    duree_totale += duree
+                    if opt:
+                        duree_opt += duree
+                    txt += generic.format(opt, titre, lien, heure_min(duree))
+                    embedded += generic_embedded.format(opt, titre, heure_min(duree), embedded_video(lien))
 
 
     with open('Physique/planning/{}.md'.format(semaine), 'w') as f:
