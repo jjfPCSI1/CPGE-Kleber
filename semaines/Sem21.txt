@@ -12,3 +12,4 @@ Savoir-faire;Physique;I3;Savoir faire, calculer le flux d'un champ magnétique a
 Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, partie I.1;https://youtu.be/-ilV49YxJxk
 Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3;https://youtu.be/O0X-MzXqo9E
 Exos à préparer pour la semaine;Physique;I4;TDI4, exos 1, 2 et 5;None
+Exos vraisemblablement faits dans la semaine;Physique;I4;TDI4, exos 10, 11, 12, 13, 14 et 15;None
