@@ -18,6 +18,7 @@ Durée totale en vitesse normale: 2 h et 49 minutes (plus 20 minutes en option)
 *  [I4, Circuit mobile dans un champ stationnaire, partie I.1](https://youtu.be/-ilV49YxJxk) (55 minutes)
 *  [I4, Circuit mobile dans un champ stationnaire, parties I.2 et I.3](https://youtu.be/O0X-MzXqo9E) (27 minutes)
 * Exos à préparer pour la semaine: TDI4, exos 1, 2 et 5
+* Exos vraisemblablement faits dans la semaine: TDI4, exos 10, 11, 12, 13, 14 et 15
 
 ## Liste avec inclusion des vidéos
 

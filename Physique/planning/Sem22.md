@@ -7,6 +7,7 @@ Durée totale en vitesse normale: 2 h et 49 minutes (plus 24 minutes en option)
 
 *  [I4, Circuit mobile dans un champ stationnaire, Partie II.1, moteur à entrefer plan](https://youtu.be/oLV2TIPk4p4) (42 minutes)
 *  [I4, Circuit mobile dans un champ stationnaire, partie II.2, Haut-parleur](https://youtu.be/xloTFWoS2L8) (54 minutes)
+* Exos vraisemblablement faits dans la semaine: TDI4, exos 17 et 19
 * (optionnel) [Faisons Court (Ancien PCSI1) - Forces de Laplace](https://youtu.be/LY8z7E-M_YY) (7 minutes)
 * (optionnel) [L'essentiel, analyse énergétique du système des rails de Laplace](https://youtu.be/IyYxY93i3r4) (6 minutes)
 * (optionnel) [L'essentiel, principe du moteur à courant continu et entrefer plan](https://youtu.be/3FQdNOgPfSI) (6 minutes)
@@ -14,6 +15,7 @@ Durée totale en vitesse normale: 2 h et 49 minutes (plus 24 minutes en option)
 *  [I5, Circuit fixe dans un champ variable, partie 1](https://youtu.be/Ntu3UQzxycw) (38 minutes)
 *  [I5, Circuit fixe dans un champ variable, partie 2](https://youtu.be/9Atn9WUvYV4) (35 minutes)
 * Exos à préparer pour la semaine: TDI5, exos 1 et 6
+* Exos vraisemblablement faits dans la semaine: TDI5, exos 3, 4 et 7
 
 ## Liste avec inclusion des vidéos
 

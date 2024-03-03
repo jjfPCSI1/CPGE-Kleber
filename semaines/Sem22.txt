@@ -1,5 +1,6 @@
 Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, Partie II.1, moteur à entrefer plan;https://youtu.be/oLV2TIPk4p4
 Cours;Physique;I4;I4, Circuit mobile dans un champ stationnaire, partie II.2, Haut-parleur;https://youtu.be/xloTFWoS2L8
+Exos vraisemblablement faits dans la semaine;Physique;I4;TDI4, exos 17 et 19;None
 # Optionnel 4
 Essentiel;Physique;I4;Faisons Court (Ancien PCSI1) - Forces de Laplace;https://youtu.be/LY8z7E-M_YY
 Essentiel;Physique;I4;L'essentiel, analyse énergétique du système des rails de Laplace;https://youtu.be/IyYxY93i3r4
@@ -8,3 +9,4 @@ DiaN;Physique;I4;DiaN, rails de Laplace;https://youtu.be/4fgPDHTHclc
 Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 1;https://youtu.be/Ntu3UQzxycw
 Cours;Physique;I5;I5, Circuit fixe dans un champ variable, partie 2;https://youtu.be/9Atn9WUvYV4
 Exos à préparer pour la semaine;Physique;I5;TDI5, exos 1 et 6;None
+Exos vraisemblablement faits dans la semaine;Physique;I5;TDI5, exos 3, 4 et 7;None
