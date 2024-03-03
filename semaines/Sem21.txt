@@ -2,7 +2,8 @@ Cours;Physique;I3;I3, loi de Faraday, partie 1;https://youtu.be/XZO-up9ttb0
 Cours;Physique;I3;I3, loi de Faraday, partie 2;https://youtu.be/X6mN1BHWx2Y
 Exos d'application directe;Physique;I3;Cahier d'entraînement, exos 16.4, 16.6, 17.2, 17.3, 17.6, 17.7, 17.9;None
 Exos d'approfondissement (optionnel);Physique;I3;Cahier d'entraînement, exos 16.5, 17.8;None
-Exos à préparer pour la semaine;Physique;I3;TDI3, exos 7 et 15;None
+Exos à préparer pour la semaine;Physique;I3;TDI3, exos 7 et 10;None
+Exos vraisemblablement faits dans la semaine;Physique;I3;TDI3, exos 1, 2, 3, 4, 11, 12 et 15;None
 # Optionnel 4
 Essentiel;Physique;I3;Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz;https://youtu.be/xXxS0f1ynPE
 Essentiel;Physique;I3;L'essentiel, utiliser la loi de Lenz;https://youtu.be/aoH1N9rMAxM

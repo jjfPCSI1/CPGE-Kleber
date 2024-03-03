@@ -9,7 +9,8 @@ Durée totale en vitesse normale: 2 h et 49 minutes (plus 20 minutes en option)
 *  [I3, loi de Faraday, partie 2](https://youtu.be/X6mN1BHWx2Y) (56 minutes)
 * Exos d'application directe: Cahier d'entraînement, exos 16.4, 16.6, 17.2, 17.3, 17.6, 17.7, 17.9
 * Exos d'approfondissement (optionnel): Cahier d'entraînement, exos 16.5, 17.8
-* Exos à préparer pour la semaine: TDI3, exos 7 et 15
+* Exos à préparer pour la semaine: TDI3, exos 7 et 10
+* Exos vraisemblablement faits dans la semaine: TDI3, exos 1, 2, 3, 4, 11, 12 et 15
 * (optionnel) [Faisons Court (Ancien PCSI1) - Lois de Faraday et de Lenz](https://youtu.be/xXxS0f1ynPE) (7 minutes)
 * (optionnel) [L'essentiel, utiliser la loi de Lenz](https://youtu.be/aoH1N9rMAxM) (4 minutes)
 * (optionnel) [L'essentiel, utiliser la loi de Faraday](https://youtu.be/mdgf9dzgGYY) (4 minutes)
