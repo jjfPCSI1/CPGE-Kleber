@@ -61,13 +61,13 @@ NB3: les TD ne sont pas (et de loin) tous corrigés, mais je ne désespère pas 
 
 ## Thermodynamique
 
-* T0, Statique des fluides: [Vidéos](T0.html)
-* T1, Approche microscopique et macroscopique d’un système à l’équilibre: [Vidéos](T1.html)
-* T2, Gaz réels, phases condensées et changement d’état: [Vidéos](T2.html)
-* T3, Energie échangée par un système lors d’une transformation: [Vidéos](T3.html)
-* T4, Premier principe de la thermodynamique, bilans d’énergie: [Vidéos](T4.html)
-* T5, Deuxième principe de la thermodynamique, bilans d’entropie: [Vidéos](T5.html)
-* T6, Machines thermiques: [Vidéos](T6.html)
+* T0, Statique des fluides: [Vidéos](T0.html), [notes de cours](pdf/T0_statique_des_fluides.pdf), [énoncés](pdf/tdT0_statique_des_fluides_enonce.pdf) et [corrigés (partiels)](pdf/tdT0_statique_des_fluides_corrige.pdf) des TD
+* T1, Approche microscopique et macroscopique d’un système à l’équilibre: [Vidéos](T1.html), [notes de cours](pdf/T1_description_micro_macro.pdf), [énoncés](pdf/tdT1_description_micro_macro_enonce.pdf) et [corrigés (partiels)](pdf/tdT1_description_micro_macro_corrige.pdf) des TD
+* T2, Gaz réels, phases condensées et changement d’état: [Vidéos](T2.html), [notes de cours](pdf/T2_changements_d_etats.pdf), [énoncés](pdf/tdT2_changements_d_etats_enonce.pdf) et [corrigés (partiels)](pdf/tdT2_changements_d_etats_corrige.pdf) des TD
+* T3, Energie échangée par un système lors d’une transformation: [Vidéos](T3.html), [notes de cours](pdf/T3_echanges_d_energie.pdf), [énoncés](pdf/tdT3_echanges_d_energie_enonce.pdf) et [corrigés (partiels)](pdf/tdT3_echanges_d_energie_corrige.pdf) des TD
+* T4, Premier principe de la thermodynamique, bilans d’énergie: [Vidéos](T4.html), [notes de cours](pdf/T4_premier_principe.pdf), [énoncés](pdf/tdT4_premier_principe_enonce.pdf) et [corrigés (partiels)](pdf/tdT4_premier_principe_corrige.pdf) des TD
+* T5, Deuxième principe de la thermodynamique, bilans d’entropie: [Vidéos](T5.html), [notes de cours](pdf/T5_deuxieme_principe.pdf), [énoncés](pdf/tdT5_second_principe_enonce.pdf) et [corrigés (partiels)](pdf/tdT5_second_principe_corrige.pdf) des TD
+* T6, Machines thermiques: [Vidéos](T6.html), [énoncés](pdf/tdT6_machines_thermiques_enonce.pdf) et [corrigés (partiels)](pdf/tdT6_machines_thermiques_corrige.pdf) des TD
 
 
 ## Phénomènes ondulatoires
