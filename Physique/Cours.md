@@ -108,66 +108,6 @@
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmoHDhehZrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-* [S7, partie 1, régime sinusoïdal forcé et notation complexe](https://youtu.be/mtbVY64U7fQ)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mtbVY64U7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 2, impédance complexe](https://youtu.be/oarBKzvv-FM)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oarBKzvv-FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant](https://youtu.be/Q1JAPjF6Z6g)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1JAPjF6Z6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité](https://youtu.be/TlPN5o4QIpQ)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TlPN5o4QIpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3 2 c suite, lien entre facteur de qualité et largeur de résonance](https://youtu.be/9LMPM6-Wtjw)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9LMPM6-Wtjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3.2.c fin, pourquoi parle t on de résonance en intensité ou en vitesse](https://youtu.be/Xgk6TQCdh2U)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xgk6TQCdh2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3.3, rôle du facteur de qualité dans la résonance en tension ou en élongation](https://youtu.be/RuAecK6hZ9c)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RuAecK6hZ9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S7, partie 3.4 Détermination de w0 et Q à partir de graphes expérimentaux](https://youtu.be/OaDKCosR2VM)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OaDKCosR2VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, filtrage linéaire, partie 1, signaux périodiques](https://youtu.be/bDLAx6rHOEk)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bDLAx6rHOEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, partie 2, notion de filtrage linéaire](https://youtu.be/uwV_NXLlfVA)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uwV_NXLlfVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOaxb68D0TA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, classification des divers filtres à disposition](https://youtu.be/tPdNomgUxTY)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPdNomgUxTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade](https://youtu.be/DKyddOdrxnQ)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DKyddOdrxnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcE9slpzBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9cr4X7JFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ### Mécanique
@@ -427,6 +367,70 @@
 * [M7, Complément sur la géométrie des ellipses](https://youtu.be/38K4JBt8J_w)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38K4JBt8J_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### Electricité & Mécanique
+
+* [S7, partie 1, régime sinusoïdal forcé et notation complexe](https://youtu.be/mtbVY64U7fQ)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtbVY64U7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 2, impédance complexe](https://youtu.be/oarBKzvv-FM)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oarBKzvv-FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3 1 et 3 2, étude qualitative de la résonance en courant](https://youtu.be/Q1JAPjF6Z6g)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1JAPjF6Z6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3 2 c, amplitude et déphasage pour la résonance en intensité](https://youtu.be/TlPN5o4QIpQ)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TlPN5o4QIpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3 2 c suite, lien entre facteur de qualité et largeur de résonance](https://youtu.be/9LMPM6-Wtjw)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LMPM6-Wtjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3.2.c fin, pourquoi parle t on de résonance en intensité ou en vitesse](https://youtu.be/Xgk6TQCdh2U)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xgk6TQCdh2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3.3, rôle du facteur de qualité dans la résonance en tension ou en élongation](https://youtu.be/RuAecK6hZ9c)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuAecK6hZ9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S7, partie 3.4 Détermination de w0 et Q à partir de graphes expérimentaux](https://youtu.be/OaDKCosR2VM)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OaDKCosR2VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, filtrage linéaire, partie 1, signaux périodiques](https://youtu.be/bDLAx6rHOEk)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDLAx6rHOEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, partie 2, notion de filtrage linéaire](https://youtu.be/uwV_NXLlfVA)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwV_NXLlfVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, partie 2 2 d, Construction pratique d'un diagramme de Bode, exemple du filtre RC](https://youtu.be/iOaxb68D0TA)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOaxb68D0TA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, classification des divers filtres à disposition](https://youtu.be/tPdNomgUxTY)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPdNomgUxTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, parties 2 3 à 2 5, gabarit, usages détournés, mise en cascade](https://youtu.be/DKyddOdrxnQ)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DKyddOdrxnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, partie 3 1, Amortisseurs de voiture](https://youtu.be/EJcE9slpzBA)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcE9slpzBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [S8, partie 3 2, sismomètre et accéléromètre](https://youtu.be/Wq9cr4X7JFs)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9cr4X7JFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

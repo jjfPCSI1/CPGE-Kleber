@@ -34,34 +34,6 @@
 </div>
 
 
-### Electricité & Mécanique
-
-* [Représentation de Fresnel (1/3), principe](https://youtu.be/L7qd21sR5nU)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L7qd21sR5nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [Représentation de Fresnel (2/3), application à l'addition de deux signaux](https://youtu.be/s9LVY44vB7s)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s9LVY44vB7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [Application de la représentation de Fresnel (3/3), quelques exemples](https://youtu.be/lnbqEsXiMdA)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lnbqEsXiMdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [Savoir faire, Déterminer w0 et Q pour une résonance en vitesse à partir de graphes expérimentaux](https://youtu.be/mS3E9z6hokM)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mS3E9z6hokM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [Savoir faire, Détermination de Q et w0 pour une résonance en élongation](https://youtu.be/lijzDI59sUE)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lijzDI59sUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uuL6twOdx1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 ### Mécanique
 
 * [Savoir-faire, projeter un vecteur sur une base orthonormée](https://youtu.be/s_lBmr_1zBo)
@@ -87,6 +59,34 @@
 * [Savoir-faire: moment du poids pour le pendule simple](https://youtu.be/GHK-nEhEP_g)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GHK-nEhEP_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### Electricité & Mécanique
+
+* [Représentation de Fresnel (1/3), principe](https://youtu.be/L7qd21sR5nU)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7qd21sR5nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Représentation de Fresnel (2/3), application à l'addition de deux signaux](https://youtu.be/s9LVY44vB7s)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9LVY44vB7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Application de la représentation de Fresnel (3/3), quelques exemples](https://youtu.be/lnbqEsXiMdA)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnbqEsXiMdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Savoir faire, Déterminer w0 et Q pour une résonance en vitesse à partir de graphes expérimentaux](https://youtu.be/mS3E9z6hokM)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mS3E9z6hokM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Savoir faire, Détermination de Q et w0 pour une résonance en élongation](https://youtu.be/lijzDI59sUE)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lijzDI59sUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Savoir faire, action d'un filtre à partir de son diagramme de Bode](https://youtu.be/uuL6twOdx1U)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuL6twOdx1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -119,6 +119,10 @@
 * [Interpolation linéaire (3/3), application pratique](https://youtu.be/Bgi1SMRQ2vA)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bgi1SMRQ2vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [Interpolation linéaire par théorème de Thalès](https://youtube.com/shorts/joDMRQ--gLY?feature=share)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://youtube.com/shorts/joDMRQ--gLY?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

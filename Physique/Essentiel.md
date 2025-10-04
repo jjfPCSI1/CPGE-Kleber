@@ -48,14 +48,6 @@
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EMBQCbn9n6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-* [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MA8YZNMTCTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-* [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8)
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/04p7WE6VOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 ### Mécanique
@@ -99,6 +91,18 @@
 * [L'essentiel, mouvement dans un champ de force centrale conservatif](https://youtu.be/eJDIWLQ1f1M)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJDIWLQ1f1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### Electricité & Mécanique
+
+* [L'essentiel, reconnaître la fonction de transfert d'un filtre du premier ordre](https://youtu.be/MA8YZNMTCTs)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MA8YZNMTCTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [L'essentiel, analyse qualitative d'un filtre du second ordre](https://youtu.be/04p7WE6VOu8)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04p7WE6VOu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

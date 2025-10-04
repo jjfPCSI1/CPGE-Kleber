@@ -17,6 +17,7 @@ chacun leur playlist. En particulier:
 * L'[essentiel du cours](Physique/Essentiel.html)
 * Les [vidéos de cours](Physique/Cours.html)
 * Les [TP-express](Physique/TP-express.html)
+* Les [PrepaTD](Physique/PrepaTD.html) pour préparer en amont le TD à venir
 * Les [corrections d'exercice](Physique/TD.html)
 * Les [démonstrations rapide](Physique/DiaN.html)
 * Les [expériences amusantes](Physique/Expérience.html)
@@ -52,8 +53,6 @@ chacun leur playlist. En particulier:
 
 * [Oscillateurs amortis, régime libre](Physique/S5.html) 
 * [Oscillateur harmonique](Physique/S6.html) 
-* [Oscillateurs amortis, régime sinusoïdal forcé](Physique/S7.html) 
-* [Filtrage linéaire](Physique/S8.html) 
 
 
 ### Mécanique
@@ -66,6 +65,12 @@ chacun leur playlist. En particulier:
 * [Mouvement de particules chargées](Physique/M5.html) 
 * [Mouvement d’un solide autour d’un axe fixe, théorème du moment cinétique](Physique/M6.html) 
 * [Mouvement dans un champ de force centrale conservatif](Physique/M7.html) 
+
+
+### Electricité & Mécanique
+
+* [Oscillateurs amortis, régime sinusoïdal forcé](Physique/S7.html) 
+* [Filtrage linéaire](Physique/S8.html) 
 
 
 ### Induction

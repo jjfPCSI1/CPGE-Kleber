@@ -9,7 +9,8 @@ ASSOC_TYPES = {'DiaN': 'Démos in a Nutshell',
                'Pardef': 'Par définition',
                'TP': 'Savoirs-faire de TP', 
                'Animation': 'Animations',
-               'PM': 'Points méthode'}
+               'PM': 'Points méthode',
+               'PrepaTD': 'PrépaTD'}
 
 def lecture_chap(fichier):
     DICO = {}
