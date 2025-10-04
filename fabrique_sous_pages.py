@@ -42,6 +42,7 @@ def lecture_donnees(fichier):
 
 
 def embedded_video(lien):
+    lien = lien.replace('youtube.com/shorts/', 'youtu.be/')
     video_inline = lien.replace('https://youtu.be/', 'https://www.youtube.com/embed/')
     return """<div style="text-align:center">
 <iframe width="560" height="315" src="{}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
