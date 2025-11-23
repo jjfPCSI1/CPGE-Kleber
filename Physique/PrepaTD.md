@@ -50,6 +50,34 @@
 </div>
 
 
+### Electricité & Mécanique
+
+* [PrepaTD: étincelle de rupture, énoncé](https://youtube.com/shorts/D0sZ3RgLxxg)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0sZ3RgLxxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [PrepaTD: étincelle de rupture, corrigé](https://youtu.be/Y2EC2-_nvac)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2EC2-_nvac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### Mécanique
+
+* [PrepaTD: cinématique, traversée de bateau à la dérive, énoncé](https://youtube.com/shorts/HWYg5fA261Q?feature=share)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWYg5fA261Q?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [PrepaTD: cinématique, traversée de bateau à la dérive, corrigé](https://youtu.be/IfQhfxk4bhM)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfQhfxk4bhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+* [PrepaTD: équilibre de ressorts, énoncé](https://youtube.com/shorts/-xZeExU0kQk?feature=share)
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xZeExU0kQk?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ### Induction
 
 * [PrepaTD: Charge d'un condensateur par induction, énoncé](https://youtube.com/shorts/rkMQLM7IWGo?feature=share)
