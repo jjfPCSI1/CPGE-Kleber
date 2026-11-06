@@ -33,16 +33,20 @@ for chapitre, details in chapitres_tries:
     pdf = ''
     tde = ''
     tdc = ''
+    tdi = ''
     liste = glob.glob('Physique/pdf/{}*.pdf'.format(C))
     if len(liste) > 0: pdf = liste[0].replace('Physique/','')
     liste = glob.glob('Physique/pdf/td{}*enonce.pdf'.format(C))
     if len(liste) > 0: tde = liste[0].replace('Physique/','')
+    liste = glob.glob('Physique/pdf/td{}*indications.pdf'.format(C))
+    if len(liste) > 0: tdi = liste[0].replace('Physique/','')
     liste = glob.glob('Physique/pdf/td{}*corrige.pdf'.format(C))
     if len(liste) > 0: tdc = liste[0].replace('Physique/','')
     print(f"Chapitre: {chapitre}, Ordre: {details['Ordre']}", pdf)
     s += '* {}, {}: [Vidéos]({}.html)'.format(chapitre, details['Titre'], chapitre)
     if pdf != '': s+= ', [notes de cours]({})'.format(pdf)
     if tde != '': s+= ', [énoncés]({})'.format(tde)
+    if tdi != '': s+= ', [indications]({})'.format(tdi)
     if tdc != '': s+= ' et [corrigés (partiels)]({})'.format(tdc)
     if tde != '': s+= ' des TD'
     s += '\n'
